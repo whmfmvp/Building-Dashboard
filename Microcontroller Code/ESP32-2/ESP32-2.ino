@@ -126,6 +126,6 @@ void displayDigit(MD_MAX72XX& mx, int digit, int offset) {
   };
 
   for (int i = 0; i < 4; i++) {
-    mx.setColumn(7 - (offset + i), digits[digit][i]);  // 设置每一列
+    mx.setColumn(7 - (offset + i), digits[digit][i]);  
   }
 }
