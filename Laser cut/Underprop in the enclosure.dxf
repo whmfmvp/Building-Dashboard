@@ -489,19 +489,19 @@ $SKPOLY
   9
 $TDCREATE
  40
-2460531.363935185
+2460544.624490741
   9
 $TDUCREATE
  40
-2460531.363935185
+2460544.624490741
   9
 $TDUPDATE
  40
-2460531.363935185
+2460544.624490741
   9
 $TDUUPDATE
  40
-2460531.363935185
+2460544.624490741
   9
 $TDINDWG
  40
@@ -929,11 +929,11 @@ $PSTYLEMODE
   9
 $FINGERPRINTGUID
   2
-{AF8EF184-35B4-074E-9CF6-F5200BE8E989}
+{E51433D2-DFD7-BF4D-A56D-B012C2C7FF0F}
   9
 $VERSIONGUID
   2
-{4908AD69-CDEB-7E43-90D0-1DB67EBAF48C}
+{21356CC7-54E2-2648-84E3-A7A9D45DA152}
   9
 $EXTNAMES
 290
@@ -1557,7 +1557,7 @@ AcDbSymbolTableRecord
 100
 AcDbLayerTableRecord
   2
-underprop v2 v1_front_outsideCutPath
+underprop v2 v2_front_outsideCutPath
  70
      0
  62
@@ -1587,7 +1587,7 @@ AcDbSymbolTableRecord
 100
 AcDbLayerTableRecord
   2
-underprop v2 v1_left_outsideCutPath
+underprop v2 v2_left_outsideCutPath
  70
      0
  62
@@ -1617,7 +1617,7 @@ AcDbSymbolTableRecord
 100
 AcDbLayerTableRecord
   2
-underprop v2 v1_top_outsideCutPath
+underprop v2 v2_top_outsideCutPath
  70
      0
  62
@@ -1647,7 +1647,7 @@ AcDbSymbolTableRecord
 100
 AcDbLayerTableRecord
   2
-underprop v2 v1_back_outsideCutPath
+underprop v2 v2_back_outsideCutPath
  70
      0
  62
@@ -1677,7 +1677,7 @@ AcDbSymbolTableRecord
 100
 AcDbLayerTableRecord
   2
-underprop v2 v1_right_outsideCutPath
+underprop v2 v2_right_outsideCutPath
  70
      0
  62
@@ -1707,7 +1707,7 @@ AcDbSymbolTableRecord
 100
 AcDbLayerTableRecord
   2
-underprop v2 v1_bottom_outsideCutPath
+underprop v2 v2_bottom_outsideCutPath
  70
      0
  62
@@ -1737,7 +1737,7 @@ AcDbSymbolTableRecord
 100
 AcDbLayerTableRecord
   2
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
  70
      0
  62
@@ -2217,7 +2217,7 @@ POINT
 100
 AcDbEntity
   8
-underprop v2 v1_front_outsideCutPath
+underprop v2 v2_front_outsideCutPath
 100
 AcDbPoint
  10
@@ -2235,17 +2235,17 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_front_outsideCutPath
+underprop v2 v2_front_outsideCutPath
 100
 AcDbLine
  10
-128.4375
+494.4374999999999
  20
 6.0
  30
 0.0
  11
-151.3125
+517.3124999999999
  21
 6.0
  31
@@ -2259,17 +2259,17 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_front_outsideCutPath
+underprop v2 v2_front_outsideCutPath
 100
 AcDbLine
  10
-334.3125
+517.3124999999999
  20
 6.0
  30
 0.0
  11
-334.3125
+517.3124999999999
  21
 3.0
  31
@@ -2283,17 +2283,17 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_front_outsideCutPath
+underprop v2 v2_front_outsideCutPath
 100
 AcDbLine
  10
-334.3125
+563.0625
  20
 3.0
  30
 0.0
  11
-357.1875
+585.9375
  21
 3.0
  31
@@ -2307,19 +2307,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_front_outsideCutPath
+underprop v2 v2_front_outsideCutPath
 100
 AcDbLine
  10
-357.1875
+585.9375
  20
-6.0
+3.0
  30
 0.0
  11
-380.0625
+600.0
  21
-6.0
+3.0
  31
 0.0
   0
@@ -2331,19 +2331,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_front_outsideCutPath
+underprop v2 v2_front_outsideCutPath
 100
 AcDbLine
  10
-380.0625
+600.0
  20
-6.0
+44.4375
  30
 0.0
  11
-380.0625
+600.0
  21
-3.0
+63.0
  31
 0.0
   0
@@ -2355,19 +2355,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_front_outsideCutPath
+underprop v2 v2_front_outsideCutPath
 100
 AcDbLine
  10
-380.0625
+540.1875
  20
 3.0
  30
 0.0
  11
-402.9374999999999
+540.1875
  21
-3.0
+6.0
  31
 0.0
   0
@@ -2379,17 +2379,17 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_front_outsideCutPath
+underprop v2 v2_front_outsideCutPath
 100
 AcDbLine
  10
-174.1875
+311.4375
  20
-6.0
+3.0
  30
 0.0
  11
-197.0625
+311.4375
  21
 6.0
  31
@@ -2403,19 +2403,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_front_outsideCutPath
+underprop v2 v2_front_outsideCutPath
 100
 AcDbLine
  10
-3.0
+219.9375
  20
-21.5625
+6.0
  30
 0.0
  11
-0.0
+242.8125
  21
-21.5625
+6.0
  31
 0.0
   0
@@ -2427,19 +2427,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_front_outsideCutPath
+underprop v2 v2_front_outsideCutPath
 100
 AcDbLine
  10
-174.1875
+540.1875
  20
-3.0
+63.0
  30
 0.0
  11
-174.1875
+517.3124999999999
  21
-6.0
+63.0
  31
 0.0
   0
@@ -2451,19 +2451,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_front_outsideCutPath
+underprop v2 v2_front_outsideCutPath
 100
 AcDbLine
  10
-402.9374999999999
+600.0
  20
-3.0
+21.5625
  30
 0.0
  11
-402.9374999999999
+597.0
  21
-6.0
+21.5625
  31
 0.0
   0
@@ -2475,19 +2475,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_front_outsideCutPath
+underprop v2 v2_front_outsideCutPath
 100
 AcDbLine
  10
-402.9374999999999
+517.3124999999999
  20
-6.0
+60.0
  30
 0.0
  11
-425.8124999999999
+494.4374999999999
  21
-6.0
+60.0
  31
 0.0
   0
@@ -2499,19 +2499,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_front_outsideCutPath
+underprop v2 v2_front_outsideCutPath
 100
 AcDbLine
  10
-82.6875
+494.4374999999999
  20
-3.0
+63.0
  30
 0.0
  11
-82.6875
+471.5625
  21
-6.0
+63.0
  31
 0.0
   0
@@ -2523,19 +2523,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_front_outsideCutPath
+underprop v2 v2_front_outsideCutPath
 100
 AcDbLine
  10
 425.8125
  20
-6.0
+63.0
  30
 0.0
  11
 425.8125
  21
-3.0
+60.0
  31
 0.0
   0
@@ -2547,17 +2547,17 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_front_outsideCutPath
+underprop v2 v2_front_outsideCutPath
 100
 AcDbLine
  10
-151.3125
+242.8125
  20
 3.0
  30
 0.0
  11
-174.1875
+265.6875
  21
 3.0
  31
@@ -2571,19 +2571,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_front_outsideCutPath
+underprop v2 v2_front_outsideCutPath
 100
 AcDbLine
  10
-425.8125
+540.1875
  20
-3.0
+6.0
  30
 0.0
  11
-448.6875
+563.0625
  21
-3.0
+6.0
  31
 0.0
   0
@@ -2595,19 +2595,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_front_outsideCutPath
+underprop v2 v2_front_outsideCutPath
 100
 AcDbLine
  10
-448.6875
+380.0625
  20
-3.0
+6.0
  30
 0.0
  11
-448.6875
+380.0625
  21
-6.0
+3.0
  31
 0.0
   0
@@ -2619,17 +2619,17 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_front_outsideCutPath
+underprop v2 v2_front_outsideCutPath
 100
 AcDbLine
  10
-265.6875
+448.6875
  20
-6.0
+3.0
  30
 0.0
  11
-288.5625
+448.6875
  21
 6.0
  31
@@ -2643,19 +2643,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_front_outsideCutPath
+underprop v2 v2_front_outsideCutPath
 100
 AcDbLine
  10
-3.0
+425.8125
  20
-44.4375
+6.0
  30
 0.0
  11
-3.0
+425.8125
  21
-21.5625
+3.0
  31
 0.0
   0
@@ -2667,19 +2667,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_front_outsideCutPath
+underprop v2 v2_front_outsideCutPath
 100
 AcDbLine
  10
-36.9375
+597.0
  20
-3.0
+44.4375
  30
 0.0
  11
-36.9375
+600.0
  21
-6.0
+44.4375
  31
 0.0
   0
@@ -2691,19 +2691,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_front_outsideCutPath
+underprop v2 v2_front_outsideCutPath
 100
 AcDbLine
  10
-151.3125
+600.0
  20
-6.0
+3.0
  30
 0.0
  11
-151.3125
+600.0
  21
-3.0
+21.5625
  31
 0.0
   0
@@ -2715,19 +2715,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_front_outsideCutPath
+underprop v2 v2_front_outsideCutPath
 100
 AcDbLine
  10
-197.0625
+600.0
  20
-6.0
+63.0
  30
 0.0
  11
-197.0625
+563.0625
  21
-3.0
+63.0
  31
 0.0
   0
@@ -2739,19 +2739,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_front_outsideCutPath
+underprop v2 v2_front_outsideCutPath
 100
 AcDbLine
  10
-59.8125
+517.3124999999999
  20
-6.0
+63.0
  30
 0.0
  11
-59.8125
+517.3124999999999
  21
-3.0
+60.0
  31
 0.0
   0
@@ -2763,19 +2763,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_front_outsideCutPath
+underprop v2 v2_front_outsideCutPath
 100
 AcDbLine
  10
-82.6875
+563.0625
  20
-6.0
+60.0
  30
 0.0
  11
-105.5625
+540.1875
  21
-6.0
+60.0
  31
 0.0
   0
@@ -2787,17 +2787,17 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_front_outsideCutPath
+underprop v2 v2_front_outsideCutPath
 100
 AcDbLine
  10
-288.5625
+563.0625
  20
 6.0
  30
 0.0
  11
-288.5625
+563.0625
  21
 3.0
  31
@@ -2811,19 +2811,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_front_outsideCutPath
+underprop v2 v2_front_outsideCutPath
 100
 AcDbLine
  10
-288.5625
+563.0625
  20
-3.0
+63.0
  30
 0.0
  11
-311.4375
+563.0625
  21
-3.0
+60.0
  31
 0.0
   0
@@ -2835,19 +2835,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_front_outsideCutPath
+underprop v2 v2_front_outsideCutPath
 100
 AcDbLine
  10
-357.1875
+471.5625
  20
-3.0
+63.0
  30
 0.0
  11
-357.1875
+471.5625
  21
-6.0
+60.0
  31
 0.0
   0
@@ -2859,19 +2859,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_front_outsideCutPath
+underprop v2 v2_front_outsideCutPath
 100
 AcDbLine
  10
-105.5625
+471.5625
  20
-3.0
+60.0
  30
 0.0
  11
-128.4375
+448.6875
  21
-3.0
+60.0
  31
 0.0
   0
@@ -2883,19 +2883,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_front_outsideCutPath
+underprop v2 v2_front_outsideCutPath
 100
 AcDbLine
  10
-197.0625
+448.6875
  20
-3.0
+63.0
  30
 0.0
  11
-219.9375
+425.8125
  21
-3.0
+63.0
  31
 0.0
   0
@@ -2907,1399 +2907,7 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-59.8125
- 20
-3.0
- 30
-0.0
- 11
-82.6875
- 21
-3.0
- 31
-0.0
-  0
-LINE
-  5
-99
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-36.9375
- 20
-6.0
- 30
-0.0
- 11
-59.8125
- 21
-6.0
- 31
-0.0
-  0
-LINE
-  5
-9A
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-0.0
- 20
-21.5625
- 30
-0.0
- 11
-0.0
- 21
-3.0
- 31
-0.0
-  0
-LINE
-  5
-9B
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-219.9375
- 20
-6.0
- 30
-0.0
- 11
-242.8125
- 21
-6.0
- 31
-0.0
-  0
-LINE
-  5
-9C
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-219.9375
- 20
-3.0
- 30
-0.0
- 11
-219.9375
- 21
-6.0
- 31
-0.0
-  0
-LINE
-  5
-9D
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-242.8125
- 20
-3.0
- 30
-0.0
- 11
-265.6875
- 21
-3.0
- 31
-0.0
-  0
-LINE
-  5
-9E
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-0.0
- 20
-44.4375
- 30
-0.0
- 11
-3.0
- 21
-44.4375
- 31
-0.0
-  0
-LINE
-  5
-9F
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-105.5625
- 20
-6.0
- 30
-0.0
- 11
-105.5625
- 21
-3.0
- 31
-0.0
-  0
-LINE
-  5
-A0
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-0.0
- 20
-63.0
- 30
-0.0
- 11
-0.0
- 21
-44.4375
- 31
-0.0
-  0
-LINE
-  5
-A1
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-128.4375
- 20
-3.0
- 30
-0.0
- 11
-128.4375
- 21
-6.0
- 31
-0.0
-  0
-LINE
-  5
-A2
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-0.0
- 20
-3.0
- 30
-0.0
- 11
-36.9375
- 21
-3.0
- 31
-0.0
-  0
-LINE
-  5
-A3
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-265.6875
- 20
-3.0
- 30
-0.0
- 11
-265.6875
- 21
-6.0
- 31
-0.0
-  0
-LINE
-  5
-A4
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-242.8125
- 20
-6.0
- 30
-0.0
- 11
-242.8125
- 21
-3.0
- 31
-0.0
-  0
-LINE
-  5
-A5
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-311.4375
- 20
-3.0
- 30
-0.0
- 11
-311.4375
- 21
-6.0
- 31
-0.0
-  0
-LINE
-  5
-A6
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-311.4375
- 20
-6.0
- 30
-0.0
- 11
-334.3125
- 21
-6.0
- 31
-0.0
-  0
-LINE
-  5
-A7
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-151.3125
- 20
-60.0
- 30
-0.0
- 11
-128.4375
- 21
-60.0
- 31
-0.0
-  0
-LINE
-  5
-A8
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-563.0625
- 20
-60.0
- 30
-0.0
- 11
-540.1875
- 21
-60.0
- 31
-0.0
-  0
-LINE
-  5
-A9
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-494.4374999999999
- 20
-63.0
- 30
-0.0
- 11
-471.5625
- 21
-63.0
- 31
-0.0
-  0
-LINE
-  5
-AA
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-128.4375
- 20
-60.0
- 30
-0.0
- 11
-128.4375
- 21
-63.0
- 31
-0.0
-  0
-LINE
-  5
-AB
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-128.4375
- 20
-63.0
- 30
-0.0
- 11
-105.5625
- 21
-63.0
- 31
-0.0
-  0
-LINE
-  5
-AC
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-105.5625
- 20
-60.0
- 30
-0.0
- 11
-82.6875
- 21
-60.0
- 31
-0.0
-  0
-LINE
-  5
-AD
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-597.0
- 20
-21.5625
- 30
-0.0
- 11
-597.0
- 21
-44.4375
- 31
-0.0
-  0
-LINE
-  5
-AE
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-82.6875
- 20
-63.0
- 30
-0.0
- 11
-59.81249999999999
- 21
-63.0
- 31
-0.0
-  0
-LINE
-  5
-AF
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-597.0
- 20
-44.4375
- 30
-0.0
- 11
-600.0
- 21
-44.4375
- 31
-0.0
-  0
-LINE
-  5
-B0
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-59.8125
- 20
-63.0
- 30
-0.0
- 11
-59.8125
- 21
-60.0
- 31
-0.0
-  0
-LINE
-  5
-B1
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-59.8125
- 20
-60.0
- 30
-0.0
- 11
-36.9375
- 21
-60.0
- 31
-0.0
-  0
-LINE
-  5
-B2
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-540.1875
- 20
-6.0
- 30
-0.0
- 11
-563.0625
- 21
-6.0
- 31
-0.0
-  0
-LINE
-  5
-B3
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-82.6875
- 20
-60.0
- 30
-0.0
- 11
-82.6875
- 21
-63.0
- 31
-0.0
-  0
-LINE
-  5
-B4
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-265.6875
- 20
-60.0
- 30
-0.0
- 11
-265.6875
- 21
-63.0
- 31
-0.0
-  0
-LINE
-  5
-B5
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-448.6875
- 20
-63.0
- 30
-0.0
- 11
-425.8125
- 21
-63.0
- 31
-0.0
-  0
-LINE
-  5
-B6
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-425.8125
- 20
-63.0
- 30
-0.0
- 11
-425.8125
- 21
-60.0
- 31
-0.0
-  0
-LINE
-  5
-B7
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-600.0
- 20
-21.5625
- 30
-0.0
- 11
-597.0
- 21
-21.5625
- 31
-0.0
-  0
-LINE
-  5
-B8
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-197.0625
- 20
-60.0
- 30
-0.0
- 11
-174.1875
- 21
-60.0
- 31
-0.0
-  0
-LINE
-  5
-B9
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-517.3124999999999
- 20
-63.0
- 30
-0.0
- 11
-517.3124999999999
- 21
-60.0
- 31
-0.0
-  0
-LINE
-  5
-BA
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-105.5625
- 20
-63.0
- 30
-0.0
- 11
-105.5625
- 21
-60.0
- 31
-0.0
-  0
-LINE
-  5
-BB
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-471.5625
- 20
-6.0
- 30
-0.0
- 11
-471.5625
- 21
-3.0
- 31
-0.0
-  0
-LINE
-  5
-BC
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-517.3124999999999
- 20
-3.0
- 30
-0.0
- 11
-540.1875
- 21
-3.0
- 31
-0.0
-  0
-LINE
-  5
-BD
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-600.0
- 20
-3.0
- 30
-0.0
- 11
-600.0
- 21
-21.5625
- 31
-0.0
-  0
-LINE
-  5
-BE
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-517.3124999999999
- 20
-6.0
- 30
-0.0
- 11
-517.3124999999999
- 21
-3.0
- 31
-0.0
-  0
-LINE
-  5
-BF
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-494.4374999999999
- 20
-60.0
- 30
-0.0
- 11
-494.4374999999999
- 21
-63.0
- 31
-0.0
-  0
-LINE
-  5
-C0
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-357.1875
- 20
-63.0
- 30
-0.0
- 11
-334.3125
- 21
-63.0
- 31
-0.0
-  0
-LINE
-  5
-C1
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-494.4374999999999
- 20
-3.0
- 30
-0.0
- 11
-494.4374999999999
- 21
-6.0
- 31
-0.0
-  0
-LINE
-  5
-C2
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-600.0
- 20
-63.0
- 30
-0.0
- 11
-563.0625
- 21
-63.0
- 31
-0.0
-  0
-LINE
-  5
-C3
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-448.6875
- 20
-60.0
- 30
-0.0
- 11
-448.6875
- 21
-63.0
- 31
-0.0
-  0
-LINE
-  5
-C4
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-563.0625
- 20
-63.0
- 30
-0.0
- 11
-563.0625
- 21
-60.0
- 31
-0.0
-  0
-LINE
-  5
-C5
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-402.9374999999999
- 20
-60.0
- 30
-0.0
- 11
-402.9374999999999
- 21
-63.0
- 31
-0.0
-  0
-LINE
-  5
-C6
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-334.3125
- 20
-60.0
- 30
-0.0
- 11
-311.4375
- 21
-60.0
- 31
-0.0
-  0
-LINE
-  5
-C7
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-288.5625
- 20
-60.0
- 30
-0.0
- 11
-265.6875
- 21
-60.0
- 31
-0.0
-  0
-LINE
-  5
-C8
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-242.8125
- 20
-60.0
- 30
-0.0
- 11
-219.9375
- 21
-60.0
- 31
-0.0
-  0
-LINE
-  5
-C9
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-471.5625
- 20
-63.0
- 30
-0.0
- 11
-471.5625
- 21
-60.0
- 31
-0.0
-  0
-LINE
-  5
-CA
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-402.9374999999999
- 20
-63.0
- 30
-0.0
- 11
-380.0625
- 21
-63.0
- 31
-0.0
-  0
-LINE
-  5
-CB
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-600.0
- 20
-44.4375
- 30
-0.0
- 11
-600.0
- 21
-63.0
- 31
-0.0
-  0
-LINE
-  5
-CC
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-563.0625
- 20
-3.0
- 30
-0.0
- 11
-585.9375
- 21
-3.0
- 31
-0.0
-  0
-LINE
-  5
-CD
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-219.9375
- 20
-63.0
- 30
-0.0
- 11
-197.0625
- 21
-63.0
- 31
-0.0
-  0
-LINE
-  5
-CE
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-357.1875
- 20
-60.0
- 30
-0.0
- 11
-357.1875
- 21
-63.0
- 31
-0.0
-  0
-LINE
-  5
-CF
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-174.1875
- 20
-60.0
- 30
-0.0
- 11
-174.1875
- 21
-63.0
- 31
-0.0
-  0
-LINE
-  5
-D0
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-540.1875
- 20
-60.0
- 30
-0.0
- 11
-540.1875
- 21
-63.0
- 31
-0.0
-  0
-LINE
-  5
-D1
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-585.9375
- 20
-3.0
- 30
-0.0
- 11
-600.0
- 21
-3.0
- 31
-0.0
-  0
-LINE
-  5
-D2
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
+underprop v2 v2_front_outsideCutPath
 100
 AcDbLine
  10
@@ -4317,13 +2925,325 @@ AcDbLine
   0
 LINE
   5
-D3
+99
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_front_outsideCutPath
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+357.1875
+ 20
+6.0
+ 30
+0.0
+ 11
+380.0625
+ 21
+6.0
+ 31
+0.0
+  0
+LINE
+  5
+9A
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+425.8125
+ 20
+3.0
+ 30
+0.0
+ 11
+448.6875
+ 21
+3.0
+ 31
+0.0
+  0
+LINE
+  5
+9B
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+402.9374999999999
+ 20
+63.0
+ 30
+0.0
+ 11
+380.0625
+ 21
+63.0
+ 31
+0.0
+  0
+LINE
+  5
+9C
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+380.0625
+ 20
+63.0
+ 30
+0.0
+ 11
+380.0625
+ 21
+60.0
+ 31
+0.0
+  0
+LINE
+  5
+9D
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+151.3125
+ 20
+3.0
+ 30
+0.0
+ 11
+174.1875
+ 21
+3.0
+ 31
+0.0
+  0
+LINE
+  5
+9E
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+494.4374999999999
+ 20
+3.0
+ 30
+0.0
+ 11
+494.4374999999999
+ 21
+6.0
+ 31
+0.0
+  0
+LINE
+  5
+9F
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+540.1875
+ 20
+60.0
+ 30
+0.0
+ 11
+540.1875
+ 21
+63.0
+ 31
+0.0
+  0
+LINE
+  5
+A0
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+288.5625
+ 20
+3.0
+ 30
+0.0
+ 11
+311.4375
+ 21
+3.0
+ 31
+0.0
+  0
+LINE
+  5
+A1
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+494.4374999999999
+ 20
+60.0
+ 30
+0.0
+ 11
+494.4374999999999
+ 21
+63.0
+ 31
+0.0
+  0
+LINE
+  5
+A2
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+288.5625
+ 20
+6.0
+ 30
+0.0
+ 11
+288.5625
+ 21
+3.0
+ 31
+0.0
+  0
+LINE
+  5
+A3
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+448.6875
+ 20
+6.0
+ 30
+0.0
+ 11
+471.5625
+ 21
+6.0
+ 31
+0.0
+  0
+LINE
+  5
+A4
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+448.6875
+ 20
+60.0
+ 30
+0.0
+ 11
+448.6875
+ 21
+63.0
+ 31
+0.0
+  0
+LINE
+  5
+A5
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+402.9374999999999
+ 20
+60.0
+ 30
+0.0
+ 11
+402.9374999999999
+ 21
+63.0
+ 31
+0.0
+  0
+LINE
+  5
+A6
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
 100
 AcDbLine
  10
@@ -4341,23 +3261,23 @@ AcDbLine
   0
 LINE
   5
-D4
+A7
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_front_outsideCutPath
+underprop v2 v2_front_outsideCutPath
 100
 AcDbLine
  10
-540.1875
+357.1875
  20
-63.0
+60.0
  30
 0.0
  11
-517.3124999999999
+357.1875
  21
 63.0
  31
@@ -4365,41 +3285,17 @@ AcDbLine
   0
 LINE
   5
-D5
+A8
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_front_outsideCutPath
+underprop v2 v2_front_outsideCutPath
 100
 AcDbLine
  10
-471.5625
- 20
-60.0
- 30
-0.0
- 11
-448.6875
- 21
-60.0
- 31
-0.0
-  0
-LINE
-  5
-D6
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-334.3125
+357.1875
  20
 63.0
  30
@@ -4407,125 +3303,29 @@ AcDbLine
  11
 334.3125
  21
-60.0
- 31
-0.0
-  0
-LINE
-  5
-D7
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-517.3124999999999
- 20
-60.0
- 30
-0.0
- 11
-494.4374999999999
- 21
-60.0
- 31
-0.0
-  0
-LINE
-  5
-D8
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-380.0625
- 20
-63.0
- 30
-0.0
- 11
-380.0625
- 21
-60.0
- 31
-0.0
-  0
-LINE
-  5
-D9
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-311.4375
- 20
-60.0
- 30
-0.0
- 11
-311.4375
- 21
 63.0
  31
 0.0
   0
 LINE
   5
-DA
+A9
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_front_outsideCutPath
+underprop v2 v2_front_outsideCutPath
 100
 AcDbLine
  10
-448.6875
+197.0625
  20
 6.0
  30
 0.0
  11
-471.5625
- 21
-6.0
- 31
-0.0
-  0
-LINE
-  5
-DB
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-563.0625
- 20
-6.0
- 30
-0.0
- 11
-563.0625
+197.0625
  21
 3.0
  31
@@ -4533,23 +3333,863 @@ AcDbLine
   0
 LINE
   5
-DC
+AA
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_front_outsideCutPath
+underprop v2 v2_front_outsideCutPath
 100
 AcDbLine
  10
+334.3125
+ 20
+3.0
+ 30
+0.0
+ 11
+357.1875
+ 21
+3.0
+ 31
+0.0
+  0
+LINE
+  5
+AB
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+380.0625
+ 20
+3.0
+ 30
+0.0
+ 11
+402.9374999999999
+ 21
+3.0
+ 31
+0.0
+  0
+LINE
+  5
+AC
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+402.9374999999999
+ 20
+6.0
+ 30
+0.0
+ 11
+425.8124999999999
+ 21
+6.0
+ 31
+0.0
+  0
+LINE
+  5
+AD
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+197.0625
+ 20
+3.0
+ 30
+0.0
+ 11
+219.9375
+ 21
+3.0
+ 31
+0.0
+  0
+LINE
+  5
+AE
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+471.5625
+ 20
+3.0
+ 30
+0.0
+ 11
+494.4374999999999
+ 21
+3.0
+ 31
+0.0
+  0
+LINE
+  5
+AF
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+402.9374999999999
+ 20
+3.0
+ 30
+0.0
+ 11
+402.9374999999999
+ 21
+6.0
+ 31
+0.0
+  0
+LINE
+  5
+B0
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+334.3125
+ 20
+6.0
+ 30
+0.0
+ 11
+334.3125
+ 21
+3.0
+ 31
+0.0
+  0
+LINE
+  5
+B1
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+517.3124999999999
+ 20
+3.0
+ 30
+0.0
+ 11
+540.1875
+ 21
+3.0
+ 31
+0.0
+  0
+LINE
+  5
+B2
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+597.0
+ 20
+21.5625
+ 30
+0.0
+ 11
+597.0
+ 21
+44.4375
+ 31
+0.0
+  0
+LINE
+  5
+B3
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+174.1875
+ 20
+6.0
+ 30
+0.0
+ 11
+197.0625
+ 21
+6.0
+ 31
+0.0
+  0
+LINE
+  5
+B4
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+265.6875
+ 20
+3.0
+ 30
+0.0
+ 11
+265.6875
+ 21
+6.0
+ 31
+0.0
+  0
+LINE
+  5
+B5
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+311.4375
+ 20
+6.0
+ 30
+0.0
+ 11
+334.3125
+ 21
+6.0
+ 31
+0.0
+  0
+LINE
+  5
+B6
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+265.6875
+ 20
+6.0
+ 30
+0.0
+ 11
 288.5625
+ 21
+6.0
+ 31
+0.0
+  0
+LINE
+  5
+B7
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+357.1875
+ 20
+3.0
+ 30
+0.0
+ 11
+357.1875
+ 21
+6.0
+ 31
+0.0
+  0
+LINE
+  5
+B8
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+219.9375
+ 20
+3.0
+ 30
+0.0
+ 11
+219.9375
+ 21
+6.0
+ 31
+0.0
+  0
+LINE
+  5
+B9
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+174.1875
+ 20
+3.0
+ 30
+0.0
+ 11
+174.1875
+ 21
+6.0
+ 31
+0.0
+  0
+LINE
+  5
+BA
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+471.5625
+ 20
+6.0
+ 30
+0.0
+ 11
+471.5625
+ 21
+3.0
+ 31
+0.0
+  0
+LINE
+  5
+BB
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+242.8125
+ 20
+6.0
+ 30
+0.0
+ 11
+242.8125
+ 21
+3.0
+ 31
+0.0
+  0
+LINE
+  5
+BC
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+3.0
+ 20
+44.4375
+ 30
+0.0
+ 11
+3.0
+ 21
+21.5625
+ 31
+0.0
+  0
+LINE
+  5
+BD
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+82.6875
+ 20
+3.0
+ 30
+0.0
+ 11
+82.6875
+ 21
+6.0
+ 31
+0.0
+  0
+LINE
+  5
+BE
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+82.6875
+ 20
+6.0
+ 30
+0.0
+ 11
+105.5625
+ 21
+6.0
+ 31
+0.0
+  0
+LINE
+  5
+BF
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+105.5625
+ 20
+6.0
+ 30
+0.0
+ 11
+105.5625
+ 21
+3.0
+ 31
+0.0
+  0
+LINE
+  5
+C0
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+105.5625
+ 20
+3.0
+ 30
+0.0
+ 11
+128.4375
+ 21
+3.0
+ 31
+0.0
+  0
+LINE
+  5
+C1
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+128.4375
+ 20
+3.0
+ 30
+0.0
+ 11
+128.4375
+ 21
+6.0
+ 31
+0.0
+  0
+LINE
+  5
+C2
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+128.4375
+ 20
+6.0
+ 30
+0.0
+ 11
+151.3125
+ 21
+6.0
+ 31
+0.0
+  0
+LINE
+  5
+C3
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+151.3125
+ 20
+6.0
+ 30
+0.0
+ 11
+151.3125
+ 21
+3.0
+ 31
+0.0
+  0
+LINE
+  5
+C4
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+0.0
+ 20
+44.4375
+ 30
+0.0
+ 11
+3.0
+ 21
+44.4375
+ 31
+0.0
+  0
+LINE
+  5
+C5
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+0.0
  20
 63.0
  30
 0.0
  11
-288.5625
+0.0
+ 21
+44.4375
+ 31
+0.0
+  0
+LINE
+  5
+C6
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+3.0
+ 20
+21.5625
+ 30
+0.0
+ 11
+0.0
+ 21
+21.5625
+ 31
+0.0
+  0
+LINE
+  5
+C7
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+0.0
+ 20
+21.5625
+ 30
+0.0
+ 11
+0.0
+ 21
+3.0
+ 31
+0.0
+  0
+LINE
+  5
+C8
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+0.0
+ 20
+3.0
+ 30
+0.0
+ 11
+36.9375
+ 21
+3.0
+ 31
+0.0
+  0
+LINE
+  5
+C9
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+36.9375
+ 20
+3.0
+ 30
+0.0
+ 11
+36.9375
+ 21
+6.0
+ 31
+0.0
+  0
+LINE
+  5
+CA
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+36.9375
+ 20
+6.0
+ 30
+0.0
+ 11
+59.8125
+ 21
+6.0
+ 31
+0.0
+  0
+LINE
+  5
+CB
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+59.8125
+ 20
+6.0
+ 30
+0.0
+ 11
+59.8125
+ 21
+3.0
+ 31
+0.0
+  0
+LINE
+  5
+CC
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+59.8125
+ 20
+3.0
+ 30
+0.0
+ 11
+82.6875
+ 21
+3.0
+ 31
+0.0
+  0
+LINE
+  5
+CD
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+334.3125
+ 20
+60.0
+ 30
+0.0
+ 11
+311.4375
  21
 60.0
  31
@@ -4557,13 +4197,133 @@ AcDbLine
   0
 LINE
   5
-DD
+CE
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_front_outsideCutPath
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+128.4375
+ 20
+63.0
+ 30
+0.0
+ 11
+105.5625
+ 21
+63.0
+ 31
+0.0
+  0
+LINE
+  5
+CF
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+265.6875
+ 20
+60.0
+ 30
+0.0
+ 11
+265.6875
+ 21
+63.0
+ 31
+0.0
+  0
+LINE
+  5
+D0
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+242.8125
+ 20
+60.0
+ 30
+0.0
+ 11
+219.9375
+ 21
+60.0
+ 31
+0.0
+  0
+LINE
+  5
+D1
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+311.4375
+ 20
+60.0
+ 30
+0.0
+ 11
+311.4375
+ 21
+63.0
+ 31
+0.0
+  0
+LINE
+  5
+D2
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+36.9375
+ 20
+60.0
+ 30
+0.0
+ 11
+36.9375
+ 21
+63.0
+ 31
+0.0
+  0
+LINE
+  5
+D3
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
 100
 AcDbLine
  10
@@ -4581,23 +4341,23 @@ AcDbLine
   0
 LINE
   5
-DE
+D4
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_front_outsideCutPath
+underprop v2 v2_front_outsideCutPath
 100
 AcDbLine
  10
-219.9375
+128.4375
  20
 60.0
  30
 0.0
  11
-219.9375
+128.4375
  21
 63.0
  31
@@ -4605,13 +4365,109 @@ AcDbLine
   0
 LINE
   5
-DF
+D5
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_front_outsideCutPath
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+82.6875
+ 20
+63.0
+ 30
+0.0
+ 11
+59.81249999999999
+ 21
+63.0
+ 31
+0.0
+  0
+LINE
+  5
+D6
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+288.5625
+ 20
+63.0
+ 30
+0.0
+ 11
+288.5625
+ 21
+60.0
+ 31
+0.0
+  0
+LINE
+  5
+D7
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+219.9375
+ 20
+63.0
+ 30
+0.0
+ 11
+197.0625
+ 21
+63.0
+ 31
+0.0
+  0
+LINE
+  5
+D8
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+334.3125
+ 20
+63.0
+ 30
+0.0
+ 11
+334.3125
+ 21
+60.0
+ 31
+0.0
+  0
+LINE
+  5
+D9
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
 100
 AcDbLine
  10
@@ -4629,23 +4485,23 @@ AcDbLine
   0
 LINE
   5
-E0
+DA
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_front_outsideCutPath
+underprop v2 v2_front_outsideCutPath
 100
 AcDbLine
  10
 197.0625
  20
-63.0
+60.0
  30
 0.0
  11
-197.0625
+174.1875
  21
 60.0
  31
@@ -4653,85 +4509,37 @@ AcDbLine
   0
 LINE
   5
-E1
+DB
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_front_outsideCutPath
+underprop v2 v2_front_outsideCutPath
 100
 AcDbLine
  10
-540.1875
+174.1875
  20
-3.0
- 30
-0.0
- 11
-540.1875
- 21
-6.0
- 31
-0.0
-  0
-LINE
-  5
-E2
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-494.4374999999999
- 20
-6.0
- 30
-0.0
- 11
-517.3124999999999
- 21
-6.0
- 31
-0.0
-  0
-LINE
-  5
-E3
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_front_outsideCutPath
-100
-AcDbLine
- 10
-242.8125
- 20
-63.0
- 30
-0.0
- 11
-242.8125
- 21
 60.0
+ 30
+0.0
+ 11
+174.1875
+ 21
+63.0
  31
 0.0
   0
 LINE
   5
-E4
+DC
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_front_outsideCutPath
+underprop v2 v2_front_outsideCutPath
 100
 AcDbLine
  10
@@ -4749,13 +4557,37 @@ AcDbLine
   0
 LINE
   5
-E5
+DD
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_front_outsideCutPath
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+82.6875
+ 20
+60.0
+ 30
+0.0
+ 11
+82.6875
+ 21
+63.0
+ 31
+0.0
+  0
+LINE
+  5
+DE
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
 100
 AcDbLine
  10
@@ -4773,37 +4605,157 @@ AcDbLine
   0
 LINE
   5
-E6
+DF
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_front_outsideCutPath
+underprop v2 v2_front_outsideCutPath
 100
 AcDbLine
  10
-471.5625
+59.8125
  20
-3.0
+60.0
  30
 0.0
  11
-494.4374999999999
+36.9375
  21
-3.0
+60.0
  31
 0.0
   0
 LINE
   5
-E7
+E0
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_front_outsideCutPath
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+105.5625
+ 20
+63.0
+ 30
+0.0
+ 11
+105.5625
+ 21
+60.0
+ 31
+0.0
+  0
+LINE
+  5
+E1
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+242.8125
+ 20
+63.0
+ 30
+0.0
+ 11
+242.8125
+ 21
+60.0
+ 31
+0.0
+  0
+LINE
+  5
+E2
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+219.9375
+ 20
+60.0
+ 30
+0.0
+ 11
+219.9375
+ 21
+63.0
+ 31
+0.0
+  0
+LINE
+  5
+E3
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+197.0625
+ 20
+63.0
+ 30
+0.0
+ 11
+197.0625
+ 21
+60.0
+ 31
+0.0
+  0
+LINE
+  5
+E4
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+105.5625
+ 20
+60.0
+ 30
+0.0
+ 11
+82.6875
+ 21
+60.0
+ 31
+0.0
+  0
+LINE
+  5
+E5
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
 100
 AcDbLine
  10
@@ -4821,23 +4773,71 @@ AcDbLine
   0
 LINE
   5
+E6
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+288.5625
+ 20
+60.0
+ 30
+0.0
+ 11
+265.6875
+ 21
+60.0
+ 31
+0.0
+  0
+LINE
+  5
+E7
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_front_outsideCutPath
+100
+AcDbLine
+ 10
+59.8125
+ 20
+63.0
+ 30
+0.0
+ 11
+59.8125
+ 21
+60.0
+ 31
+0.0
+  0
+LINE
+  5
 E8
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_front_outsideCutPath
+underprop v2 v2_front_outsideCutPath
 100
 AcDbLine
  10
 36.9375
  20
-60.0
+63.0
  30
 0.0
  11
-36.9375
+14.0625
  21
 63.0
  31
@@ -4851,19 +4851,19 @@ E9
 100
 AcDbEntity
   8
-underprop v2 v1_front_outsideCutPath
+underprop v2 v2_front_outsideCutPath
 100
 AcDbLine
  10
-36.9375
+151.3125
  20
-63.0
+60.0
  30
 0.0
  11
-14.0625
+128.4375
  21
-63.0
+60.0
  31
 0.0
   0
@@ -4875,7 +4875,7 @@ EB
 100
 AcDbEntity
   8
-underprop v2 v1_left_outsideCutPath
+underprop v2 v2_left_outsideCutPath
 100
 AcDbPoint
  10
@@ -4893,19 +4893,19 @@ EC
 100
 AcDbEntity
   8
-underprop v2 v1_left_outsideCutPath
+underprop v2 v2_left_outsideCutPath
 100
 AcDbLine
  10
-795.8125000000001
+772.9375
  20
 3.0
  30
 0.0
  11
-818.6875
+772.9375
  21
-3.0
+6.0
  31
 0.0
   0
@@ -4917,17 +4917,17 @@ ED
 100
 AcDbEntity
   8
-underprop v2 v1_left_outsideCutPath
+underprop v2 v2_left_outsideCutPath
 100
 AcDbLine
  10
-910.1875000000001
+818.6875
  20
-3.0
+6.0
  30
 0.0
  11
-910.1875000000001
+841.5625
  21
 6.0
  31
@@ -4941,19 +4941,19 @@ EE
 100
 AcDbEntity
   8
-underprop v2 v1_left_outsideCutPath
+underprop v2 v2_left_outsideCutPath
 100
 AcDbLine
  10
-1100.0
+910.1875000000001
  20
-44.4375
+3.0
  30
 0.0
  11
-1100.0
+910.1875000000001
  21
-63.0
+6.0
  31
 0.0
   0
@@ -4965,19 +4965,19 @@ EF
 100
 AcDbEntity
   8
-underprop v2 v1_left_outsideCutPath
+underprop v2 v2_left_outsideCutPath
 100
 AcDbLine
  10
-933.0624999999999
+727.1875
  20
-6.0
+3.0
  30
 0.0
  11
-933.0624999999999
+727.1875
  21
-3.0
+6.0
  31
 0.0
   0
@@ -4989,19 +4989,19 @@ F0
 100
 AcDbEntity
   8
-underprop v2 v1_left_outsideCutPath
+underprop v2 v2_left_outsideCutPath
 100
 AcDbLine
  10
-818.6875
+887.3124999999999
  20
 6.0
  30
 0.0
  11
-841.5625
+887.3124999999999
  21
-6.0
+3.0
  31
 0.0
   0
@@ -5013,17 +5013,17 @@ F1
 100
 AcDbEntity
   8
-underprop v2 v1_left_outsideCutPath
+underprop v2 v2_left_outsideCutPath
 100
 AcDbLine
  10
-841.5625
+933.0624999999999
  20
 6.0
  30
 0.0
  11
-841.5625
+933.0624999999999
  21
 3.0
  31
@@ -5037,19 +5037,19 @@ F2
 100
 AcDbEntity
   8
-underprop v2 v1_left_outsideCutPath
+underprop v2 v2_left_outsideCutPath
 100
 AcDbLine
  10
-635.6875
+795.8125000000001
  20
-3.0
+6.0
  30
 0.0
  11
-635.6875
+795.8125000000001
  21
-6.0
+3.0
  31
 0.0
   0
@@ -5061,103 +5061,7 @@ F3
 100
 AcDbEntity
   8
-underprop v2 v1_left_outsideCutPath
-100
-AcDbLine
- 10
-681.4375
- 20
-6.0
- 30
-0.0
- 11
-704.3125000000001
- 21
-6.0
- 31
-0.0
-  0
-LINE
-  5
-F4
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_left_outsideCutPath
-100
-AcDbLine
- 10
-704.3124999999999
- 20
-3.0
- 30
-0.0
- 11
-727.1875
- 21
-3.0
- 31
-0.0
-  0
-LINE
-  5
-F5
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_left_outsideCutPath
-100
-AcDbLine
- 10
-955.9375000000001
- 20
-3.0
- 30
-0.0
- 11
-955.9375000000001
- 21
-6.0
- 31
-0.0
-  0
-LINE
-  5
-F6
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_left_outsideCutPath
-100
-AcDbLine
- 10
-978.8125
- 20
-6.0
- 30
-0.0
- 11
-978.8125
- 21
-3.0
- 31
-0.0
-  0
-LINE
-  5
-F7
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_left_outsideCutPath
+underprop v2 v2_left_outsideCutPath
 100
 AcDbLine
  10
@@ -5175,65 +5079,41 @@ AcDbLine
   0
 LINE
   5
-F8
+F4
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_left_outsideCutPath
+underprop v2 v2_left_outsideCutPath
 100
 AcDbLine
  10
-864.4375000000001
+606.0
  20
-6.0
+63.0
  30
 0.0
  11
-887.3124999999999
+606.0
  21
-6.0
+44.4375
  31
 0.0
   0
 LINE
   5
-F9
+F5
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_left_outsideCutPath
+underprop v2 v2_left_outsideCutPath
 100
 AcDbLine
  10
-1001.6875
- 20
-6.0
- 30
-0.0
- 11
-1024.5625
- 21
-6.0
- 31
-0.0
-  0
-LINE
-  5
-FA
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_left_outsideCutPath
-100
-AcDbLine
- 10
-603.0
+606.0
  20
 21.5625
  30
@@ -5241,19 +5121,43 @@ AcDbLine
  11
 606.0
  21
-21.5625
+3.0
  31
 0.0
   0
 LINE
   5
-FB
+F6
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_left_outsideCutPath
+underprop v2 v2_left_outsideCutPath
+100
+AcDbLine
+ 10
+635.6875
+ 20
+3.0
+ 30
+0.0
+ 11
+635.6875
+ 21
+6.0
+ 31
+0.0
+  0
+LINE
+  5
+F7
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_left_outsideCutPath
 100
 AcDbLine
  10
@@ -5271,71 +5175,23 @@ AcDbLine
   0
 LINE
   5
-FC
+F8
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_left_outsideCutPath
+underprop v2 v2_left_outsideCutPath
 100
 AcDbLine
  10
-603.0
+818.6875
  20
-44.4375
- 30
-0.0
- 11
-603.0
- 21
-21.5625
- 31
-0.0
-  0
-LINE
-  5
-FD
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_left_outsideCutPath
-100
-AcDbLine
- 10
-704.3124999999999
- 20
-6.0
- 30
-0.0
- 11
-704.3124999999999
- 21
 3.0
- 31
-0.0
-  0
-LINE
-  5
-FE
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_left_outsideCutPath
-100
-AcDbLine
- 10
-955.9375000000001
- 20
-6.0
  30
 0.0
  11
-978.8125
+818.6875
  21
 6.0
  31
@@ -5343,13 +5199,13 @@ AcDbLine
   0
 LINE
   5
-FF
+F9
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_left_outsideCutPath
+underprop v2 v2_left_outsideCutPath
 100
 AcDbLine
  10
@@ -5367,71 +5223,23 @@ AcDbLine
   0
 LINE
   5
-100
+FA
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_left_outsideCutPath
+underprop v2 v2_left_outsideCutPath
 100
 AcDbLine
  10
-1047.4375
+841.5625
  20
 6.0
  30
 0.0
  11
-1070.3125
- 21
-6.0
- 31
-0.0
-  0
-LINE
-  5
-101
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_left_outsideCutPath
-100
-AcDbLine
- 10
-1100.0
- 20
-3.0
- 30
-0.0
- 11
-1100.0
- 21
-21.5625
- 31
-0.0
-  0
-LINE
-  5
-102
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_left_outsideCutPath
-100
-AcDbLine
- 10
-887.3124999999999
- 20
-3.0
- 30
-0.0
- 11
-910.1875000000001
+841.5625
  21
 3.0
  31
@@ -5439,13 +5247,13 @@ AcDbLine
   0
 LINE
   5
-103
+FB
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_left_outsideCutPath
+underprop v2 v2_left_outsideCutPath
 100
 AcDbLine
  10
@@ -5463,23 +5271,23 @@ AcDbLine
   0
 LINE
   5
-104
+FC
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_left_outsideCutPath
+underprop v2 v2_left_outsideCutPath
 100
 AcDbLine
  10
-658.5625
+841.5625
  20
-6.0
+3.0
  30
 0.0
  11
-658.5625
+864.4375000000001
  21
 3.0
  31
@@ -5487,13 +5295,13 @@ AcDbLine
   0
 LINE
   5
-105
+FD
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_left_outsideCutPath
+underprop v2 v2_left_outsideCutPath
 100
 AcDbLine
  10
@@ -5511,85 +5319,13 @@ AcDbLine
   0
 LINE
   5
-106
+FE
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_left_outsideCutPath
-100
-AcDbLine
- 10
-727.1875
- 20
-3.0
- 30
-0.0
- 11
-727.1875
- 21
-6.0
- 31
-0.0
-  0
-LINE
-  5
-107
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_left_outsideCutPath
-100
-AcDbLine
- 10
-1100.0
- 20
-21.5625
- 30
-0.0
- 11
-1103.0
- 21
-21.5625
- 31
-0.0
-  0
-LINE
-  5
-108
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_left_outsideCutPath
-100
-AcDbLine
- 10
-606.0
- 20
-21.5625
- 30
-0.0
- 11
-606.0
- 21
-3.0
- 31
-0.0
-  0
-LINE
-  5
-109
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_left_outsideCutPath
+underprop v2 v2_left_outsideCutPath
 100
 AcDbLine
  10
@@ -5607,13 +5343,85 @@ AcDbLine
   0
 LINE
   5
-10A
+FF
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_left_outsideCutPath
+underprop v2 v2_left_outsideCutPath
+100
+AcDbLine
+ 10
+864.4375000000001
+ 20
+6.0
+ 30
+0.0
+ 11
+887.3124999999999
+ 21
+6.0
+ 31
+0.0
+  0
+LINE
+  5
+100
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_left_outsideCutPath
+100
+AcDbLine
+ 10
+635.6875
+ 20
+6.0
+ 30
+0.0
+ 11
+658.5625
+ 21
+6.0
+ 31
+0.0
+  0
+LINE
+  5
+101
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_left_outsideCutPath
+100
+AcDbLine
+ 10
+887.3124999999999
+ 20
+3.0
+ 30
+0.0
+ 11
+910.1875000000001
+ 21
+3.0
+ 31
+0.0
+  0
+LINE
+  5
+102
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_left_outsideCutPath
 100
 AcDbLine
  10
@@ -5631,25 +5439,217 @@ AcDbLine
   0
 LINE
   5
+103
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_left_outsideCutPath
+100
+AcDbLine
+ 10
+933.0624999999999
+ 20
+3.0
+ 30
+0.0
+ 11
+955.9375000000001
+ 21
+3.0
+ 31
+0.0
+  0
+LINE
+  5
+104
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_left_outsideCutPath
+100
+AcDbLine
+ 10
+606.0
+ 20
+44.4375
+ 30
+0.0
+ 11
+603.0
+ 21
+44.4375
+ 31
+0.0
+  0
+LINE
+  5
+105
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_left_outsideCutPath
+100
+AcDbLine
+ 10
+603.0
+ 20
+21.5625
+ 30
+0.0
+ 11
+606.0
+ 21
+21.5625
+ 31
+0.0
+  0
+LINE
+  5
+106
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_left_outsideCutPath
+100
+AcDbLine
+ 10
+704.3124999999999
+ 20
+3.0
+ 30
+0.0
+ 11
+727.1875
+ 21
+3.0
+ 31
+0.0
+  0
+LINE
+  5
+107
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_left_outsideCutPath
+100
+AcDbLine
+ 10
+658.5625
+ 20
+3.0
+ 30
+0.0
+ 11
+681.4375
+ 21
+3.0
+ 31
+0.0
+  0
+LINE
+  5
+108
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_left_outsideCutPath
+100
+AcDbLine
+ 10
+603.0
+ 20
+44.4375
+ 30
+0.0
+ 11
+603.0
+ 21
+21.5625
+ 31
+0.0
+  0
+LINE
+  5
+109
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_left_outsideCutPath
+100
+AcDbLine
+ 10
+658.5625
+ 20
+6.0
+ 30
+0.0
+ 11
+658.5625
+ 21
+3.0
+ 31
+0.0
+  0
+LINE
+  5
+10A
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_left_outsideCutPath
+100
+AcDbLine
+ 10
+704.3124999999999
+ 20
+6.0
+ 30
+0.0
+ 11
+704.3124999999999
+ 21
+3.0
+ 31
+0.0
+  0
+LINE
+  5
 10B
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_left_outsideCutPath
+underprop v2 v2_left_outsideCutPath
 100
 AcDbLine
  10
-606.0
+795.8125000000001
  20
-63.0
+3.0
  30
 0.0
  11
-606.0
+818.6875
  21
-44.4375
+3.0
  31
 0.0
   0
@@ -5661,19 +5661,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_left_outsideCutPath
+underprop v2 v2_left_outsideCutPath
 100
 AcDbLine
  10
-887.3124999999999
+681.4375
  20
 6.0
  30
 0.0
  11
-887.3124999999999
+704.3125000000001
  21
-3.0
+6.0
  31
 0.0
   0
@@ -5685,19 +5685,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_left_outsideCutPath
+underprop v2 v2_left_outsideCutPath
 100
 AcDbLine
  10
-1001.6875
+750.0625000000001
  20
 3.0
  30
 0.0
  11
-1001.6875
+772.9375
  21
-6.0
+3.0
  31
 0.0
   0
@@ -5709,19 +5709,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_left_outsideCutPath
+underprop v2 v2_left_outsideCutPath
 100
 AcDbLine
  10
-818.6875
+1103.0
  20
-3.0
+44.4375
  30
 0.0
  11
-818.6875
+1100.0
  21
-6.0
+44.4375
  31
 0.0
   0
@@ -5733,19 +5733,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_left_outsideCutPath
+underprop v2 v2_left_outsideCutPath
 100
 AcDbLine
  10
-1047.4375
+841.5625
  20
-3.0
+60.0
  30
 0.0
  11
-1047.4375
+818.6875
  21
-6.0
+60.0
  31
 0.0
   0
@@ -5757,7 +5757,7 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_left_outsideCutPath
+underprop v2 v2_left_outsideCutPath
 100
 AcDbLine
  10
@@ -5781,19 +5781,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_left_outsideCutPath
+underprop v2 v2_left_outsideCutPath
 100
 AcDbLine
  10
-1070.3125
+955.9375000000001
  20
-3.0
+63.0
  30
 0.0
  11
-1100.0
+933.0624999999999
  21
-3.0
+63.0
  31
 0.0
   0
@@ -5805,727 +5805,7 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_left_outsideCutPath
-100
-AcDbLine
- 10
-1103.0
- 20
-44.4375
- 30
-0.0
- 11
-1100.0
- 21
-44.4375
- 31
-0.0
-  0
-LINE
-  5
-113
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_left_outsideCutPath
-100
-AcDbLine
- 10
-658.5625
- 20
-3.0
- 30
-0.0
- 11
-681.4375
- 21
-3.0
- 31
-0.0
-  0
-LINE
-  5
-114
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_left_outsideCutPath
-100
-AcDbLine
- 10
-1100.0
- 20
-63.0
- 30
-0.0
- 11
-1070.3125
- 21
-63.0
- 31
-0.0
-  0
-LINE
-  5
-115
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_left_outsideCutPath
-100
-AcDbLine
- 10
-1103.0
- 20
-21.5625
- 30
-0.0
- 11
-1103.0
- 21
-44.4375
- 31
-0.0
-  0
-LINE
-  5
-116
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_left_outsideCutPath
-100
-AcDbLine
- 10
-1070.3125
- 20
-63.0
- 30
-0.0
- 11
-1070.3125
- 21
-60.0
- 31
-0.0
-  0
-LINE
-  5
-117
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_left_outsideCutPath
-100
-AcDbLine
- 10
-1070.3125
- 20
-60.0
- 30
-0.0
- 11
-1047.4375
- 21
-60.0
- 31
-0.0
-  0
-LINE
-  5
-118
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_left_outsideCutPath
-100
-AcDbLine
- 10
-1047.4375
- 20
-63.0
- 30
-0.0
- 11
-1024.5625
- 21
-63.0
- 31
-0.0
-  0
-LINE
-  5
-119
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_left_outsideCutPath
-100
-AcDbLine
- 10
-841.5625
- 20
-3.0
- 30
-0.0
- 11
-864.4375000000001
- 21
-3.0
- 31
-0.0
-  0
-LINE
-  5
-11A
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_left_outsideCutPath
-100
-AcDbLine
- 10
-1047.4375
- 20
-60.0
- 30
-0.0
- 11
-1047.4375
- 21
-63.0
- 31
-0.0
-  0
-LINE
-  5
-11B
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_left_outsideCutPath
-100
-AcDbLine
- 10
-1024.5625
- 20
-63.0
- 30
-0.0
- 11
-1024.5625
- 21
-60.0
- 31
-0.0
-  0
-LINE
-  5
-11C
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_left_outsideCutPath
-100
-AcDbLine
- 10
-1024.5625
- 20
-60.0
- 30
-0.0
- 11
-1001.6875
- 21
-60.0
- 31
-0.0
-  0
-LINE
-  5
-11D
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_left_outsideCutPath
-100
-AcDbLine
- 10
-933.0624999999999
- 20
-3.0
- 30
-0.0
- 11
-955.9375000000001
- 21
-3.0
- 31
-0.0
-  0
-LINE
-  5
-11E
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_left_outsideCutPath
-100
-AcDbLine
- 10
-1024.5625
- 20
-6.0
- 30
-0.0
- 11
-1024.5625
- 21
-3.0
- 31
-0.0
-  0
-LINE
-  5
-11F
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_left_outsideCutPath
-100
-AcDbLine
- 10
-606.0
- 20
-44.4375
- 30
-0.0
- 11
-603.0
- 21
-44.4375
- 31
-0.0
-  0
-LINE
-  5
-120
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_left_outsideCutPath
-100
-AcDbLine
- 10
-635.6875
- 20
-6.0
- 30
-0.0
- 11
-658.5625
- 21
-6.0
- 31
-0.0
-  0
-LINE
-  5
-121
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_left_outsideCutPath
-100
-AcDbLine
- 10
-1001.6875
- 20
-60.0
- 30
-0.0
- 11
-1001.6875
- 21
-63.0
- 31
-0.0
-  0
-LINE
-  5
-122
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_left_outsideCutPath
-100
-AcDbLine
- 10
-795.8125000000001
- 20
-6.0
- 30
-0.0
- 11
-795.8125000000001
- 21
-3.0
- 31
-0.0
-  0
-LINE
-  5
-123
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_left_outsideCutPath
-100
-AcDbLine
- 10
-978.8125
- 20
-3.0
- 30
-0.0
- 11
-1001.6875
- 21
-3.0
- 31
-0.0
-  0
-LINE
-  5
-124
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_left_outsideCutPath
-100
-AcDbLine
- 10
-1024.5625
- 20
-3.0
- 30
-0.0
- 11
-1047.4375
- 21
-3.0
- 31
-0.0
-  0
-LINE
-  5
-125
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_left_outsideCutPath
-100
-AcDbLine
- 10
-1001.6875
- 20
-63.0
- 30
-0.0
- 11
-978.8125
- 21
-63.0
- 31
-0.0
-  0
-LINE
-  5
-126
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_left_outsideCutPath
-100
-AcDbLine
- 10
-978.8125
- 20
-63.0
- 30
-0.0
- 11
-978.8125
- 21
-60.0
- 31
-0.0
-  0
-LINE
-  5
-127
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_left_outsideCutPath
-100
-AcDbLine
- 10
-750.0625000000001
- 20
-3.0
- 30
-0.0
- 11
-772.9375
- 21
-3.0
- 31
-0.0
-  0
-LINE
-  5
-128
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_left_outsideCutPath
-100
-AcDbLine
- 10
-772.9375
- 20
-3.0
- 30
-0.0
- 11
-772.9375
- 21
-6.0
- 31
-0.0
-  0
-LINE
-  5
-129
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_left_outsideCutPath
-100
-AcDbLine
- 10
-681.4375
- 20
-60.0
- 30
-0.0
- 11
-681.4375
- 21
-63.0
- 31
-0.0
-  0
-LINE
-  5
-12A
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_left_outsideCutPath
-100
-AcDbLine
- 10
-841.5625
- 20
-60.0
- 30
-0.0
- 11
-818.6875
- 21
-60.0
- 31
-0.0
-  0
-LINE
-  5
-12B
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_left_outsideCutPath
-100
-AcDbLine
- 10
-795.8125000000001
- 20
-63.0
- 30
-0.0
- 11
-795.8125000000001
- 21
-60.0
- 31
-0.0
-  0
-LINE
-  5
-12C
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_left_outsideCutPath
-100
-AcDbLine
- 10
-635.6875
- 20
-63.0
- 30
-0.0
- 11
-606.0
- 21
-63.0
- 31
-0.0
-  0
-LINE
-  5
-12D
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_left_outsideCutPath
-100
-AcDbLine
- 10
-727.1875
- 20
-63.0
- 30
-0.0
- 11
-704.3124999999999
- 21
-63.0
- 31
-0.0
-  0
-LINE
-  5
-12E
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_left_outsideCutPath
-100
-AcDbLine
- 10
-750.0625000000001
- 20
-60.0
- 30
-0.0
- 11
-727.1875
- 21
-60.0
- 31
-0.0
-  0
-LINE
-  5
-12F
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_left_outsideCutPath
-100
-AcDbLine
- 10
-841.5625
- 20
-63.0
- 30
-0.0
- 11
-841.5625
- 21
-60.0
- 31
-0.0
-  0
-LINE
-  5
-130
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_left_outsideCutPath
+underprop v2 v2_left_outsideCutPath
 100
 AcDbLine
  10
@@ -6543,167 +5823,95 @@ AcDbLine
   0
 LINE
   5
-131
+113
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_left_outsideCutPath
-100
-AcDbLine
- 10
-635.6875
- 20
-60.0
- 30
-0.0
- 11
-635.6875
- 21
-63.0
- 31
-0.0
-  0
-LINE
-  5
-132
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_left_outsideCutPath
-100
-AcDbLine
- 10
-910.1875000000001
- 20
-63.0
- 30
-0.0
- 11
-887.3124999999999
- 21
-63.0
- 31
-0.0
-  0
-LINE
-  5
-133
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_left_outsideCutPath
-100
-AcDbLine
- 10
-658.5625
- 20
-60.0
- 30
-0.0
- 11
-635.6875
- 21
-60.0
- 31
-0.0
-  0
-LINE
-  5
-134
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_left_outsideCutPath
+underprop v2 v2_left_outsideCutPath
 100
 AcDbLine
  10
 681.4375
  20
+60.0
+ 30
+0.0
+ 11
+681.4375
+ 21
+63.0
+ 31
+0.0
+  0
+LINE
+  5
+114
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_left_outsideCutPath
+100
+AcDbLine
+ 10
+658.5625
+ 20
 63.0
  30
 0.0
  11
 658.5625
  21
-63.0
- 31
-0.0
-  0
-LINE
-  5
-135
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_left_outsideCutPath
-100
-AcDbLine
- 10
-955.9375000000001
- 20
 60.0
- 30
-0.0
- 11
-955.9375000000001
- 21
-63.0
  31
 0.0
   0
 LINE
   5
-136
+115
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_left_outsideCutPath
+underprop v2 v2_left_outsideCutPath
 100
 AcDbLine
  10
-955.9375000000001
+1070.3125
  20
-63.0
+3.0
  30
 0.0
  11
-933.0624999999999
+1100.0
  21
-63.0
+3.0
  31
 0.0
   0
 LINE
   5
-137
+116
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_left_outsideCutPath
+underprop v2 v2_left_outsideCutPath
 100
 AcDbLine
  10
-933.0624999999999
+841.5625
  20
-60.0
+63.0
  30
 0.0
  11
-910.1874999999999
+841.5625
  21
 60.0
  31
@@ -6711,13 +5919,205 @@ AcDbLine
   0
 LINE
   5
-138
+117
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_left_outsideCutPath
+underprop v2 v2_left_outsideCutPath
+100
+AcDbLine
+ 10
+635.6875
+ 20
+63.0
+ 30
+0.0
+ 11
+606.0
+ 21
+63.0
+ 31
+0.0
+  0
+LINE
+  5
+118
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_left_outsideCutPath
+100
+AcDbLine
+ 10
+1024.5625
+ 20
+3.0
+ 30
+0.0
+ 11
+1047.4375
+ 21
+3.0
+ 31
+0.0
+  0
+LINE
+  5
+119
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_left_outsideCutPath
+100
+AcDbLine
+ 10
+1070.3125
+ 20
+60.0
+ 30
+0.0
+ 11
+1047.4375
+ 21
+60.0
+ 31
+0.0
+  0
+LINE
+  5
+11A
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_left_outsideCutPath
+100
+AcDbLine
+ 10
+1001.6875
+ 20
+60.0
+ 30
+0.0
+ 11
+1001.6875
+ 21
+63.0
+ 31
+0.0
+  0
+LINE
+  5
+11B
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_left_outsideCutPath
+100
+AcDbLine
+ 10
+818.6875
+ 20
+60.0
+ 30
+0.0
+ 11
+818.6875
+ 21
+63.0
+ 31
+0.0
+  0
+LINE
+  5
+11C
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_left_outsideCutPath
+100
+AcDbLine
+ 10
+658.5625
+ 20
+60.0
+ 30
+0.0
+ 11
+635.6875
+ 21
+60.0
+ 31
+0.0
+  0
+LINE
+  5
+11D
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_left_outsideCutPath
+100
+AcDbLine
+ 10
+750.0625000000001
+ 20
+63.0
+ 30
+0.0
+ 11
+750.0625000000001
+ 21
+60.0
+ 31
+0.0
+  0
+LINE
+  5
+11E
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_left_outsideCutPath
+100
+AcDbLine
+ 10
+772.9375
+ 20
+60.0
+ 30
+0.0
+ 11
+772.9375
+ 21
+63.0
+ 31
+0.0
+  0
+LINE
+  5
+11F
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_left_outsideCutPath
 100
 AcDbLine
  10
@@ -6735,23 +6135,71 @@ AcDbLine
   0
 LINE
   5
-139
+120
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_left_outsideCutPath
+underprop v2 v2_left_outsideCutPath
 100
 AcDbLine
  10
-864.4375000000001
+1100.0
+ 20
+21.5625
+ 30
+0.0
+ 11
+1103.0
+ 21
+21.5625
+ 31
+0.0
+  0
+LINE
+  5
+121
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_left_outsideCutPath
+100
+AcDbLine
+ 10
+978.8125
+ 20
+63.0
+ 30
+0.0
+ 11
+978.8125
+ 21
+60.0
+ 31
+0.0
+  0
+LINE
+  5
+122
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_left_outsideCutPath
+100
+AcDbLine
+ 10
+910.1875000000001
  20
 60.0
  30
 0.0
  11
-864.4375000000001
+910.1875000000001
  21
 63.0
  31
@@ -6759,13 +6207,109 @@ AcDbLine
   0
 LINE
   5
-13A
+123
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_left_outsideCutPath
+underprop v2 v2_left_outsideCutPath
+100
+AcDbLine
+ 10
+635.6875
+ 20
+60.0
+ 30
+0.0
+ 11
+635.6875
+ 21
+63.0
+ 31
+0.0
+  0
+LINE
+  5
+124
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_left_outsideCutPath
+100
+AcDbLine
+ 10
+955.9375000000001
+ 20
+3.0
+ 30
+0.0
+ 11
+955.9375000000001
+ 21
+6.0
+ 31
+0.0
+  0
+LINE
+  5
+125
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_left_outsideCutPath
+100
+AcDbLine
+ 10
+978.8125
+ 20
+6.0
+ 30
+0.0
+ 11
+978.8125
+ 21
+3.0
+ 31
+0.0
+  0
+LINE
+  5
+126
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_left_outsideCutPath
+100
+AcDbLine
+ 10
+1024.5625
+ 20
+6.0
+ 30
+0.0
+ 11
+1024.5625
+ 21
+3.0
+ 31
+0.0
+  0
+LINE
+  5
+127
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_left_outsideCutPath
 100
 AcDbLine
  10
@@ -6783,47 +6327,191 @@ AcDbLine
   0
 LINE
   5
-13B
+128
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_left_outsideCutPath
+underprop v2 v2_left_outsideCutPath
 100
 AcDbLine
  10
-978.8125
+1103.0
  20
-60.0
+21.5625
  30
 0.0
  11
+1103.0
+ 21
+44.4375
+ 31
+0.0
+  0
+LINE
+  5
+129
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_left_outsideCutPath
+100
+AcDbLine
+ 10
+933.0624999999999
+ 20
+63.0
+ 30
+0.0
+ 11
+933.0624999999999
+ 21
+60.0
+ 31
+0.0
+  0
+LINE
+  5
+12A
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_left_outsideCutPath
+100
+AcDbLine
+ 10
+704.3124999999999
+ 20
+63.0
+ 30
+0.0
+ 11
+704.3124999999999
+ 21
+60.0
+ 31
+0.0
+  0
+LINE
+  5
+12B
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_left_outsideCutPath
+100
+AcDbLine
+ 10
+1047.4375
+ 20
+3.0
+ 30
+0.0
+ 11
+1047.4375
+ 21
+6.0
+ 31
+0.0
+  0
+LINE
+  5
+12C
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_left_outsideCutPath
+100
+AcDbLine
+ 10
+1001.6875
+ 20
+6.0
+ 30
+0.0
+ 11
+1024.5625
+ 21
+6.0
+ 31
+0.0
+  0
+LINE
+  5
+12D
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_left_outsideCutPath
+100
+AcDbLine
+ 10
 955.9375000000001
- 21
-60.0
- 31
-0.0
-  0
-LINE
-  5
-13C
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_left_outsideCutPath
-100
-AcDbLine
- 10
-818.6875
  20
-63.0
+6.0
  30
 0.0
  11
-795.8124999999999
+978.8125
+ 21
+6.0
+ 31
+0.0
+  0
+LINE
+  5
+12E
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_left_outsideCutPath
+100
+AcDbLine
+ 10
+1047.4375
+ 20
+6.0
+ 30
+0.0
+ 11
+1070.3125
+ 21
+6.0
+ 31
+0.0
+  0
+LINE
+  5
+12F
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_left_outsideCutPath
+100
+AcDbLine
+ 10
+1047.4375
+ 20
+60.0
+ 30
+0.0
+ 11
+1047.4375
  21
 63.0
  31
@@ -6831,23 +6519,47 @@ AcDbLine
   0
 LINE
   5
-13D
+130
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_left_outsideCutPath
+underprop v2 v2_left_outsideCutPath
+100
+AcDbLine
+ 10
+1100.0
+ 20
+3.0
+ 30
+0.0
+ 11
+1100.0
+ 21
+21.5625
+ 31
+0.0
+  0
+LINE
+  5
+131
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_left_outsideCutPath
 100
 AcDbLine
  10
 910.1875000000001
  20
-60.0
+63.0
  30
 0.0
  11
-910.1875000000001
+887.3124999999999
  21
 63.0
  31
@@ -6855,95 +6567,23 @@ AcDbLine
   0
 LINE
   5
-13E
+132
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_left_outsideCutPath
+underprop v2 v2_left_outsideCutPath
 100
 AcDbLine
  10
-704.3124999999999
- 20
-63.0
- 30
-0.0
- 11
-704.3124999999999
- 21
-60.0
- 31
-0.0
-  0
-LINE
-  5
-13F
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_left_outsideCutPath
-100
-AcDbLine
- 10
-864.4375000000001
- 20
-63.0
- 30
-0.0
- 11
-841.5625
- 21
-63.0
- 31
-0.0
-  0
-LINE
-  5
-140
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_left_outsideCutPath
-100
-AcDbLine
- 10
-818.6875
+933.0624999999999
  20
 60.0
  30
 0.0
  11
-818.6875
- 21
-63.0
- 31
-0.0
-  0
-LINE
-  5
-141
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_left_outsideCutPath
-100
-AcDbLine
- 10
-750.0625000000001
- 20
-63.0
- 30
-0.0
- 11
-750.0625000000001
+910.1874999999999
  21
 60.0
  31
@@ -6951,13 +6591,13 @@ AcDbLine
   0
 LINE
   5
-142
+133
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_left_outsideCutPath
+underprop v2 v2_left_outsideCutPath
 100
 AcDbLine
  10
@@ -6975,13 +6615,277 @@ AcDbLine
   0
 LINE
   5
-143
+134
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_left_outsideCutPath
+underprop v2 v2_left_outsideCutPath
+100
+AcDbLine
+ 10
+1070.3125
+ 20
+63.0
+ 30
+0.0
+ 11
+1070.3125
+ 21
+60.0
+ 31
+0.0
+  0
+LINE
+  5
+135
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_left_outsideCutPath
+100
+AcDbLine
+ 10
+750.0625000000001
+ 20
+60.0
+ 30
+0.0
+ 11
+727.1875
+ 21
+60.0
+ 31
+0.0
+  0
+LINE
+  5
+136
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_left_outsideCutPath
+100
+AcDbLine
+ 10
+681.4375
+ 20
+63.0
+ 30
+0.0
+ 11
+658.5625
+ 21
+63.0
+ 31
+0.0
+  0
+LINE
+  5
+137
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_left_outsideCutPath
+100
+AcDbLine
+ 10
+955.9375000000001
+ 20
+60.0
+ 30
+0.0
+ 11
+955.9375000000001
+ 21
+63.0
+ 31
+0.0
+  0
+LINE
+  5
+138
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_left_outsideCutPath
+100
+AcDbLine
+ 10
+1001.6875
+ 20
+3.0
+ 30
+0.0
+ 11
+1001.6875
+ 21
+6.0
+ 31
+0.0
+  0
+LINE
+  5
+139
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_left_outsideCutPath
+100
+AcDbLine
+ 10
+1024.5625
+ 20
+63.0
+ 30
+0.0
+ 11
+1024.5625
+ 21
+60.0
+ 31
+0.0
+  0
+LINE
+  5
+13A
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_left_outsideCutPath
+100
+AcDbLine
+ 10
+1100.0
+ 20
+63.0
+ 30
+0.0
+ 11
+1070.3125
+ 21
+63.0
+ 31
+0.0
+  0
+LINE
+  5
+13B
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_left_outsideCutPath
+100
+AcDbLine
+ 10
+978.8125
+ 20
+3.0
+ 30
+0.0
+ 11
+1001.6875
+ 21
+3.0
+ 31
+0.0
+  0
+LINE
+  5
+13C
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_left_outsideCutPath
+100
+AcDbLine
+ 10
+1001.6875
+ 20
+63.0
+ 30
+0.0
+ 11
+978.8125
+ 21
+63.0
+ 31
+0.0
+  0
+LINE
+  5
+13D
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_left_outsideCutPath
+100
+AcDbLine
+ 10
+864.4375000000001
+ 20
+60.0
+ 30
+0.0
+ 11
+864.4375000000001
+ 21
+63.0
+ 31
+0.0
+  0
+LINE
+  5
+13E
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_left_outsideCutPath
+100
+AcDbLine
+ 10
+727.1875
+ 20
+63.0
+ 30
+0.0
+ 11
+704.3124999999999
+ 21
+63.0
+ 31
+0.0
+  0
+LINE
+  5
+13F
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_left_outsideCutPath
 100
 AcDbLine
  10
@@ -6999,13 +6903,85 @@ AcDbLine
   0
 LINE
   5
-144
+140
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_left_outsideCutPath
+underprop v2 v2_left_outsideCutPath
+100
+AcDbLine
+ 10
+818.6875
+ 20
+63.0
+ 30
+0.0
+ 11
+795.8124999999999
+ 21
+63.0
+ 31
+0.0
+  0
+LINE
+  5
+141
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_left_outsideCutPath
+100
+AcDbLine
+ 10
+1100.0
+ 20
+44.4375
+ 30
+0.0
+ 11
+1100.0
+ 21
+63.0
+ 31
+0.0
+  0
+LINE
+  5
+142
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_left_outsideCutPath
+100
+AcDbLine
+ 10
+1024.5625
+ 20
+60.0
+ 30
+0.0
+ 11
+1001.6875
+ 21
+60.0
+ 31
+0.0
+  0
+LINE
+  5
+143
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_left_outsideCutPath
 100
 AcDbLine
  10
@@ -7016,6 +6992,30 @@ AcDbLine
 0.0
  11
 887.3124999999999
+ 21
+60.0
+ 31
+0.0
+  0
+LINE
+  5
+144
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_left_outsideCutPath
+100
+AcDbLine
+ 10
+978.8125
+ 20
+60.0
+ 30
+0.0
+ 11
+955.9375000000001
  21
 60.0
  31
@@ -7029,19 +7029,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_left_outsideCutPath
+underprop v2 v2_left_outsideCutPath
 100
 AcDbLine
  10
-933.0624999999999
+864.4375000000001
  20
 63.0
  30
 0.0
  11
-933.0624999999999
+841.5625
  21
-60.0
+63.0
  31
 0.0
   0
@@ -7053,17 +7053,17 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_left_outsideCutPath
+underprop v2 v2_left_outsideCutPath
 100
 AcDbLine
  10
-658.5625
+795.8125000000001
  20
 63.0
  30
 0.0
  11
-658.5625
+795.8125000000001
  21
 60.0
  31
@@ -7077,17 +7077,17 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_left_outsideCutPath
+underprop v2 v2_left_outsideCutPath
 100
 AcDbLine
  10
-772.9375
+1047.4375
  20
-60.0
+63.0
  30
 0.0
  11
-772.9375
+1024.5625
  21
 63.0
  31
@@ -7101,7 +7101,7 @@ POINT
 100
 AcDbEntity
   8
-underprop v2 v1_top_outsideCutPath
+underprop v2 v2_top_outsideCutPath
 100
 AcDbPoint
  10
@@ -7119,7 +7119,7 @@ POINT
 100
 AcDbEntity
   8
-underprop v2 v1_back_outsideCutPath
+underprop v2 v2_back_outsideCutPath
 100
 AcDbPoint
  10
@@ -7137,7 +7137,7 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_back_outsideCutPath
+underprop v2 v2_back_outsideCutPath
 100
 AcDbLine
  10
@@ -7161,7 +7161,7 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_back_outsideCutPath
+underprop v2 v2_back_outsideCutPath
 100
 AcDbLine
  10
@@ -7185,19 +7185,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_back_outsideCutPath
+underprop v2 v2_back_outsideCutPath
 100
 AcDbLine
  10
-0.0
+3.0
  20
-66.0
+107.4375
  30
 0.0
  11
-36.9375
+3.0
  21
-66.0
+84.5625
  31
 0.0
   0
@@ -7209,223 +7209,7 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-36.9375
- 20
-69.0
- 30
-0.0
- 11
-59.8125
- 21
-69.0
- 31
-0.0
-  0
-LINE
-  5
-150
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-82.6875
- 20
-66.0
- 30
-0.0
- 11
-82.6875
- 21
-69.0
- 31
-0.0
-  0
-LINE
-  5
-151
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-105.5625
- 20
-69.0
- 30
-0.0
- 11
-105.5625
- 21
-66.0
- 31
-0.0
-  0
-LINE
-  5
-152
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-128.4375
- 20
-66.0
- 30
-0.0
- 11
-128.4375
- 21
-69.0
- 31
-0.0
-  0
-LINE
-  5
-153
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-151.3125
- 20
-66.0
- 30
-0.0
- 11
-174.1875
- 21
-66.0
- 31
-0.0
-  0
-LINE
-  5
-154
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-36.9375
- 20
-66.0
- 30
-0.0
- 11
-36.9375
- 21
-69.0
- 31
-0.0
-  0
-LINE
-  5
-155
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-174.1875
- 20
-66.0
- 30
-0.0
- 11
-174.1875
- 21
-69.0
- 31
-0.0
-  0
-LINE
-  5
-156
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-197.0625
- 20
-69.0
- 30
-0.0
- 11
-197.0625
- 21
-66.0
- 31
-0.0
-  0
-LINE
-  5
-157
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-265.6875
- 20
-66.0
- 30
-0.0
- 11
-265.6875
- 21
-69.0
- 31
-0.0
-  0
-LINE
-  5
-158
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
+underprop v2 v2_back_outsideCutPath
 100
 AcDbLine
  10
@@ -7443,23 +7227,239 @@ AcDbLine
   0
 LINE
   5
+150
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+288.5625
+ 20
+66.0
+ 30
+0.0
+ 11
+311.4375
+ 21
+66.0
+ 31
+0.0
+  0
+LINE
+  5
+151
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+540.1875
+ 20
+126.0
+ 30
+0.0
+ 11
+517.3124999999999
+ 21
+126.0
+ 31
+0.0
+  0
+LINE
+  5
+152
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+517.3124999999999
+ 20
+123.0
+ 30
+0.0
+ 11
+494.4374999999999
+ 21
+123.0
+ 31
+0.0
+  0
+LINE
+  5
+153
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+311.4375
+ 20
+66.0
+ 30
+0.0
+ 11
+311.4375
+ 21
+69.0
+ 31
+0.0
+  0
+LINE
+  5
+154
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+0.0
+ 20
+84.5625
+ 30
+0.0
+ 11
+0.0
+ 21
+66.0
+ 31
+0.0
+  0
+LINE
+  5
+155
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+59.8125
+ 20
+69.0
+ 30
+0.0
+ 11
+59.8125
+ 21
+66.0
+ 31
+0.0
+  0
+LINE
+  5
+156
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+600.0
+ 20
+107.4375
+ 30
+0.0
+ 11
+600.0
+ 21
+126.0
+ 31
+0.0
+  0
+LINE
+  5
+157
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+105.5625
+ 20
+66.0
+ 30
+0.0
+ 11
+128.4375
+ 21
+66.0
+ 31
+0.0
+  0
+LINE
+  5
+158
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+0.0
+ 20
+66.0
+ 30
+0.0
+ 11
+36.9375
+ 21
+66.0
+ 31
+0.0
+  0
+LINE
+  5
 159
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_back_outsideCutPath
+underprop v2 v2_back_outsideCutPath
 100
 AcDbLine
  10
-265.6875
+82.6875
  20
 69.0
  30
 0.0
  11
-288.5625
+105.5625
  21
 69.0
  31
@@ -7473,19 +7473,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_back_outsideCutPath
+underprop v2 v2_back_outsideCutPath
 100
 AcDbLine
  10
-288.5625
+219.9375
  20
 69.0
  30
 0.0
  11
-288.5625
+242.8125
  21
-66.0
+69.0
  31
 0.0
   0
@@ -7497,17 +7497,17 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_back_outsideCutPath
+underprop v2 v2_back_outsideCutPath
 100
 AcDbLine
  10
-3.0
+600.0
  20
-107.4375
+66.0
  30
 0.0
  11
-3.0
+600.0
  21
 84.5625
  31
@@ -7521,17 +7521,17 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_back_outsideCutPath
+underprop v2 v2_back_outsideCutPath
 100
 AcDbLine
  10
-105.5625
+197.0625
  20
 66.0
  30
 0.0
  11
-128.4375
+219.9375
  21
 66.0
  31
@@ -7545,19 +7545,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_back_outsideCutPath
+underprop v2 v2_back_outsideCutPath
 100
 AcDbLine
  10
-59.8125
+517.3124999999999
  20
-66.0
+126.0
  30
 0.0
  11
-82.6875
+517.3124999999999
  21
-66.0
+123.0
  31
 0.0
   0
@@ -7569,7 +7569,223 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_back_outsideCutPath
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+494.4374999999999
+ 20
+123.0
+ 30
+0.0
+ 11
+494.4374999999999
+ 21
+126.0
+ 31
+0.0
+  0
+LINE
+  5
+15F
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+563.0625
+ 20
+69.0
+ 30
+0.0
+ 11
+563.0625
+ 21
+66.0
+ 31
+0.0
+  0
+LINE
+  5
+160
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+471.5625
+ 20
+69.0
+ 30
+0.0
+ 11
+471.5625
+ 21
+66.0
+ 31
+0.0
+  0
+LINE
+  5
+161
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+197.0625
+ 20
+69.0
+ 30
+0.0
+ 11
+197.0625
+ 21
+66.0
+ 31
+0.0
+  0
+LINE
+  5
+162
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+265.6875
+ 20
+69.0
+ 30
+0.0
+ 11
+288.5625
+ 21
+69.0
+ 31
+0.0
+  0
+LINE
+  5
+163
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+219.9375
+ 20
+66.0
+ 30
+0.0
+ 11
+219.9375
+ 21
+69.0
+ 31
+0.0
+  0
+LINE
+  5
+164
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+448.6875
+ 20
+66.0
+ 30
+0.0
+ 11
+448.6875
+ 21
+69.0
+ 31
+0.0
+  0
+LINE
+  5
+165
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+597.0
+ 20
+107.4375
+ 30
+0.0
+ 11
+600.0
+ 21
+107.4375
+ 31
+0.0
+  0
+LINE
+  5
+166
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+288.5625
+ 20
+69.0
+ 30
+0.0
+ 11
+288.5625
+ 21
+66.0
+ 31
+0.0
+  0
+LINE
+  5
+167
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
 100
 AcDbLine
  10
@@ -7587,239 +7803,23 @@ AcDbLine
   0
 LINE
   5
-15F
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-151.3125
- 20
-69.0
- 30
-0.0
- 11
-151.3125
- 21
-66.0
- 31
-0.0
-  0
-LINE
-  5
-160
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-174.1875
- 20
-69.0
- 30
-0.0
- 11
-197.0625
- 21
-69.0
- 31
-0.0
-  0
-LINE
-  5
-161
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-197.0625
- 20
-66.0
- 30
-0.0
- 11
-219.9375
- 21
-66.0
- 31
-0.0
-  0
-LINE
-  5
-162
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-219.9375
- 20
-66.0
- 30
-0.0
- 11
-219.9375
- 21
-69.0
- 31
-0.0
-  0
-LINE
-  5
-163
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-219.9375
- 20
-69.0
- 30
-0.0
- 11
-242.8125
- 21
-69.0
- 31
-0.0
-  0
-LINE
-  5
-164
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-242.8125
- 20
-69.0
- 30
-0.0
- 11
-242.8125
- 21
-66.0
- 31
-0.0
-  0
-LINE
-  5
-165
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-242.8125
- 20
-66.0
- 30
-0.0
- 11
-265.6875
- 21
-66.0
- 31
-0.0
-  0
-LINE
-  5
-166
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-288.5625
- 20
-66.0
- 30
-0.0
- 11
-311.4375
- 21
-66.0
- 31
-0.0
-  0
-LINE
-  5
-167
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-311.4375
- 20
-66.0
- 30
-0.0
- 11
-311.4375
- 21
-69.0
- 31
-0.0
-  0
-LINE
-  5
 168
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_back_outsideCutPath
+underprop v2 v2_back_outsideCutPath
 100
 AcDbLine
  10
-0.0
+425.8125
  20
-84.5625
+69.0
  30
 0.0
  11
-0.0
+425.8125
  21
 66.0
  31
@@ -7833,19 +7833,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_back_outsideCutPath
+underprop v2 v2_back_outsideCutPath
 100
 AcDbLine
  10
-59.8125
+36.9375
  20
-69.0
+66.0
  30
 0.0
  11
-59.8125
+36.9375
  21
-66.0
+69.0
  31
 0.0
   0
@@ -7857,19 +7857,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_back_outsideCutPath
+underprop v2 v2_back_outsideCutPath
 100
 AcDbLine
  10
-82.6875
+151.3125
  20
 69.0
  30
 0.0
  11
-105.5625
+151.3125
  21
-69.0
+66.0
  31
 0.0
   0
@@ -7881,19 +7881,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_back_outsideCutPath
+underprop v2 v2_back_outsideCutPath
 100
 AcDbLine
  10
-197.0625
+151.3125
  20
-123.0
+66.0
  30
 0.0
  11
 174.1875
  21
-123.0
+66.0
  31
 0.0
   0
@@ -7905,223 +7905,7 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-471.5625
- 20
-69.0
- 30
-0.0
- 11
-471.5625
- 21
-66.0
- 31
-0.0
-  0
-LINE
-  5
-16D
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-334.3125
- 20
-66.0
- 30
-0.0
- 11
-357.1875
- 21
-66.0
- 31
-0.0
-  0
-LINE
-  5
-16E
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-494.4374999999999
- 20
-66.0
- 30
-0.0
- 11
-494.4374999999999
- 21
-69.0
- 31
-0.0
-  0
-LINE
-  5
-16F
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-380.0625
- 20
-66.0
- 30
-0.0
- 11
-402.9374999999999
- 21
-66.0
- 31
-0.0
-  0
-LINE
-  5
-170
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-402.9374999999999
- 20
-66.0
- 30
-0.0
- 11
-402.9374999999999
- 21
-69.0
- 31
-0.0
-  0
-LINE
-  5
-171
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-517.3124999999999
- 20
-69.0
- 30
-0.0
- 11
-517.3124999999999
- 21
-66.0
- 31
-0.0
-  0
-LINE
-  5
-172
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-563.0625
- 20
-66.0
- 30
-0.0
- 11
-585.9375
- 21
-66.0
- 31
-0.0
-  0
-LINE
-  5
-173
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-471.5625
- 20
-126.0
- 30
-0.0
- 11
-471.5625
- 21
-123.0
- 31
-0.0
-  0
-LINE
-  5
-174
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-540.1875
- 20
-66.0
- 30
-0.0
- 11
-540.1875
- 21
-69.0
- 31
-0.0
-  0
-LINE
-  5
-175
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
+underprop v2 v2_back_outsideCutPath
 100
 AcDbLine
  10
@@ -8139,61 +7923,61 @@ AcDbLine
   0
 LINE
   5
-176
+16D
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_back_outsideCutPath
+underprop v2 v2_back_outsideCutPath
 100
 AcDbLine
  10
-425.8125
+357.1875
  20
-66.0
+69.0
  30
 0.0
  11
-448.6875
+380.0625
  21
-66.0
+69.0
  31
 0.0
   0
 LINE
   5
-177
+16E
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_back_outsideCutPath
+underprop v2 v2_back_outsideCutPath
 100
 AcDbLine
  10
-597.0
+540.1875
  20
-84.5625
+69.0
  30
 0.0
  11
-597.0
+563.0625
  21
-107.4375
+69.0
  31
 0.0
   0
 LINE
   5
-178
+16F
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_back_outsideCutPath
+underprop v2 v2_back_outsideCutPath
 100
 AcDbLine
  10
@@ -8211,349 +7995,229 @@ AcDbLine
   0
 LINE
   5
+170
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+494.4374999999999
+ 20
+69.0
+ 30
+0.0
+ 11
+517.3124999999999
+ 21
+69.0
+ 31
+0.0
+  0
+LINE
+  5
+171
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+563.0625
+ 20
+126.0
+ 30
+0.0
+ 11
+563.0625
+ 21
+123.0
+ 31
+0.0
+  0
+LINE
+  5
+172
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+380.0625
+ 20
+66.0
+ 30
+0.0
+ 11
+402.9374999999999
+ 21
+66.0
+ 31
+0.0
+  0
+LINE
+  5
+173
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+540.1875
+ 20
+123.0
+ 30
+0.0
+ 11
+540.1875
+ 21
+126.0
+ 31
+0.0
+  0
+LINE
+  5
+174
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+494.4374999999999
+ 20
+66.0
+ 30
+0.0
+ 11
+494.4374999999999
+ 21
+69.0
+ 31
+0.0
+  0
+LINE
+  5
+175
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+334.3125
+ 20
+69.0
+ 30
+0.0
+ 11
+334.3125
+ 21
+66.0
+ 31
+0.0
+  0
+LINE
+  5
+176
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+174.1875
+ 20
+66.0
+ 30
+0.0
+ 11
+174.1875
+ 21
+69.0
+ 31
+0.0
+  0
+LINE
+  5
+177
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+242.8125
+ 20
+66.0
+ 30
+0.0
+ 11
+265.6875
+ 21
+66.0
+ 31
+0.0
+  0
+LINE
+  5
+178
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+448.6875
+ 20
+69.0
+ 30
+0.0
+ 11
+471.5625
+ 21
+69.0
+ 31
+0.0
+  0
+LINE
+  5
 179
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-563.0625
- 20
-126.0
- 30
-0.0
- 11
-563.0625
- 21
-123.0
- 31
-0.0
-  0
-LINE
-  5
-17A
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-517.3124999999999
- 20
-66.0
- 30
-0.0
- 11
-540.1875
- 21
-66.0
- 31
-0.0
-  0
-LINE
-  5
-17B
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-540.1875
- 20
-123.0
- 30
-0.0
- 11
-540.1875
- 21
-126.0
- 31
-0.0
-  0
-LINE
-  5
-17C
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-471.5625
- 20
-123.0
- 30
-0.0
- 11
-448.6875
- 21
-123.0
- 31
-0.0
-  0
-LINE
-  5
-17D
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-448.6875
- 20
-123.0
- 30
-0.0
- 11
-448.6875
- 21
-126.0
- 31
-0.0
-  0
-LINE
-  5
-17E
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-448.6875
- 20
-126.0
- 30
-0.0
- 11
-425.8125
- 21
-126.0
- 31
-0.0
-  0
-LINE
-  5
-17F
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-425.8125
- 20
-123.0
- 30
-0.0
- 11
-402.9375
- 21
-123.0
- 31
-0.0
-  0
-LINE
-  5
-180
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-402.9374999999999
- 20
-126.0
- 30
-0.0
- 11
-380.0625
- 21
-126.0
- 31
-0.0
-  0
-LINE
-  5
-181
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-448.6875
- 20
-69.0
- 30
-0.0
- 11
-471.5625
- 21
-69.0
- 31
-0.0
-  0
-LINE
-  5
-182
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-380.0625
- 20
-123.0
- 30
-0.0
- 11
-357.1875
- 21
-123.0
- 31
-0.0
-  0
-LINE
-  5
-183
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-357.1875
- 20
-123.0
- 30
-0.0
- 11
-357.1875
- 21
-126.0
- 31
-0.0
-  0
-LINE
-  5
-184
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-357.1875
- 20
-126.0
- 30
-0.0
- 11
-334.3125
- 21
-126.0
- 31
-0.0
-  0
-LINE
-  5
-185
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-334.3125
- 20
-126.0
- 30
-0.0
- 11
-334.3125
- 21
-123.0
- 31
-0.0
-  0
-LINE
-  5
-186
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-425.8125
- 20
-126.0
- 30
-0.0
- 11
-425.8125
- 21
-123.0
- 31
-0.0
-  0
-LINE
-  5
-187
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
+underprop v2 v2_back_outsideCutPath
 100
 AcDbLine
  10
@@ -8571,25 +8235,361 @@ AcDbLine
   0
 LINE
   5
+17A
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+82.6875
+ 20
+66.0
+ 30
+0.0
+ 11
+82.6875
+ 21
+69.0
+ 31
+0.0
+  0
+LINE
+  5
+17B
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+174.1875
+ 20
+69.0
+ 30
+0.0
+ 11
+197.0625
+ 21
+69.0
+ 31
+0.0
+  0
+LINE
+  5
+17C
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+517.3124999999999
+ 20
+66.0
+ 30
+0.0
+ 11
+540.1875
+ 21
+66.0
+ 31
+0.0
+  0
+LINE
+  5
+17D
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+357.1875
+ 20
+66.0
+ 30
+0.0
+ 11
+357.1875
+ 21
+69.0
+ 31
+0.0
+  0
+LINE
+  5
+17E
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+36.9375
+ 20
+69.0
+ 30
+0.0
+ 11
+59.8125
+ 21
+69.0
+ 31
+0.0
+  0
+LINE
+  5
+17F
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+517.3124999999999
+ 20
+69.0
+ 30
+0.0
+ 11
+517.3124999999999
+ 21
+66.0
+ 31
+0.0
+  0
+LINE
+  5
+180
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+59.8125
+ 20
+66.0
+ 30
+0.0
+ 11
+82.6875
+ 21
+66.0
+ 31
+0.0
+  0
+LINE
+  5
+181
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+105.5625
+ 20
+69.0
+ 30
+0.0
+ 11
+105.5625
+ 21
+66.0
+ 31
+0.0
+  0
+LINE
+  5
+182
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+242.8125
+ 20
+69.0
+ 30
+0.0
+ 11
+242.8125
+ 21
+66.0
+ 31
+0.0
+  0
+LINE
+  5
+183
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+334.3125
+ 20
+66.0
+ 30
+0.0
+ 11
+357.1875
+ 21
+66.0
+ 31
+0.0
+  0
+LINE
+  5
+184
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+380.0625
+ 20
+69.0
+ 30
+0.0
+ 11
+380.0625
+ 21
+66.0
+ 31
+0.0
+  0
+LINE
+  5
+185
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+402.9374999999999
+ 20
+66.0
+ 30
+0.0
+ 11
+402.9374999999999
+ 21
+69.0
+ 31
+0.0
+  0
+LINE
+  5
+186
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+128.4375
+ 20
+66.0
+ 30
+0.0
+ 11
+128.4375
+ 21
+69.0
+ 31
+0.0
+  0
+LINE
+  5
+187
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+425.8125
+ 20
+66.0
+ 30
+0.0
+ 11
+448.6875
+ 21
+66.0
+ 31
+0.0
+  0
+LINE
+  5
 188
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_back_outsideCutPath
+underprop v2 v2_back_outsideCutPath
 100
 AcDbLine
  10
-425.8125
+540.1875
  20
-69.0
+66.0
  30
 0.0
  11
-425.8125
+540.1875
  21
-66.0
+69.0
  31
 0.0
   0
@@ -8601,17 +8601,17 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_back_outsideCutPath
+underprop v2 v2_back_outsideCutPath
 100
 AcDbLine
  10
-334.3125
+563.0625
  20
-69.0
+66.0
  30
 0.0
  11
-334.3125
+585.9375
  21
 66.0
  31
@@ -8625,7 +8625,7 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_back_outsideCutPath
+underprop v2 v2_back_outsideCutPath
 100
 AcDbLine
  10
@@ -8649,487 +8649,7 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-448.6875
- 20
-66.0
- 30
-0.0
- 11
-448.6875
- 21
-69.0
- 31
-0.0
-  0
-LINE
-  5
-18C
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-563.0625
- 20
-69.0
- 30
-0.0
- 11
-563.0625
- 21
-66.0
- 31
-0.0
-  0
-LINE
-  5
-18D
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-380.0625
- 20
-69.0
- 30
-0.0
- 11
-380.0625
- 21
-66.0
- 31
-0.0
-  0
-LINE
-  5
-18E
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-597.0
- 20
-107.4375
- 30
-0.0
- 11
-600.0
- 21
-107.4375
- 31
-0.0
-  0
-LINE
-  5
-18F
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-600.0
- 20
-107.4375
- 30
-0.0
- 11
-600.0
- 21
-126.0
- 31
-0.0
-  0
-LINE
-  5
-190
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-540.1875
- 20
-126.0
- 30
-0.0
- 11
-517.3124999999999
- 21
-126.0
- 31
-0.0
-  0
-LINE
-  5
-191
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-517.3124999999999
- 20
-126.0
- 30
-0.0
- 11
-517.3124999999999
- 21
-123.0
- 31
-0.0
-  0
-LINE
-  5
-192
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-494.4374999999999
- 20
-123.0
- 30
-0.0
- 11
-494.4374999999999
- 21
-126.0
- 31
-0.0
-  0
-LINE
-  5
-193
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-402.9374999999999
- 20
-123.0
- 30
-0.0
- 11
-402.9374999999999
- 21
-126.0
- 31
-0.0
-  0
-LINE
-  5
-194
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-563.0625
- 20
-123.0
- 30
-0.0
- 11
-540.1875
- 21
-123.0
- 31
-0.0
-  0
-LINE
-  5
-195
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-357.1875
- 20
-66.0
- 30
-0.0
- 11
-357.1875
- 21
-69.0
- 31
-0.0
-  0
-LINE
-  5
-196
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-494.4374999999999
- 20
-126.0
- 30
-0.0
- 11
-471.5625
- 21
-126.0
- 31
-0.0
-  0
-LINE
-  5
-197
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-517.3124999999999
- 20
-123.0
- 30
-0.0
- 11
-494.4374999999999
- 21
-123.0
- 31
-0.0
-  0
-LINE
-  5
-198
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-380.0625
- 20
-126.0
- 30
-0.0
- 11
-380.0625
- 21
-123.0
- 31
-0.0
-  0
-LINE
-  5
-199
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-402.9374999999999
- 20
-69.0
- 30
-0.0
- 11
-425.8124999999999
- 21
-69.0
- 31
-0.0
-  0
-LINE
-  5
-19A
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-334.3125
- 20
-123.0
- 30
-0.0
- 11
-311.4375
- 21
-123.0
- 31
-0.0
-  0
-LINE
-  5
-19B
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-311.4375
- 20
-123.0
- 30
-0.0
- 11
-311.4375
- 21
-126.0
- 31
-0.0
-  0
-LINE
-  5
-19C
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-311.4375
- 20
-126.0
- 30
-0.0
- 11
-288.5625
- 21
-126.0
- 31
-0.0
-  0
-LINE
-  5
-19D
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-288.5625
- 20
-126.0
- 30
-0.0
- 11
-288.5625
- 21
-123.0
- 31
-0.0
-  0
-LINE
-  5
-19E
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-494.4374999999999
- 20
-69.0
- 30
-0.0
- 11
-517.3124999999999
- 21
-69.0
- 31
-0.0
-  0
-LINE
-  5
-19F
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
+underprop v2 v2_back_outsideCutPath
 100
 AcDbLine
  10
@@ -9147,13 +8667,157 @@ AcDbLine
   0
 LINE
   5
-1A0
+18C
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_back_outsideCutPath
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+265.6875
+ 20
+66.0
+ 30
+0.0
+ 11
+265.6875
+ 21
+69.0
+ 31
+0.0
+  0
+LINE
+  5
+18D
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+402.9374999999999
+ 20
+69.0
+ 30
+0.0
+ 11
+425.8124999999999
+ 21
+69.0
+ 31
+0.0
+  0
+LINE
+  5
+18E
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+597.0
+ 20
+84.5625
+ 30
+0.0
+ 11
+597.0
+ 21
+107.4375
+ 31
+0.0
+  0
+LINE
+  5
+18F
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+563.0625
+ 20
+123.0
+ 30
+0.0
+ 11
+540.1875
+ 21
+123.0
+ 31
+0.0
+  0
+LINE
+  5
+190
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+197.0625
+ 20
+123.0
+ 30
+0.0
+ 11
+174.1875
+ 21
+123.0
+ 31
+0.0
+  0
+LINE
+  5
+191
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+402.9374999999999
+ 20
+126.0
+ 30
+0.0
+ 11
+380.0625
+ 21
+126.0
+ 31
+0.0
+  0
+LINE
+  5
+192
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
 100
 AcDbLine
  10
@@ -9171,37 +8835,13 @@ AcDbLine
   0
 LINE
   5
-1A1
+193
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-265.6875
- 20
-123.0
- 30
-0.0
- 11
-265.6875
- 21
-126.0
- 31
-0.0
-  0
-LINE
-  5
-1A2
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
+underprop v2 v2_back_outsideCutPath
 100
 AcDbLine
  10
@@ -9219,157 +8859,13 @@ AcDbLine
   0
 LINE
   5
-1A3
+194
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-540.1875
- 20
-69.0
- 30
-0.0
- 11
-563.0625
- 21
-69.0
- 31
-0.0
-  0
-LINE
-  5
-1A4
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-600.0
- 20
-66.0
- 30
-0.0
- 11
-600.0
- 21
-84.5625
- 31
-0.0
-  0
-LINE
-  5
-1A5
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-242.8125
- 20
-126.0
- 30
-0.0
- 11
-242.8125
- 21
-123.0
- 31
-0.0
-  0
-LINE
-  5
-1A6
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-242.8125
- 20
-123.0
- 30
-0.0
- 11
-219.9375
- 21
-123.0
- 31
-0.0
-  0
-LINE
-  5
-1A7
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-219.9375
- 20
-123.0
- 30
-0.0
- 11
-219.9375
- 21
-126.0
- 31
-0.0
-  0
-LINE
-  5
-1A8
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-219.9375
- 20
-126.0
- 30
-0.0
- 11
-197.0625
- 21
-126.0
- 31
-0.0
-  0
-LINE
-  5
-1A9
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
+underprop v2 v2_back_outsideCutPath
 100
 AcDbLine
  10
@@ -9387,205 +8883,13 @@ AcDbLine
   0
 LINE
   5
-1AA
+195
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-357.1875
- 20
-69.0
- 30
-0.0
- 11
-380.0625
- 21
-69.0
- 31
-0.0
-  0
-LINE
-  5
-1AB
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-151.3125
- 20
-123.0
- 30
-0.0
- 11
-128.4375
- 21
-123.0
- 31
-0.0
-  0
-LINE
-  5
-1AC
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-128.4375
- 20
-123.0
- 30
-0.0
- 11
-128.4375
- 21
-126.0
- 31
-0.0
-  0
-LINE
-  5
-1AD
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-82.6875
- 20
-123.0
- 30
-0.0
- 11
-82.6875
- 21
-126.0
- 31
-0.0
-  0
-LINE
-  5
-1AE
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-36.9375
- 20
-123.0
- 30
-0.0
- 11
-36.9375
- 21
-126.0
- 31
-0.0
-  0
-LINE
-  5
-1AF
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-151.3125
- 20
-126.0
- 30
-0.0
- 11
-151.3125
- 21
-123.0
- 31
-0.0
-  0
-LINE
-  5
-1B0
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-128.4375
- 20
-126.0
- 30
-0.0
- 11
-105.5625
- 21
-126.0
- 31
-0.0
-  0
-LINE
-  5
-1B1
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
-100
-AcDbLine
- 10
-105.5625
- 20
-126.0
- 30
-0.0
- 11
-105.5625
- 21
-123.0
- 31
-0.0
-  0
-LINE
-  5
-1B2
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_back_outsideCutPath
+underprop v2 v2_back_outsideCutPath
 100
 AcDbLine
  10
@@ -9603,23 +8907,47 @@ AcDbLine
   0
 LINE
   5
-1B3
+196
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_back_outsideCutPath
+underprop v2 v2_back_outsideCutPath
 100
 AcDbLine
  10
-59.8125
+219.9375
  20
-126.0
+123.0
  30
 0.0
  11
-59.8125
+219.9375
+ 21
+126.0
+ 31
+0.0
+  0
+LINE
+  5
+197
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+151.3125
+ 20
+123.0
+ 30
+0.0
+ 11
+128.4375
  21
 123.0
  31
@@ -9627,17 +8955,17 @@ AcDbLine
   0
 LINE
   5
-1B4
+198
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_back_outsideCutPath
+underprop v2 v2_back_outsideCutPath
 100
 AcDbLine
  10
-105.5625
+82.6875
  20
 123.0
  30
@@ -9645,19 +8973,67 @@ AcDbLine
  11
 82.6875
  21
+126.0
+ 31
+0.0
+  0
+LINE
+  5
+199
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+59.8125
+ 20
+123.0
+ 30
+0.0
+ 11
+36.9375
+ 21
 123.0
  31
 0.0
   0
 LINE
   5
-1B5
+19A
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_back_outsideCutPath
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+128.4375
+ 20
+123.0
+ 30
+0.0
+ 11
+128.4375
+ 21
+126.0
+ 31
+0.0
+  0
+LINE
+  5
+19B
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
 100
 AcDbLine
  10
@@ -9675,13 +9051,253 @@ AcDbLine
   0
 LINE
   5
-1B6
+19C
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_back_outsideCutPath
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+380.0625
+ 20
+123.0
+ 30
+0.0
+ 11
+357.1875
+ 21
+123.0
+ 31
+0.0
+  0
+LINE
+  5
+19D
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+494.4374999999999
+ 20
+126.0
+ 30
+0.0
+ 11
+471.5625
+ 21
+126.0
+ 31
+0.0
+  0
+LINE
+  5
+19E
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+242.8125
+ 20
+126.0
+ 30
+0.0
+ 11
+242.8125
+ 21
+123.0
+ 31
+0.0
+  0
+LINE
+  5
+19F
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+288.5625
+ 20
+126.0
+ 30
+0.0
+ 11
+288.5625
+ 21
+123.0
+ 31
+0.0
+  0
+LINE
+  5
+1A0
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+471.5625
+ 20
+126.0
+ 30
+0.0
+ 11
+471.5625
+ 21
+123.0
+ 31
+0.0
+  0
+LINE
+  5
+1A1
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+151.3125
+ 20
+126.0
+ 30
+0.0
+ 11
+151.3125
+ 21
+123.0
+ 31
+0.0
+  0
+LINE
+  5
+1A2
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+128.4375
+ 20
+126.0
+ 30
+0.0
+ 11
+105.5625
+ 21
+126.0
+ 31
+0.0
+  0
+LINE
+  5
+1A3
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+471.5625
+ 20
+123.0
+ 30
+0.0
+ 11
+448.6875
+ 21
+123.0
+ 31
+0.0
+  0
+LINE
+  5
+1A4
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+105.5625
+ 20
+126.0
+ 30
+0.0
+ 11
+105.5625
+ 21
+123.0
+ 31
+0.0
+  0
+LINE
+  5
+1A5
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+36.9375
+ 20
+126.0
+ 30
+0.0
+ 11
+14.0625
+ 21
+126.0
+ 31
+0.0
+  0
+LINE
+  5
+1A6
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
 100
 AcDbLine
  10
@@ -9694,6 +9310,390 @@ AcDbLine
 174.1875
  21
 126.0
+ 31
+0.0
+  0
+LINE
+  5
+1A7
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+448.6875
+ 20
+123.0
+ 30
+0.0
+ 11
+448.6875
+ 21
+126.0
+ 31
+0.0
+  0
+LINE
+  5
+1A8
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+425.8125
+ 20
+126.0
+ 30
+0.0
+ 11
+425.8125
+ 21
+123.0
+ 31
+0.0
+  0
+LINE
+  5
+1A9
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+425.8125
+ 20
+123.0
+ 30
+0.0
+ 11
+402.9375
+ 21
+123.0
+ 31
+0.0
+  0
+LINE
+  5
+1AA
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+380.0625
+ 20
+126.0
+ 30
+0.0
+ 11
+380.0625
+ 21
+123.0
+ 31
+0.0
+  0
+LINE
+  5
+1AB
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+334.3125
+ 20
+123.0
+ 30
+0.0
+ 11
+311.4375
+ 21
+123.0
+ 31
+0.0
+  0
+LINE
+  5
+1AC
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+265.6875
+ 20
+123.0
+ 30
+0.0
+ 11
+265.6875
+ 21
+126.0
+ 31
+0.0
+  0
+LINE
+  5
+1AD
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+59.8125
+ 20
+126.0
+ 30
+0.0
+ 11
+59.8125
+ 21
+123.0
+ 31
+0.0
+  0
+LINE
+  5
+1AE
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+334.3125
+ 20
+126.0
+ 30
+0.0
+ 11
+334.3125
+ 21
+123.0
+ 31
+0.0
+  0
+LINE
+  5
+1AF
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+402.9374999999999
+ 20
+123.0
+ 30
+0.0
+ 11
+402.9374999999999
+ 21
+126.0
+ 31
+0.0
+  0
+LINE
+  5
+1B0
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+357.1875
+ 20
+123.0
+ 30
+0.0
+ 11
+357.1875
+ 21
+126.0
+ 31
+0.0
+  0
+LINE
+  5
+1B1
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+36.9375
+ 20
+123.0
+ 30
+0.0
+ 11
+36.9375
+ 21
+126.0
+ 31
+0.0
+  0
+LINE
+  5
+1B2
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+448.6875
+ 20
+126.0
+ 30
+0.0
+ 11
+425.8125
+ 21
+126.0
+ 31
+0.0
+  0
+LINE
+  5
+1B3
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+311.4375
+ 20
+123.0
+ 30
+0.0
+ 11
+311.4375
+ 21
+126.0
+ 31
+0.0
+  0
+LINE
+  5
+1B4
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+14.0625
+ 20
+126.0
+ 30
+0.0
+ 11
+0.0
+ 21
+126.0
+ 31
+0.0
+  0
+LINE
+  5
+1B5
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+311.4375
+ 20
+126.0
+ 30
+0.0
+ 11
+288.5625
+ 21
+126.0
+ 31
+0.0
+  0
+LINE
+  5
+1B6
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_back_outsideCutPath
+100
+AcDbLine
+ 10
+242.8125
+ 20
+123.0
+ 30
+0.0
+ 11
+219.9375
+ 21
+123.0
  31
 0.0
   0
@@ -9705,19 +9705,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_back_outsideCutPath
+underprop v2 v2_back_outsideCutPath
 100
 AcDbLine
  10
-36.9375
+105.5625
  20
-126.0
+123.0
  30
 0.0
  11
-14.0625
+82.6875
  21
-126.0
+123.0
  31
 0.0
   0
@@ -9729,19 +9729,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_back_outsideCutPath
+underprop v2 v2_back_outsideCutPath
 100
 AcDbLine
  10
-59.8125
+357.1875
  20
-123.0
+126.0
  30
 0.0
  11
-36.9375
+334.3125
  21
-123.0
+126.0
  31
 0.0
   0
@@ -9753,17 +9753,17 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_back_outsideCutPath
+underprop v2 v2_back_outsideCutPath
 100
 AcDbLine
  10
-14.0625
+219.9375
  20
 126.0
  30
 0.0
  11
-0.0
+197.0625
  21
 126.0
  31
@@ -9777,7 +9777,7 @@ POINT
 100
 AcDbEntity
   8
-underprop v2 v1_right_outsideCutPath
+underprop v2 v2_right_outsideCutPath
 100
 AcDbPoint
  10
@@ -9795,31 +9795,7 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_right_outsideCutPath
-100
-AcDbLine
- 10
-795.8125000000001
- 20
-69.0
- 30
-0.0
- 11
-795.8125000000001
- 21
-66.0
- 31
-0.0
-  0
-LINE
-  5
-1BD
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_right_outsideCutPath
+underprop v2 v2_right_outsideCutPath
 100
 AcDbLine
  10
@@ -9837,13 +9813,13 @@ AcDbLine
   0
 LINE
   5
-1BE
+1BD
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_right_outsideCutPath
+underprop v2 v2_right_outsideCutPath
 100
 AcDbLine
  10
@@ -9861,25 +9837,49 @@ AcDbLine
   0
 LINE
   5
+1BE
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_right_outsideCutPath
+100
+AcDbLine
+ 10
+681.4375
+ 20
+66.0
+ 30
+0.0
+ 11
+681.4375
+ 21
+69.0
+ 31
+0.0
+  0
+LINE
+  5
 1BF
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_right_outsideCutPath
+underprop v2 v2_right_outsideCutPath
 100
 AcDbLine
  10
-864.4375000000001
+603.0
  20
-69.0
+107.4375
  30
 0.0
  11
-887.3124999999999
+603.0
  21
-69.0
+84.5625
  31
 0.0
   0
@@ -9891,17 +9891,17 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_right_outsideCutPath
+underprop v2 v2_right_outsideCutPath
 100
 AcDbLine
  10
-606.0
+704.3124999999999
  20
-84.5625
+66.0
  30
 0.0
  11
-606.0
+727.1875
  21
 66.0
  31
@@ -9915,19 +9915,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_right_outsideCutPath
+underprop v2 v2_right_outsideCutPath
 100
 AcDbLine
  10
-887.3124999999999
+727.1875
  20
 69.0
  30
 0.0
  11
-887.3124999999999
+750.0625000000001
  21
-66.0
+69.0
  31
 0.0
   0
@@ -9939,19 +9939,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_right_outsideCutPath
+underprop v2 v2_right_outsideCutPath
 100
 AcDbLine
  10
-910.1875000000001
+750.0625000000001
  20
-66.0
+69.0
  30
 0.0
  11
-910.1875000000001
+750.0625000000001
  21
-69.0
+66.0
  31
 0.0
   0
@@ -9963,17 +9963,17 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_right_outsideCutPath
+underprop v2 v2_right_outsideCutPath
 100
 AcDbLine
  10
-955.9375000000001
+772.9375
  20
-69.0
+66.0
  30
 0.0
  11
-978.8125
+772.9375
  21
 69.0
  31
@@ -9987,17 +9987,17 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_right_outsideCutPath
+underprop v2 v2_right_outsideCutPath
 100
 AcDbLine
  10
-1001.6875
+635.6875
  20
-66.0
+69.0
  30
 0.0
  11
-1001.6875
+658.5625
  21
 69.0
  31
@@ -10011,19 +10011,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_right_outsideCutPath
+underprop v2 v2_right_outsideCutPath
 100
 AcDbLine
  10
-933.0624999999999
+727.1875
  20
-69.0
+66.0
  30
 0.0
  11
-933.0624999999999
+727.1875
  21
-66.0
+69.0
  31
 0.0
   0
@@ -10035,439 +10035,7 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_right_outsideCutPath
-100
-AcDbLine
- 10
-978.8125
- 20
-66.0
- 30
-0.0
- 11
-1001.6875
- 21
-66.0
- 31
-0.0
-  0
-LINE
-  5
-1C7
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_right_outsideCutPath
-100
-AcDbLine
- 10
-1001.6875
- 20
-69.0
- 30
-0.0
- 11
-1024.5625
- 21
-69.0
- 31
-0.0
-  0
-LINE
-  5
-1C8
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_right_outsideCutPath
-100
-AcDbLine
- 10
-1024.5625
- 20
-69.0
- 30
-0.0
- 11
-1024.5625
- 21
-66.0
- 31
-0.0
-  0
-LINE
-  5
-1C9
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_right_outsideCutPath
-100
-AcDbLine
- 10
-955.9375000000001
- 20
-66.0
- 30
-0.0
- 11
-955.9375000000001
- 21
-69.0
- 31
-0.0
-  0
-LINE
-  5
-1CA
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_right_outsideCutPath
-100
-AcDbLine
- 10
-1024.5625
- 20
-66.0
- 30
-0.0
- 11
-1047.4375
- 21
-66.0
- 31
-0.0
-  0
-LINE
-  5
-1CB
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_right_outsideCutPath
-100
-AcDbLine
- 10
-603.0
- 20
-107.4375
- 30
-0.0
- 11
-603.0
- 21
-84.5625
- 31
-0.0
-  0
-LINE
-  5
-1CC
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_right_outsideCutPath
-100
-AcDbLine
- 10
-681.4375
- 20
-66.0
- 30
-0.0
- 11
-681.4375
- 21
-69.0
- 31
-0.0
-  0
-LINE
-  5
-1CD
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_right_outsideCutPath
-100
-AcDbLine
- 10
-818.6875
- 20
-69.0
- 30
-0.0
- 11
-841.5625
- 21
-69.0
- 31
-0.0
-  0
-LINE
-  5
-1CE
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_right_outsideCutPath
-100
-AcDbLine
- 10
-864.4375000000001
- 20
-66.0
- 30
-0.0
- 11
-864.4375000000001
- 21
-69.0
- 31
-0.0
-  0
-LINE
-  5
-1CF
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_right_outsideCutPath
-100
-AcDbLine
- 10
-978.8125
- 20
-69.0
- 30
-0.0
- 11
-978.8125
- 21
-66.0
- 31
-0.0
-  0
-LINE
-  5
-1D0
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_right_outsideCutPath
-100
-AcDbLine
- 10
-606.0
- 20
-66.0
- 30
-0.0
- 11
-635.6875
- 21
-66.0
- 31
-0.0
-  0
-LINE
-  5
-1D1
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_right_outsideCutPath
-100
-AcDbLine
- 10
-727.1875
- 20
-66.0
- 30
-0.0
- 11
-727.1875
- 21
-69.0
- 31
-0.0
-  0
-LINE
-  5
-1D2
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_right_outsideCutPath
-100
-AcDbLine
- 10
-772.9375
- 20
-66.0
- 30
-0.0
- 11
-772.9375
- 21
-69.0
- 31
-0.0
-  0
-LINE
-  5
-1D3
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_right_outsideCutPath
-100
-AcDbLine
- 10
-795.8125000000001
- 20
-66.0
- 30
-0.0
- 11
-818.6875
- 21
-66.0
- 31
-0.0
-  0
-LINE
-  5
-1D4
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_right_outsideCutPath
-100
-AcDbLine
- 10
-887.3124999999999
- 20
-66.0
- 30
-0.0
- 11
-910.1875000000001
- 21
-66.0
- 31
-0.0
-  0
-LINE
-  5
-1D5
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_right_outsideCutPath
-100
-AcDbLine
- 10
-1047.4375
- 20
-69.0
- 30
-0.0
- 11
-1070.3125
- 21
-69.0
- 31
-0.0
-  0
-LINE
-  5
-1D6
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_right_outsideCutPath
-100
-AcDbLine
- 10
-658.5625
- 20
-69.0
- 30
-0.0
- 11
-658.5625
- 21
-66.0
- 31
-0.0
-  0
-LINE
-  5
-1D7
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_right_outsideCutPath
-100
-AcDbLine
- 10
-606.0
- 20
-107.4375
- 30
-0.0
- 11
-603.0
- 21
-107.4375
- 31
-0.0
-  0
-LINE
-  5
-1D8
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_right_outsideCutPath
+underprop v2 v2_right_outsideCutPath
 100
 AcDbLine
  10
@@ -10485,13 +10053,13 @@ AcDbLine
   0
 LINE
   5
-1D9
+1C7
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_right_outsideCutPath
+underprop v2 v2_right_outsideCutPath
 100
 AcDbLine
  10
@@ -10509,23 +10077,71 @@ AcDbLine
   0
 LINE
   5
-1DA
+1C8
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_right_outsideCutPath
+underprop v2 v2_right_outsideCutPath
 100
 AcDbLine
  10
-841.5625
+772.9375
+ 20
+69.0
+ 30
+0.0
+ 11
+795.8125000000001
+ 21
+69.0
+ 31
+0.0
+  0
+LINE
+  5
+1C9
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_right_outsideCutPath
+100
+AcDbLine
+ 10
+635.6875
  20
 66.0
  30
 0.0
  11
-864.4375000000001
+635.6875
+ 21
+69.0
+ 31
+0.0
+  0
+LINE
+  5
+1CA
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_right_outsideCutPath
+100
+AcDbLine
+ 10
+795.8125000000001
+ 20
+69.0
+ 30
+0.0
+ 11
+795.8125000000001
  21
 66.0
  31
@@ -10533,17 +10149,113 @@ AcDbLine
   0
 LINE
   5
-1DB
+1CB
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_right_outsideCutPath
+underprop v2 v2_right_outsideCutPath
 100
 AcDbLine
  10
+606.0
+ 20
+126.0
+ 30
+0.0
+ 11
+606.0
+ 21
+107.4375
+ 31
+0.0
+  0
+LINE
+  5
+1CC
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_right_outsideCutPath
+100
+AcDbLine
+ 10
+750.0625000000001
+ 20
+66.0
+ 30
+0.0
+ 11
+772.9375
+ 21
+66.0
+ 31
+0.0
+  0
+LINE
+  5
+1CD
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_right_outsideCutPath
+100
+AcDbLine
+ 10
+606.0
+ 20
+84.5625
+ 30
+0.0
+ 11
+606.0
+ 21
+66.0
+ 31
+0.0
+  0
+LINE
+  5
+1CE
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_right_outsideCutPath
+100
+AcDbLine
+ 10
+606.0
+ 20
+66.0
+ 30
+0.0
+ 11
 635.6875
+ 21
+66.0
+ 31
+0.0
+  0
+LINE
+  5
+1CF
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_right_outsideCutPath
+100
+AcDbLine
+ 10
+658.5625
  20
 69.0
  30
@@ -10551,245 +10263,29 @@ AcDbLine
  11
 658.5625
  21
-69.0
- 31
-0.0
-  0
-LINE
-  5
-1DC
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_right_outsideCutPath
-100
-AcDbLine
- 10
-750.0625000000001
- 20
-69.0
- 30
-0.0
- 11
-750.0625000000001
- 21
 66.0
  31
 0.0
   0
 LINE
   5
-1DD
+1D0
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_right_outsideCutPath
-100
-AcDbLine
- 10
-818.6875
- 20
-66.0
- 30
-0.0
- 11
-818.6875
- 21
-69.0
- 31
-0.0
-  0
-LINE
-  5
-1DE
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_right_outsideCutPath
-100
-AcDbLine
- 10
-910.1875000000001
- 20
-69.0
- 30
-0.0
- 11
-933.0624999999999
- 21
-69.0
- 31
-0.0
-  0
-LINE
-  5
-1DF
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_right_outsideCutPath
-100
-AcDbLine
- 10
-933.0624999999999
- 20
-66.0
- 30
-0.0
- 11
-955.9375000000001
- 21
-66.0
- 31
-0.0
-  0
-LINE
-  5
-1E0
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_right_outsideCutPath
-100
-AcDbLine
- 10
-1047.4375
- 20
-66.0
- 30
-0.0
- 11
-1047.4375
- 21
-69.0
- 31
-0.0
-  0
-LINE
-  5
-1E1
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_right_outsideCutPath
-100
-AcDbLine
- 10
-1070.3125
- 20
-69.0
- 30
-0.0
- 11
-1070.3125
- 21
-66.0
- 31
-0.0
-  0
-LINE
-  5
-1E2
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_right_outsideCutPath
-100
-AcDbLine
- 10
-1070.3125
- 20
-66.0
- 30
-0.0
- 11
-1100.0
- 21
-66.0
- 31
-0.0
-  0
-LINE
-  5
-1E3
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_right_outsideCutPath
-100
-AcDbLine
- 10
-1100.0
- 20
-66.0
- 30
-0.0
- 11
-1100.0
- 21
-84.5625
- 31
-0.0
-  0
-LINE
-  5
-1E4
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_right_outsideCutPath
-100
-AcDbLine
- 10
-1100.0
- 20
-84.5625
- 30
-0.0
- 11
-1103.0
- 21
-84.5625
- 31
-0.0
-  0
-LINE
-  5
-1E5
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_right_outsideCutPath
+underprop v2 v2_right_outsideCutPath
 100
 AcDbLine
  10
 606.0
  20
-126.0
+107.4375
  30
 0.0
  11
-606.0
+603.0
  21
 107.4375
  31
@@ -10797,565 +10293,13 @@ AcDbLine
   0
 LINE
   5
-1E6
+1D1
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_right_outsideCutPath
-100
-AcDbLine
- 10
-704.3124999999999
- 20
-66.0
- 30
-0.0
- 11
-727.1875
- 21
-66.0
- 31
-0.0
-  0
-LINE
-  5
-1E7
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_right_outsideCutPath
-100
-AcDbLine
- 10
-841.5625
- 20
-69.0
- 30
-0.0
- 11
-841.5625
- 21
-66.0
- 31
-0.0
-  0
-LINE
-  5
-1E8
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_right_outsideCutPath
-100
-AcDbLine
- 10
-727.1875
- 20
-69.0
- 30
-0.0
- 11
-750.0625000000001
- 21
-69.0
- 31
-0.0
-  0
-LINE
-  5
-1E9
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_right_outsideCutPath
-100
-AcDbLine
- 10
-772.9375
- 20
-69.0
- 30
-0.0
- 11
-795.8125000000001
- 21
-69.0
- 31
-0.0
-  0
-LINE
-  5
-1EA
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_right_outsideCutPath
-100
-AcDbLine
- 10
-750.0625000000001
- 20
-66.0
- 30
-0.0
- 11
-772.9375
- 21
-66.0
- 31
-0.0
-  0
-LINE
-  5
-1EB
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_right_outsideCutPath
-100
-AcDbLine
- 10
-635.6875
- 20
-66.0
- 30
-0.0
- 11
-635.6875
- 21
-69.0
- 31
-0.0
-  0
-LINE
-  5
-1EC
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_right_outsideCutPath
-100
-AcDbLine
- 10
-1070.3125
- 20
-123.0
- 30
-0.0
- 11
-1047.4375
- 21
-123.0
- 31
-0.0
-  0
-LINE
-  5
-1ED
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_right_outsideCutPath
-100
-AcDbLine
- 10
-1001.6875
- 20
-126.0
- 30
-0.0
- 11
-978.8125
- 21
-126.0
- 31
-0.0
-  0
-LINE
-  5
-1EE
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_right_outsideCutPath
-100
-AcDbLine
- 10
-750.0625000000001
- 20
-123.0
- 30
-0.0
- 11
-727.1875
- 21
-123.0
- 31
-0.0
-  0
-LINE
-  5
-1EF
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_right_outsideCutPath
-100
-AcDbLine
- 10
-727.1875
- 20
-123.0
- 30
-0.0
- 11
-727.1875
- 21
-126.0
- 31
-0.0
-  0
-LINE
-  5
-1F0
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_right_outsideCutPath
-100
-AcDbLine
- 10
-910.1875000000001
- 20
-123.0
- 30
-0.0
- 11
-910.1875000000001
- 21
-126.0
- 31
-0.0
-  0
-LINE
-  5
-1F1
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_right_outsideCutPath
-100
-AcDbLine
- 10
-978.8125
- 20
-123.0
- 30
-0.0
- 11
-955.9375000000001
- 21
-123.0
- 31
-0.0
-  0
-LINE
-  5
-1F2
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_right_outsideCutPath
-100
-AcDbLine
- 10
-818.6875
- 20
-123.0
- 30
-0.0
- 11
-818.6875
- 21
-126.0
- 31
-0.0
-  0
-LINE
-  5
-1F3
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_right_outsideCutPath
-100
-AcDbLine
- 10
-772.9375
- 20
-123.0
- 30
-0.0
- 11
-772.9375
- 21
-126.0
- 31
-0.0
-  0
-LINE
-  5
-1F4
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_right_outsideCutPath
-100
-AcDbLine
- 10
-704.3124999999999
- 20
-123.0
- 30
-0.0
- 11
-681.4374999999999
- 21
-123.0
- 31
-0.0
-  0
-LINE
-  5
-1F5
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_right_outsideCutPath
-100
-AcDbLine
- 10
-704.3124999999999
- 20
-126.0
- 30
-0.0
- 11
-704.3124999999999
- 21
-123.0
- 31
-0.0
-  0
-LINE
-  5
-1F6
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_right_outsideCutPath
-100
-AcDbLine
- 10
-933.0624999999999
- 20
-126.0
- 30
-0.0
- 11
-933.0624999999999
- 21
-123.0
- 31
-0.0
-  0
-LINE
-  5
-1F7
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_right_outsideCutPath
-100
-AcDbLine
- 10
-1100.0
- 20
-107.4375
- 30
-0.0
- 11
-1100.0
- 21
-126.0
- 31
-0.0
-  0
-LINE
-  5
-1F8
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_right_outsideCutPath
-100
-AcDbLine
- 10
-1103.0
- 20
-107.4375
- 30
-0.0
- 11
-1100.0
- 21
-107.4375
- 31
-0.0
-  0
-LINE
-  5
-1F9
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_right_outsideCutPath
-100
-AcDbLine
- 10
-795.8125000000001
- 20
-123.0
- 30
-0.0
- 11
-772.9375
- 21
-123.0
- 31
-0.0
-  0
-LINE
-  5
-1FA
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_right_outsideCutPath
-100
-AcDbLine
- 10
-818.6875
- 20
-126.0
- 30
-0.0
- 11
-795.8124999999999
- 21
-126.0
- 31
-0.0
-  0
-LINE
-  5
-1FB
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_right_outsideCutPath
-100
-AcDbLine
- 10
-955.9375000000001
- 20
-123.0
- 30
-0.0
- 11
-955.9375000000001
- 21
-126.0
- 31
-0.0
-  0
-LINE
-  5
-1FC
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_right_outsideCutPath
-100
-AcDbLine
- 10
-955.9375000000001
- 20
-126.0
- 30
-0.0
- 11
-933.0624999999999
- 21
-126.0
- 31
-0.0
-  0
-LINE
-  5
-1FD
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_right_outsideCutPath
+underprop v2 v2_right_outsideCutPath
 100
 AcDbLine
  10
@@ -11373,13 +10317,733 @@ AcDbLine
   0
 LINE
   5
-1FE
+1D2
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_right_outsideCutPath
+underprop v2 v2_right_outsideCutPath
+100
+AcDbLine
+ 10
+841.5625
+ 20
+123.0
+ 30
+0.0
+ 11
+818.6875
+ 21
+123.0
+ 31
+0.0
+  0
+LINE
+  5
+1D3
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_right_outsideCutPath
+100
+AcDbLine
+ 10
+818.6875
+ 20
+126.0
+ 30
+0.0
+ 11
+795.8124999999999
+ 21
+126.0
+ 31
+0.0
+  0
+LINE
+  5
+1D4
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_right_outsideCutPath
+100
+AcDbLine
+ 10
+1100.0
+ 20
+66.0
+ 30
+0.0
+ 11
+1100.0
+ 21
+84.5625
+ 31
+0.0
+  0
+LINE
+  5
+1D5
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_right_outsideCutPath
+100
+AcDbLine
+ 10
+864.4375000000001
+ 20
+123.0
+ 30
+0.0
+ 11
+864.4375000000001
+ 21
+126.0
+ 31
+0.0
+  0
+LINE
+  5
+1D6
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_right_outsideCutPath
+100
+AcDbLine
+ 10
+1024.5625
+ 20
+69.0
+ 30
+0.0
+ 11
+1024.5625
+ 21
+66.0
+ 31
+0.0
+  0
+LINE
+  5
+1D7
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_right_outsideCutPath
+100
+AcDbLine
+ 10
+1047.4375
+ 20
+126.0
+ 30
+0.0
+ 11
+1024.5625
+ 21
+126.0
+ 31
+0.0
+  0
+LINE
+  5
+1D8
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_right_outsideCutPath
+100
+AcDbLine
+ 10
+818.6875
+ 20
+123.0
+ 30
+0.0
+ 11
+818.6875
+ 21
+126.0
+ 31
+0.0
+  0
+LINE
+  5
+1D9
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_right_outsideCutPath
+100
+AcDbLine
+ 10
+864.4375000000001
+ 20
+126.0
+ 30
+0.0
+ 11
+841.5625
+ 21
+126.0
+ 31
+0.0
+  0
+LINE
+  5
+1DA
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_right_outsideCutPath
+100
+AcDbLine
+ 10
+795.8125000000001
+ 20
+123.0
+ 30
+0.0
+ 11
+772.9375
+ 21
+123.0
+ 31
+0.0
+  0
+LINE
+  5
+1DB
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_right_outsideCutPath
+100
+AcDbLine
+ 10
+772.9375
+ 20
+123.0
+ 30
+0.0
+ 11
+772.9375
+ 21
+126.0
+ 31
+0.0
+  0
+LINE
+  5
+1DC
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_right_outsideCutPath
+100
+AcDbLine
+ 10
+772.9375
+ 20
+126.0
+ 30
+0.0
+ 11
+750.0625
+ 21
+126.0
+ 31
+0.0
+  0
+LINE
+  5
+1DD
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_right_outsideCutPath
+100
+AcDbLine
+ 10
+750.0625000000001
+ 20
+126.0
+ 30
+0.0
+ 11
+750.0625000000001
+ 21
+123.0
+ 31
+0.0
+  0
+LINE
+  5
+1DE
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_right_outsideCutPath
+100
+AcDbLine
+ 10
+727.1875
+ 20
+126.0
+ 30
+0.0
+ 11
+704.3124999999999
+ 21
+126.0
+ 31
+0.0
+  0
+LINE
+  5
+1DF
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_right_outsideCutPath
+100
+AcDbLine
+ 10
+704.3124999999999
+ 20
+126.0
+ 30
+0.0
+ 11
+704.3124999999999
+ 21
+123.0
+ 31
+0.0
+  0
+LINE
+  5
+1E0
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_right_outsideCutPath
+100
+AcDbLine
+ 10
+841.5625
+ 20
+69.0
+ 30
+0.0
+ 11
+841.5625
+ 21
+66.0
+ 31
+0.0
+  0
+LINE
+  5
+1E1
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_right_outsideCutPath
+100
+AcDbLine
+ 10
+910.1875000000001
+ 20
+66.0
+ 30
+0.0
+ 11
+910.1875000000001
+ 21
+69.0
+ 31
+0.0
+  0
+LINE
+  5
+1E2
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_right_outsideCutPath
+100
+AcDbLine
+ 10
+887.3124999999999
+ 20
+69.0
+ 30
+0.0
+ 11
+887.3124999999999
+ 21
+66.0
+ 31
+0.0
+  0
+LINE
+  5
+1E3
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_right_outsideCutPath
+100
+AcDbLine
+ 10
+1001.6875
+ 20
+69.0
+ 30
+0.0
+ 11
+1024.5625
+ 21
+69.0
+ 31
+0.0
+  0
+LINE
+  5
+1E4
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_right_outsideCutPath
+100
+AcDbLine
+ 10
+1024.5625
+ 20
+66.0
+ 30
+0.0
+ 11
+1047.4375
+ 21
+66.0
+ 31
+0.0
+  0
+LINE
+  5
+1E5
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_right_outsideCutPath
+100
+AcDbLine
+ 10
+1047.4375
+ 20
+66.0
+ 30
+0.0
+ 11
+1047.4375
+ 21
+69.0
+ 31
+0.0
+  0
+LINE
+  5
+1E6
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_right_outsideCutPath
+100
+AcDbLine
+ 10
+1070.3125
+ 20
+69.0
+ 30
+0.0
+ 11
+1070.3125
+ 21
+66.0
+ 31
+0.0
+  0
+LINE
+  5
+1E7
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_right_outsideCutPath
+100
+AcDbLine
+ 10
+1100.0
+ 20
+84.5625
+ 30
+0.0
+ 11
+1103.0
+ 21
+84.5625
+ 31
+0.0
+  0
+LINE
+  5
+1E8
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_right_outsideCutPath
+100
+AcDbLine
+ 10
+1103.0
+ 20
+107.4375
+ 30
+0.0
+ 11
+1100.0
+ 21
+107.4375
+ 31
+0.0
+  0
+LINE
+  5
+1E9
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_right_outsideCutPath
+100
+AcDbLine
+ 10
+1100.0
+ 20
+126.0
+ 30
+0.0
+ 11
+1070.3125
+ 21
+126.0
+ 31
+0.0
+  0
+LINE
+  5
+1EA
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_right_outsideCutPath
+100
+AcDbLine
+ 10
+1070.3125
+ 20
+126.0
+ 30
+0.0
+ 11
+1070.3125
+ 21
+123.0
+ 31
+0.0
+  0
+LINE
+  5
+1EB
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_right_outsideCutPath
+100
+AcDbLine
+ 10
+955.9375000000001
+ 20
+123.0
+ 30
+0.0
+ 11
+955.9375000000001
+ 21
+126.0
+ 31
+0.0
+  0
+LINE
+  5
+1EC
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_right_outsideCutPath
+100
+AcDbLine
+ 10
+841.5625
+ 20
+126.0
+ 30
+0.0
+ 11
+841.5625
+ 21
+123.0
+ 31
+0.0
+  0
+LINE
+  5
+1ED
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_right_outsideCutPath
+100
+AcDbLine
+ 10
+1070.3125
+ 20
+123.0
+ 30
+0.0
+ 11
+1047.4375
+ 21
+123.0
+ 31
+0.0
+  0
+LINE
+  5
+1EE
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_right_outsideCutPath
+100
+AcDbLine
+ 10
+818.6875
+ 20
+69.0
+ 30
+0.0
+ 11
+841.5625
+ 21
+69.0
+ 31
+0.0
+  0
+LINE
+  5
+1EF
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_right_outsideCutPath
+100
+AcDbLine
+ 10
+887.3124999999999
+ 20
+66.0
+ 30
+0.0
+ 11
+910.1875000000001
+ 21
+66.0
+ 31
+0.0
+  0
+LINE
+  5
+1F0
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_right_outsideCutPath
 100
 AcDbLine
  10
@@ -11397,13 +11061,277 @@ AcDbLine
   0
 LINE
   5
-1FF
+1F1
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_right_outsideCutPath
+underprop v2 v2_right_outsideCutPath
+100
+AcDbLine
+ 10
+933.0624999999999
+ 20
+126.0
+ 30
+0.0
+ 11
+933.0624999999999
+ 21
+123.0
+ 31
+0.0
+  0
+LINE
+  5
+1F2
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_right_outsideCutPath
+100
+AcDbLine
+ 10
+955.9375000000001
+ 20
+66.0
+ 30
+0.0
+ 11
+955.9375000000001
+ 21
+69.0
+ 31
+0.0
+  0
+LINE
+  5
+1F3
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_right_outsideCutPath
+100
+AcDbLine
+ 10
+887.3124999999999
+ 20
+126.0
+ 30
+0.0
+ 11
+887.3124999999999
+ 21
+123.0
+ 31
+0.0
+  0
+LINE
+  5
+1F4
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_right_outsideCutPath
+100
+AcDbLine
+ 10
+910.1875000000001
+ 20
+123.0
+ 30
+0.0
+ 11
+910.1875000000001
+ 21
+126.0
+ 31
+0.0
+  0
+LINE
+  5
+1F5
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_right_outsideCutPath
+100
+AcDbLine
+ 10
+750.0625000000001
+ 20
+123.0
+ 30
+0.0
+ 11
+727.1875
+ 21
+123.0
+ 31
+0.0
+  0
+LINE
+  5
+1F6
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_right_outsideCutPath
+100
+AcDbLine
+ 10
+727.1875
+ 20
+123.0
+ 30
+0.0
+ 11
+727.1875
+ 21
+126.0
+ 31
+0.0
+  0
+LINE
+  5
+1F7
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_right_outsideCutPath
+100
+AcDbLine
+ 10
+910.1875000000001
+ 20
+69.0
+ 30
+0.0
+ 11
+933.0624999999999
+ 21
+69.0
+ 31
+0.0
+  0
+LINE
+  5
+1F8
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_right_outsideCutPath
+100
+AcDbLine
+ 10
+1047.4375
+ 20
+69.0
+ 30
+0.0
+ 11
+1070.3125
+ 21
+69.0
+ 31
+0.0
+  0
+LINE
+  5
+1F9
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_right_outsideCutPath
+100
+AcDbLine
+ 10
+955.9375000000001
+ 20
+126.0
+ 30
+0.0
+ 11
+933.0624999999999
+ 21
+126.0
+ 31
+0.0
+  0
+LINE
+  5
+1FA
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_right_outsideCutPath
+100
+AcDbLine
+ 10
+1001.6875
+ 20
+126.0
+ 30
+0.0
+ 11
+978.8125
+ 21
+126.0
+ 31
+0.0
+  0
+LINE
+  5
+1FB
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_right_outsideCutPath
+100
+AcDbLine
+ 10
+887.3124999999999
+ 20
+123.0
+ 30
+0.0
+ 11
+864.4375
+ 21
+123.0
+ 31
+0.0
+  0
+LINE
+  5
+1FC
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_right_outsideCutPath
 100
 AcDbLine
  10
@@ -11421,25 +11349,97 @@ AcDbLine
   0
 LINE
   5
+1FD
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_right_outsideCutPath
+100
+AcDbLine
+ 10
+795.8125000000001
+ 20
+126.0
+ 30
+0.0
+ 11
+795.8125000000001
+ 21
+123.0
+ 31
+0.0
+  0
+LINE
+  5
+1FE
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_right_outsideCutPath
+100
+AcDbLine
+ 10
+795.8125000000001
+ 20
+66.0
+ 30
+0.0
+ 11
+818.6875
+ 21
+66.0
+ 31
+0.0
+  0
+LINE
+  5
+1FF
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_right_outsideCutPath
+100
+AcDbLine
+ 10
+841.5625
+ 20
+66.0
+ 30
+0.0
+ 11
+864.4375000000001
+ 21
+66.0
+ 31
+0.0
+  0
+LINE
+  5
 200
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_right_outsideCutPath
+underprop v2 v2_right_outsideCutPath
 100
 AcDbLine
  10
-658.5625
+864.4375000000001
  20
-126.0
+69.0
  30
 0.0
  11
-658.5625
+887.3124999999999
  21
-123.0
+69.0
  31
 0.0
   0
@@ -11451,19 +11451,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_right_outsideCutPath
+underprop v2 v2_right_outsideCutPath
 100
 AcDbLine
  10
-1001.6875
+978.8125
  20
-123.0
+66.0
  30
 0.0
  11
 1001.6875
  21
-126.0
+66.0
  31
 0.0
   0
@@ -11475,19 +11475,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_right_outsideCutPath
+underprop v2 v2_right_outsideCutPath
 100
 AcDbLine
  10
-658.5625
+1100.0
  20
-123.0
+107.4375
  30
 0.0
  11
-635.6875
+1100.0
  21
-123.0
+126.0
  31
 0.0
   0
@@ -11499,19 +11499,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_right_outsideCutPath
+underprop v2 v2_right_outsideCutPath
 100
 AcDbLine
  10
-635.6875
+933.0624999999999
  20
-126.0
+66.0
  30
 0.0
  11
-606.0
+955.9375000000001
  21
-126.0
+66.0
  31
 0.0
   0
@@ -11523,19 +11523,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_right_outsideCutPath
+underprop v2 v2_right_outsideCutPath
 100
 AcDbLine
  10
-681.4375
+864.4375000000001
  20
-123.0
+66.0
  30
 0.0
  11
-681.4375
+864.4375000000001
  21
-126.0
+69.0
  31
 0.0
   0
@@ -11547,19 +11547,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_right_outsideCutPath
+underprop v2 v2_right_outsideCutPath
 100
 AcDbLine
  10
-681.4375
+1001.6875
  20
-126.0
+66.0
  30
 0.0
  11
-658.5625
+1001.6875
  21
-126.0
+69.0
  31
 0.0
   0
@@ -11571,7 +11571,7 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_right_outsideCutPath
+underprop v2 v2_right_outsideCutPath
 100
 AcDbLine
  10
@@ -11595,79 +11595,7 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_right_outsideCutPath
-100
-AcDbLine
- 10
-772.9375
- 20
-126.0
- 30
-0.0
- 11
-750.0625
- 21
-126.0
- 31
-0.0
-  0
-LINE
-  5
-208
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_right_outsideCutPath
-100
-AcDbLine
- 10
-887.3124999999999
- 20
-126.0
- 30
-0.0
- 11
-887.3124999999999
- 21
-123.0
- 31
-0.0
-  0
-LINE
-  5
-209
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_right_outsideCutPath
-100
-AcDbLine
- 10
-750.0625000000001
- 20
-126.0
- 30
-0.0
- 11
-750.0625000000001
- 21
-123.0
- 31
-0.0
-  0
-LINE
-  5
-20A
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_right_outsideCutPath
+underprop v2 v2_right_outsideCutPath
 100
 AcDbLine
  10
@@ -11685,25 +11613,97 @@ AcDbLine
   0
 LINE
   5
+208
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_right_outsideCutPath
+100
+AcDbLine
+ 10
+818.6875
+ 20
+66.0
+ 30
+0.0
+ 11
+818.6875
+ 21
+69.0
+ 31
+0.0
+  0
+LINE
+  5
+209
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_right_outsideCutPath
+100
+AcDbLine
+ 10
+933.0624999999999
+ 20
+69.0
+ 30
+0.0
+ 11
+933.0624999999999
+ 21
+66.0
+ 31
+0.0
+  0
+LINE
+  5
+20A
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_right_outsideCutPath
+100
+AcDbLine
+ 10
+978.8125
+ 20
+69.0
+ 30
+0.0
+ 11
+978.8125
+ 21
+66.0
+ 31
+0.0
+  0
+LINE
+  5
 20B
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_right_outsideCutPath
+underprop v2 v2_right_outsideCutPath
 100
 AcDbLine
  10
 1070.3125
  20
-126.0
+66.0
  30
 0.0
  11
-1070.3125
+1100.0
  21
-123.0
+66.0
  31
 0.0
   0
@@ -11715,19 +11715,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_right_outsideCutPath
+underprop v2 v2_right_outsideCutPath
 100
 AcDbLine
  10
-1047.4375
+1024.5625
  20
-123.0
+126.0
  30
 0.0
  11
-1047.4375
+1024.5625
  21
-126.0
+123.0
  31
 0.0
   0
@@ -11739,19 +11739,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_right_outsideCutPath
+underprop v2 v2_right_outsideCutPath
 100
 AcDbLine
  10
-1024.5625
+1001.6875
  20
-126.0
+123.0
  30
 0.0
  11
-1024.5625
+1001.6875
  21
-123.0
+126.0
  31
 0.0
   0
@@ -11763,19 +11763,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_right_outsideCutPath
+underprop v2 v2_right_outsideCutPath
 100
 AcDbLine
  10
-727.1875
+955.9375000000001
  20
-126.0
+69.0
  30
 0.0
  11
-704.3124999999999
+978.8125
  21
-126.0
+69.0
  31
 0.0
   0
@@ -11787,19 +11787,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_right_outsideCutPath
+underprop v2 v2_right_outsideCutPath
 100
 AcDbLine
  10
-887.3124999999999
+1047.4375
  20
 123.0
  30
 0.0
  11
-864.4375
+1047.4375
  21
-123.0
+126.0
  31
 0.0
   0
@@ -11811,19 +11811,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_right_outsideCutPath
+underprop v2 v2_right_outsideCutPath
 100
 AcDbLine
  10
-1100.0
+978.8125
  20
-126.0
+123.0
  30
 0.0
  11
-1070.3125
+955.9375000000001
  21
-126.0
+123.0
  31
 0.0
   0
@@ -11835,19 +11835,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_right_outsideCutPath
+underprop v2 v2_right_outsideCutPath
 100
 AcDbLine
  10
-864.4375000000001
+658.5625
  20
 123.0
  30
 0.0
  11
-864.4375000000001
+635.6875
  21
-126.0
+123.0
  31
 0.0
   0
@@ -11859,17 +11859,17 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_right_outsideCutPath
+underprop v2 v2_right_outsideCutPath
 100
 AcDbLine
  10
-864.4375000000001
+681.4375
  20
 126.0
  30
 0.0
  11
-841.5625
+658.5625
  21
 126.0
  31
@@ -11883,19 +11883,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_right_outsideCutPath
+underprop v2 v2_right_outsideCutPath
 100
 AcDbLine
  10
-841.5625
+681.4375
  20
 123.0
  30
 0.0
  11
-818.6875
+681.4375
  21
-123.0
+126.0
  31
 0.0
   0
@@ -11907,17 +11907,17 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_right_outsideCutPath
+underprop v2 v2_right_outsideCutPath
 100
 AcDbLine
  10
-841.5625
+658.5625
  20
 126.0
  30
 0.0
  11
-841.5625
+658.5625
  21
 123.0
  31
@@ -11931,17 +11931,17 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_right_outsideCutPath
+underprop v2 v2_right_outsideCutPath
 100
 AcDbLine
  10
-1047.4375
+635.6875
  20
 126.0
  30
 0.0
  11
-1024.5625
+606.0
  21
 126.0
  31
@@ -11955,19 +11955,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_right_outsideCutPath
+underprop v2 v2_right_outsideCutPath
 100
 AcDbLine
  10
-635.6875
+704.3124999999999
  20
 123.0
  30
 0.0
  11
-635.6875
+681.4374999999999
  21
-126.0
+123.0
  31
 0.0
   0
@@ -11979,19 +11979,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_right_outsideCutPath
+underprop v2 v2_right_outsideCutPath
 100
 AcDbLine
  10
-795.8125000000001
+635.6875
  20
-126.0
+123.0
  30
 0.0
  11
-795.8125000000001
+635.6875
  21
-123.0
+126.0
  31
 0.0
   0
@@ -12003,7 +12003,7 @@ POINT
 100
 AcDbEntity
   8
-underprop v2 v1_bottom_outsideCutPath
+underprop v2 v2_bottom_outsideCutPath
 100
 AcDbPoint
  10
@@ -12021,13 +12021,13 @@ POINT
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
 100
 AcDbPoint
  10
 175.9953936903251
  20
-368.5920728824823
+298.5920728824823
  30
 0.0
   0
@@ -12039,7 +12039,7 @@ POINT
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
 100
 AcDbPoint
  10
@@ -12057,13 +12057,13 @@ POINT
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
 100
 AcDbPoint
  10
-175.9953936903251
+285.9953936903252
  20
-298.5920728824823
+198.5920728824823
  30
 0.0
   0
@@ -12075,13 +12075,13 @@ POINT
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
 100
 AcDbPoint
  10
-285.9953936903252
+485.0
  20
-438.5920728824823
+300.0
  30
 0.0
   0
@@ -12093,11 +12093,11 @@ POINT
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
 100
 AcDbPoint
  10
-285.9953936903252
+175.9953936903251
  20
 198.5920728824823
  30
@@ -12111,7 +12111,7 @@ POINT
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
 100
 AcDbPoint
  10
@@ -12129,7 +12129,7 @@ POINT
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
 100
 AcDbPoint
  10
@@ -12147,13 +12147,13 @@ POINT
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
 100
 AcDbPoint
  10
-425.0
+485.0
  20
-300.0
+240.0
  30
 0.0
   0
@@ -12165,13 +12165,13 @@ POINT
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
 100
 AcDbPoint
  10
-485.0
+175.9953936903251
  20
-300.0
+368.5920728824823
  30
 0.0
   0
@@ -12183,13 +12183,13 @@ POINT
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
 100
 AcDbPoint
  10
 425.0
  20
-240.0
+300.0
  30
 0.0
   0
@@ -12201,25 +12201,7 @@ POINT
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
-100
-AcDbPoint
- 10
-485.0
- 20
-240.0
- 30
-0.0
-  0
-POINT
-  5
-226
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
 100
 AcDbPoint
  10
@@ -12231,19 +12213,37 @@ AcDbPoint
   0
 POINT
   5
+226
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbPoint
+ 10
+285.9953936903252
+ 20
+438.5920728824823
+ 30
+0.0
+  0
+POINT
+  5
 227
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
 100
 AcDbPoint
  10
-175.9953936903251
+425.0
  20
-198.5920728824823
+240.0
  30
 0.0
   0
@@ -12255,487 +12255,7 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-225.0
- 20
-212.5
- 30
-0.0
- 11
-176.5
- 21
-212.5
- 31
-0.0
-  0
-LINE
-  5
-229
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-173.5
- 20
-187.9999999999999
- 30
-0.0
- 11
-176.4999999999999
- 21
-187.9999999999999
- 31
-0.0
-  0
-LINE
-  5
-22A
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-173.5
- 20
-212.5
- 30
-0.0
- 11
-173.5
- 21
-187.9999999999999
- 31
-0.0
-  0
-LINE
-  5
-22B
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-125.0
- 20
-212.5
- 30
-0.0
- 11
-173.5
- 21
-212.5
- 31
-0.0
-  0
-LINE
-  5
-22C
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-532.5528624555381
- 20
-190.6894527250863
- 30
-0.0
- 11
-532.5528624555381
- 21
-193.4394527250864
- 31
-0.0
-  0
-LINE
-  5
-22D
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-510.0
- 20
-254.4999999840453
- 30
-0.0
- 11
-460.0
- 21
-254.4999999840453
- 31
-0.0
-  0
-LINE
-  5
-22E
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-550.1452537166048
- 20
-347.5254575371854
- 30
-0.0
- 11
-550.1452537166048
- 21
-302.5254575371855
- 31
-0.0
-  0
-LINE
-  5
-22F
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-426.4999999999999
- 20
-297.4999999840453
- 30
-0.0
- 11
-450.0
- 21
-297.4999999840453
- 31
-0.0
-  0
-LINE
-  5
-230
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-460.0
- 20
-254.4999999840453
- 30
-0.0
- 11
-460.0
- 21
-297.4999999840454
- 31
-0.0
-  0
-LINE
-  5
-231
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-483.4999999999999
- 20
-276.0
- 30
-0.0
- 11
-486.5
- 21
-276.0
- 31
-0.0
-  0
-LINE
-  5
-232
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-526.5528624555381
- 20
-190.6894527250863
- 30
-0.0
- 11
-526.5528624555381
- 21
-193.4394527250864
- 31
-0.0
-  0
-LINE
-  5
-233
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-556.1452537166047
- 20
-325.0254575371855
- 30
-0.0
- 11
-559.1452537166047
- 21
-325.0254575371855
- 31
-0.0
-  0
-LINE
-  5
-234
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-483.5008282806635
- 20
-297.4999999840453
- 30
-0.0
- 11
-483.4999999999999
- 21
-276.0
- 31
-0.0
-  0
-LINE
-  5
-235
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-565.1452537166047
- 20
-347.5254575371855
- 30
-0.0
- 11
-559.1452537166047
- 21
-347.5254575371855
- 31
-0.0
-  0
-LINE
-  5
-236
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-525.5529049750707
- 20
-193.4394527250863
- 30
-0.0
- 11
-526.552862455538
- 21
-193.4394527250863
- 31
-0.0
-  0
-LINE
-  5
-237
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-486.5
- 20
-297.4999999840453
- 30
-0.0
- 11
-510.0
- 21
-297.4999999840453
- 31
-0.0
-  0
-LINE
-  5
-238
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-529.552862455538
- 20
-193.4394525470877
- 30
-0.0
- 11
-529.552862455538
- 21
-190.6894527250863
- 31
-0.0
-  0
-LINE
-  5
-239
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-460.0
- 20
-194.4999999840453
- 30
-0.0
- 11
-460.0
- 21
-237.4999999840453
- 31
-0.0
-  0
-LINE
-  5
-23A
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-530.552904975075
- 20
-193.4394525470877
- 30
-0.0
- 11
-530.552904975075
- 21
-187.9394527250863
- 31
-0.0
-  0
-LINE
-  5
-23B
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-525.5529049750707
- 20
-187.9394527250863
- 30
-0.0
- 11
-525.5529049750707
- 21
-193.4394527250863
- 31
-0.0
-  0
-LINE
-  5
-23C
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
 100
 AcDbLine
  10
@@ -12753,23 +12273,23 @@ AcDbLine
   0
 LINE
   5
-23D
+229
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
 100
 AcDbLine
  10
 225.0
  20
-398.5
+452.5
  30
 0.0
  11
-125.0
+225.0
  21
 398.5
  31
@@ -12777,325 +12297,13 @@ AcDbLine
   0
 LINE
   5
-23E
+22A
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-510.0
- 20
-297.4999999840453
- 30
-0.0
- 11
-510.0
- 21
-254.4999999840453
- 31
-0.0
-  0
-LINE
-  5
-23F
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-580.0
- 20
-183.0
- 30
-0.0
- 11
-550.0
- 21
-183.0
- 31
-0.0
-  0
-LINE
-  5
-240
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-486.5
- 20
-276.0
- 30
-0.0
- 11
-486.5
- 21
-297.4999999840453
- 31
-0.0
-  0
-LINE
-  5
-241
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-531.5529049750707
- 20
-187.9394527250863
- 30
-0.0
- 11
-531.5529049750707
- 21
-193.4394527250863
- 31
-0.0
-  0
-LINE
-  5
-242
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-550.0
- 20
-183.0
- 30
-0.0
- 11
-550.0
- 21
-230.0
- 31
-0.0
-  0
-LINE
-  5
-243
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-173.5
- 20
-425.4999999999999
- 30
-0.0
- 11
-176.4999999999999
- 21
-425.4999999999999
- 31
-0.0
-  0
-LINE
-  5
-244
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-535.552862455538
- 20
-193.4394525470877
- 30
-0.0
- 11
-535.552862455538
- 21
-190.6894527250863
- 31
-0.0
-  0
-LINE
-  5
-245
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-580.0
- 20
-230.0
- 30
-0.0
- 11
-580.0
- 21
-183.0
- 31
-0.0
-  0
-LINE
-  5
-246
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-450.0
- 20
-297.4999999840453
- 30
-0.0
- 11
-450.0
- 21
-254.4999999840453
- 31
-0.0
-  0
-LINE
-  5
-247
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-531.5529049750707
- 20
-193.4394527250863
- 30
-0.0
- 11
-532.5528624555381
- 21
-193.4394527250863
- 31
-0.0
-  0
-LINE
-  5
-248
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-565.1452537166047
- 20
-347.5254575371855
- 30
-0.0
- 11
-559.1452537166047
- 21
-347.5254575371855
- 31
-0.0
-  0
-LINE
-  5
-249
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-566.5
- 20
-230.0
- 30
-0.0
- 11
-580.0
- 21
-230.0
- 31
-0.0
-  0
-LINE
-  5
-24A
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-550.0
- 20
-230.0
- 30
-0.0
- 11
-563.4999999999999
- 21
-230.0
- 31
-0.0
-  0
-LINE
-  5
-24B
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
 100
 AcDbLine
  10
@@ -13113,113 +12321,209 @@ AcDbLine
   0
 LINE
   5
-24C
+22B
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
 100
 AcDbLine
  10
-423.5
- 20
-276.0
- 30
-0.0
- 11
 426.4999999999999
- 21
-276.0
- 31
-0.0
-  0
-LINE
-  5
-24D
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-566.5
- 20
-230.0
- 30
-0.0
- 11
-566.5
- 21
-206.5
- 31
-0.0
-  0
-LINE
-  5
-24E
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-565.1452537166047
- 20
-302.5254575371854
- 30
-0.0
- 11
-565.1452537166047
- 21
-347.5254575371854
- 31
-0.0
-  0
-LINE
-  5
-24F
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-423.5008282806634
  20
 297.4999999840453
  30
 0.0
  11
-423.5
+450.0
  21
-276.0
+297.4999999840453
  31
 0.0
   0
 LINE
   5
-250
+22C
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
 100
 AcDbLine
  10
-535.552862455538
+531.5529049750707
+ 20
+193.4394527250863
+ 30
+0.0
+ 11
+532.5528624555381
+ 21
+193.4394527250863
+ 31
+0.0
+  0
+LINE
+  5
+22D
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+580.0
+ 20
+183.0
+ 30
+0.0
+ 11
+550.0
+ 21
+183.0
+ 31
+0.0
+  0
+LINE
+  5
+22E
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+176.5
+ 20
+425.4999999999999
+ 30
+0.0
+ 11
+176.5
+ 21
+452.5
+ 31
+0.0
+  0
+LINE
+  5
+22F
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+526.5528624555381
+ 20
+190.6894527250863
+ 30
+0.0
+ 11
+526.5528624555381
+ 21
+193.4394527250864
+ 31
+0.0
+  0
+LINE
+  5
+230
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+529.552862455538
+ 20
+190.6894527250863
+ 30
+0.0
+ 11
+526.552862455538
+ 21
+190.6894527250863
+ 31
+0.0
+  0
+LINE
+  5
+231
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+550.0
+ 20
+183.0
+ 30
+0.0
+ 11
+550.0
+ 21
+230.0
+ 31
+0.0
+  0
+LINE
+  5
+232
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+529.552862455538
+ 20
+193.4394525470877
+ 30
+0.0
+ 11
+529.552862455538
+ 21
+190.6894527250863
+ 31
+0.0
+  0
+LINE
+  5
+233
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+532.5528624555381
  20
 190.6894527250863
  30
@@ -13227,43 +12531,91 @@ AcDbLine
  11
 532.5528624555381
  21
-190.6894527250863
+193.4394527250864
  31
 0.0
   0
 LINE
   5
-251
+234
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
 100
 AcDbLine
  10
-550.0
+573.3754732829866
  20
-230.0
+306.6791826521794
  30
 0.0
  11
-563.4999999999999
+567.3754732829865
  21
-230.0
+306.6791826521794
  31
 0.0
   0
 LINE
   5
-252
+235
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+125.0
+ 20
+212.5
+ 30
+0.0
+ 11
+173.5
+ 21
+212.5
+ 31
+0.0
+  0
+LINE
+  5
+236
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+531.5529049750707
+ 20
+187.9394527250863
+ 30
+0.0
+ 11
+531.5529049750707
+ 21
+193.4394527250863
+ 31
+0.0
+  0
+LINE
+  5
+237
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
 100
 AcDbLine
  10
@@ -13281,499 +12633,67 @@ AcDbLine
   0
 LINE
   5
-253
+238
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
 100
 AcDbLine
  10
-125.0
+567.3754732829864
  20
-452.5
+284.1791826521794
  30
 0.0
  11
-173.5
+567.3754732829864
  21
-452.5
+306.6791826521794
  31
 0.0
   0
 LINE
   5
-254
+239
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
 100
 AcDbLine
  10
-176.5
+173.5
  20
 425.4999999999999
  30
 0.0
  11
-176.5
+176.4999999999999
  21
-452.5
+425.4999999999999
  31
 0.0
   0
 LINE
   5
-255
+23A
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
 100
 AcDbLine
  10
-450.0
+550.0
  20
-254.4999999840453
- 30
-0.0
- 11
-400.0
- 21
-254.4999999840453
- 31
-0.0
-  0
-LINE
-  5
-256
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-550.1452537166048
- 20
-302.5254575371854
- 30
-0.0
- 11
-565.1452537166047
- 21
-302.5254575371854
- 31
-0.0
-  0
-LINE
-  5
-257
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-559.1452537166047
- 20
-325.0254575371855
- 30
-0.0
- 11
-559.1452537166047
- 21
-347.5254575371855
- 31
-0.0
-  0
-LINE
-  5
-258
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-225.0
- 20
-452.5
- 30
-0.0
- 11
-225.0
- 21
-398.5
- 31
-0.0
-  0
-LINE
-  5
-259
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-225.0
- 20
-212.5
- 30
-0.0
- 11
-225.0
- 21
-163.4999999999999
- 31
-0.0
-  0
-LINE
-  5
-25A
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-400.0
- 20
-297.4999999840453
- 30
-0.0
- 11
-423.5008282806634
- 21
-297.4999999840453
- 31
-0.0
-  0
-LINE
-  5
-25B
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-426.4999999999999
- 20
-276.0
- 30
-0.0
- 11
-426.4999999999999
- 21
-297.4999999840453
- 31
-0.0
-  0
-LINE
-  5
-25C
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-400.0
- 20
-254.4999999840453
- 30
-0.0
- 11
-400.0
- 21
-297.4999999840454
- 31
-0.0
-  0
-LINE
-  5
-25D
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-176.5
- 20
-212.5
- 30
-0.0
- 11
-225.0
- 21
-212.5
- 31
-0.0
-  0
-LINE
-  5
-25E
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-125.0
- 20
-163.4999999999999
- 30
-0.0
- 11
-125.0
- 21
-212.5
- 31
-0.0
-  0
-LINE
-  5
-25F
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-176.5
- 20
-452.5
- 30
-0.0
- 11
-225.0
- 21
-452.5
- 31
-0.0
-  0
-LINE
-  5
-260
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-529.552862455538
- 20
-190.6894527250863
- 30
-0.0
- 11
-526.552862455538
- 21
-190.6894527250863
- 31
-0.0
-  0
-LINE
-  5
-261
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-536.5529049750748
- 20
-193.4394525470877
- 30
-0.0
- 11
-536.5529049750748
- 21
-187.9394527250863
- 31
-0.0
-  0
-LINE
-  5
-262
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-176.5
- 20
-187.9999999999999
- 30
-0.0
- 11
-176.5
- 21
-212.5
- 31
-0.0
-  0
-LINE
-  5
-263
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-566.5
- 20
-206.5
- 30
-0.0
- 11
-563.4999999999999
- 21
-206.5
- 31
-0.0
-  0
-LINE
-  5
-264
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-225.0
- 20
-452.5
- 30
-0.0
- 11
-176.5
- 21
-452.5
- 31
-0.0
-  0
-LINE
-  5
-265
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-556.1452537166047
- 20
-347.5254575371855
- 30
-0.0
- 11
-556.1452537166047
- 21
-325.0254575371855
- 31
-0.0
-  0
-LINE
-  5
-266
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-556.1452537166047
- 20
-347.5254575371855
- 30
-0.0
- 11
-550.1452537166048
- 21
-347.5254575371854
- 31
-0.0
-  0
-LINE
-  5
-267
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-563.4999999999999
- 20
-206.5
+230.0
  30
 0.0
  11
@@ -13785,109 +12705,253 @@ AcDbLine
   0
 LINE
   5
-268
+23B
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+573.3754732829866
+ 20
+306.6791826521794
+ 30
+0.0
+ 11
+567.3754732829865
+ 21
+306.6791826521794
+ 31
+0.0
+  0
+LINE
+  5
+23C
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+550.0
+ 20
+230.0
+ 30
+0.0
+ 11
+563.4999999999999
+ 21
+230.0
+ 31
+0.0
+  0
+LINE
+  5
+23D
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+176.5
+ 20
+212.5
+ 30
+0.0
+ 11
+225.0
+ 21
+212.5
+ 31
+0.0
+  0
+LINE
+  5
+23E
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+580.0
+ 20
+230.0
+ 30
+0.0
+ 11
+580.0
+ 21
+183.0
+ 31
+0.0
+  0
+LINE
+  5
+23F
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+423.5008282806634
+ 20
+297.4999999840453
+ 30
+0.0
+ 11
+423.5
+ 21
+276.0
+ 31
+0.0
+  0
+LINE
+  5
+240
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+173.5
+ 20
+187.9999999999999
+ 30
+0.0
+ 11
+176.4999999999999
+ 21
+187.9999999999999
+ 31
+0.0
+  0
+LINE
+  5
+241
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+173.5
+ 20
+212.5
+ 30
+0.0
+ 11
+173.5
+ 21
+187.9999999999999
+ 31
+0.0
+  0
+LINE
+  5
+242
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
 100
 AcDbLine
  10
 225.0
  20
-163.4999999999999
+398.5
  30
 0.0
  11
 125.0
  21
-163.4999999999999
+398.5
  31
 0.0
   0
 LINE
   5
-269
+243
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
 100
 AcDbLine
  10
-530.552904975075
+535.552862455538
  20
-187.9394527250863
+193.4394525470877
  30
 0.0
  11
-525.5529049750708
+535.552862455538
  21
-187.9394527250863
+190.6894527250863
  31
 0.0
   0
 LINE
   5
-26A
+244
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
 100
 AcDbLine
  10
-173.5
+225.0
  20
-452.5
+212.5
  30
 0.0
  11
-173.5
+176.5
  21
-425.4999999999999
+212.5
  31
 0.0
   0
 LINE
   5
-26B
+245
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-460.0
- 20
-297.4999999840453
- 30
-0.0
- 11
-483.5008282806635
- 21
-297.4999999840453
- 31
-0.0
-  0
-LINE
-  5
-26C
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
 100
 AcDbLine
  10
@@ -13905,277 +12969,397 @@ AcDbLine
   0
 LINE
   5
-26D
+246
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
 100
 AcDbLine
  10
-173.5
+564.3754732829866
  20
-382.5
+284.1791826521794
  30
 0.0
  11
-173.5
+567.3754732829865
  21
-355.5
+284.1791826521794
  31
 0.0
   0
 LINE
   5
-26E
+247
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
 100
 AcDbLine
  10
-614.0
+530.552904975075
+ 20
+187.9394527250863
+ 30
+0.0
+ 11
+525.5529049750708
+ 21
+187.9394527250863
+ 31
+0.0
+  0
+LINE
+  5
+248
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+525.5529049750707
+ 20
+193.4394527250863
+ 30
+0.0
+ 11
+526.552862455538
+ 21
+193.4394527250863
+ 31
+0.0
+  0
+LINE
+  5
+249
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+563.4999999999999
+ 20
+206.5
+ 30
+0.0
+ 11
+563.4999999999999
+ 21
+230.0
+ 31
+0.0
+  0
+LINE
+  5
+24A
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+536.5529049750748
+ 20
+193.4394525470877
+ 30
+0.0
+ 11
+536.5529049750748
+ 21
+187.9394527250863
+ 31
+0.0
+  0
+LINE
+  5
+24B
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+558.3754732829866
+ 20
+306.6791826521793
+ 30
+0.0
+ 11
+558.3754732829866
+ 21
+261.6791826521794
+ 31
+0.0
+  0
+LINE
+  5
+24C
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+558.3754732829866
+ 20
+261.6791826521794
+ 30
+0.0
+ 11
+573.3754732829866
+ 21
+261.6791826521794
+ 31
+0.0
+  0
+LINE
+  5
+24D
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+225.0
+ 20
+163.4999999999999
+ 30
+0.0
+ 11
+125.0
+ 21
+163.4999999999999
+ 31
+0.0
+  0
+LINE
+  5
+24E
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+400.0
+ 20
+297.4999999840453
+ 30
+0.0
+ 11
+423.5008282806634
+ 21
+297.4999999840453
+ 31
+0.0
+  0
+LINE
+  5
+24F
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+426.4999999999999
+ 20
+276.0
+ 30
+0.0
+ 11
+426.4999999999999
+ 21
+297.4999999840453
+ 31
+0.0
+  0
+LINE
+  5
+250
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+566.5
  20
 230.0
  30
 0.0
  11
-614.0
+580.0
  21
-183.0
+230.0
  31
 0.0
   0
 LINE
   5
-26F
+251
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
 100
 AcDbLine
  10
-176.5
+525.5529049750707
  20
-382.5
+187.9394527250863
  30
 0.0
  11
-225.0
+525.5529049750707
  21
-382.5
+193.4394527250863
  31
 0.0
   0
 LINE
   5
-270
+252
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
 100
 AcDbLine
  10
-235.0
+600.4999999999999
  20
-382.5
+206.5
  30
 0.0
  11
-283.5
+597.5
  21
-382.5
+206.5
  31
 0.0
   0
 LINE
   5
-271
+253
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
 100
 AcDbLine
  10
-235.0
+594.3754732829866
  20
-328.5
+306.6791826521794
  30
 0.0
  11
-235.0
+594.3754732829866
  21
-382.5
+284.1791826521794
  31
 0.0
   0
 LINE
   5
-272
+254
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
 100
 AcDbLine
  10
-125.0
+597.5
  20
-328.5
+206.5
  30
 0.0
  11
-125.0
+597.5
  21
-382.5
+230.0
  31
 0.0
   0
 LINE
   5
-273
+255
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
 100
 AcDbLine
  10
-283.5
+460.0
  20
-452.5
+194.4999999840453
  30
 0.0
  11
-283.5
+460.0
  21
-425.4999999999999
+237.4999999840453
  31
 0.0
   0
 LINE
   5
-274
+256
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-286.5
- 20
-425.4999999999999
- 30
-0.0
- 11
-286.5
- 21
-452.5
- 31
-0.0
-  0
-LINE
-  5
-275
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-335.0
- 20
-382.5
- 30
-0.0
- 11
-286.5
- 21
-382.5
- 31
-0.0
-  0
-LINE
-  5
-276
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-125.0
- 20
-382.5
- 30
-0.0
- 11
-173.5
- 21
-382.5
- 31
-0.0
-  0
-LINE
-  5
-277
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-283.5
- 20
-355.5
- 30
-0.0
- 11
-286.5
- 21
-355.5
- 31
-0.0
-  0
-LINE
-  5
-278
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
 100
 AcDbLine
  10
@@ -14193,67 +13377,43 @@ AcDbLine
   0
 LINE
   5
-279
+257
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
 100
 AcDbLine
  10
-176.5
+510.0
  20
-355.5
+254.4999999840453
  30
 0.0
  11
-176.5
+460.0
  21
-382.5
+254.4999999840453
  31
 0.0
   0
 LINE
   5
-27A
+258
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
 100
 AcDbLine
  10
-450.0
+584.0
  20
-194.4999999840453
- 30
-0.0
- 11
-400.0
- 21
-194.4999999840453
- 31
-0.0
-  0
-LINE
-  5
-27B
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-597.5
- 20
-206.5
+230.0
  30
 0.0
  11
@@ -14265,287 +13425,407 @@ AcDbLine
   0
 LINE
   5
-27C
+259
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+125.0
+ 20
+452.5
+ 30
+0.0
+ 11
+173.5
+ 21
+452.5
+ 31
+0.0
+  0
+LINE
+  5
+25A
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+486.5
+ 20
+216.0
+ 30
+0.0
+ 11
+486.5
+ 21
+237.4999999840453
+ 31
+0.0
+  0
+LINE
+  5
+25B
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+584.0
+ 20
+183.0
+ 30
+0.0
+ 11
+584.0
+ 21
+230.0
+ 31
+0.0
+  0
+LINE
+  5
+25C
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+614.0
+ 20
+183.0
+ 30
+0.0
+ 11
+584.0
+ 21
+183.0
+ 31
+0.0
+  0
+LINE
+  5
+25D
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
 100
 AcDbLine
  10
 335.0
  20
-398.5
+212.5
+ 30
+0.0
+ 11
+335.0
+ 21
+163.4999999999999
+ 31
+0.0
+  0
+LINE
+  5
+25E
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+235.0
+ 20
+163.4999999999999
  30
 0.0
  11
 235.0
  21
-398.5
- 31
-0.0
-  0
-LINE
-  5
-27D
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-235.0
- 20
-212.5
- 30
-0.0
- 11
-283.5
- 21
 212.5
  31
 0.0
   0
 LINE
   5
-27E
+25F
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
 100
 AcDbLine
  10
-586.1452537166047
+286.5
  20
-325.0254575371855
+212.5
  30
 0.0
  11
-589.1452537166047
+335.0
  21
-325.0254575371855
+212.5
  31
 0.0
   0
 LINE
   5
-27F
+260
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
 100
 AcDbLine
  10
-225.0
+286.5
  20
-328.5
+187.9999999999999
  30
 0.0
  11
-125.0
+286.5
  21
-328.5
+212.5
  31
 0.0
   0
 LINE
   5
-280
+261
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-600.4999999999999
- 20
-206.5
- 30
-0.0
- 11
-597.5
- 21
-206.5
- 31
-0.0
-  0
-LINE
-  5
-281
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
 100
 AcDbLine
  10
 173.5
  20
-355.5
+452.5
  30
 0.0
  11
-176.4999999999999
+173.5
  21
-355.5
+425.4999999999999
  31
 0.0
   0
 LINE
   5
-282
+262
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-225.0
- 20
-382.5
- 30
-0.0
- 11
-176.5
- 21
-382.5
- 31
-0.0
-  0
-LINE
-  5
-283
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-486.5
- 20
-216.0
- 30
-0.0
- 11
-486.5
- 21
-237.4999999840453
- 31
-0.0
-  0
-LINE
-  5
-284
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
 100
 AcDbLine
  10
 400.0
  20
-194.4999999840453
+254.4999999840453
  30
 0.0
  11
 400.0
  21
-237.4999999840453
+297.4999999840454
  31
 0.0
   0
 LINE
   5
-285
+263
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+460.0
+ 20
+297.4999999840453
+ 30
+0.0
+ 11
+483.5008282806635
+ 21
+297.4999999840453
+ 31
+0.0
+  0
+LINE
+  5
+264
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+486.5
+ 20
+276.0
+ 30
+0.0
+ 11
+486.5
+ 21
+297.4999999840453
+ 31
+0.0
+  0
+LINE
+  5
+265
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+460.0
+ 20
+254.4999999840453
+ 30
+0.0
+ 11
+460.0
+ 21
+297.4999999840454
+ 31
+0.0
+  0
+LINE
+  5
+266
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+450.0
+ 20
+254.4999999840453
+ 30
+0.0
+ 11
+400.0
+ 21
+254.4999999840453
+ 31
+0.0
+  0
+LINE
+  5
+267
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
 100
 AcDbLine
  10
 483.4999999999999
  20
-216.0
+276.0
  30
 0.0
  11
 486.5
  21
-216.0
+276.0
  31
 0.0
   0
 LINE
   5
-286
+268
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
 100
 AcDbLine
  10
-595.1452537166047
+125.0
  20
-347.5254575371855
+163.4999999999999
  30
 0.0
  11
-589.1452537166047
+125.0
  21
-347.5254575371855
+212.5
  31
 0.0
   0
 LINE
   5
-287
+269
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
 100
 AcDbLine
  10
-600.4999999999999
+566.5
  20
-230.0
+206.5
  30
 0.0
  11
-600.4999999999999
+563.4999999999999
  21
 206.5
  31
@@ -14553,61 +13833,13 @@ AcDbLine
   0
 LINE
   5
-288
+26A
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-580.1452537166047
- 20
-347.5254575371854
- 30
-0.0
- 11
-580.1452537166047
- 21
-302.5254575371855
- 31
-0.0
-  0
-LINE
-  5
-289
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-595.1452537166047
- 20
-347.5254575371855
- 30
-0.0
- 11
-589.1452537166047
- 21
-347.5254575371855
- 31
-0.0
-  0
-LINE
-  5
-28A
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
 100
 AcDbLine
  10
@@ -14625,25 +13857,793 @@ AcDbLine
   0
 LINE
   5
+26B
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+423.5
+ 20
+216.0
+ 30
+0.0
+ 11
+426.4999999999999
+ 21
+216.0
+ 31
+0.0
+  0
+LINE
+  5
+26C
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+486.5
+ 20
+237.4999999840453
+ 30
+0.0
+ 11
+510.0
+ 21
+237.4999999840453
+ 31
+0.0
+  0
+LINE
+  5
+26D
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+510.0
+ 20
+237.4999999840453
+ 30
+0.0
+ 11
+510.0
+ 21
+194.4999999840453
+ 31
+0.0
+  0
+LINE
+  5
+26E
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+483.5008282806635
+ 20
+237.4999999840453
+ 30
+0.0
+ 11
+483.4999999999999
+ 21
+216.0
+ 31
+0.0
+  0
+LINE
+  5
+26F
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+510.0
+ 20
+194.4999999840453
+ 30
+0.0
+ 11
+460.0
+ 21
+194.4999999840453
+ 31
+0.0
+  0
+LINE
+  5
+270
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+460.0
+ 20
+237.4999999840453
+ 30
+0.0
+ 11
+483.5008282806635
+ 21
+237.4999999840453
+ 31
+0.0
+  0
+LINE
+  5
+271
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+400.0
+ 20
+194.4999999840453
+ 30
+0.0
+ 11
+400.0
+ 21
+237.4999999840453
+ 31
+0.0
+  0
+LINE
+  5
+272
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+564.3754732829866
+ 20
+306.6791826521794
+ 30
+0.0
+ 11
+564.3754732829866
+ 21
+284.1791826521794
+ 31
+0.0
+  0
+LINE
+  5
+273
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+450.0
+ 20
+194.4999999840453
+ 30
+0.0
+ 11
+400.0
+ 21
+194.4999999840453
+ 31
+0.0
+  0
+LINE
+  5
+274
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+603.3754732829866
+ 20
+306.6791826521794
+ 30
+0.0
+ 11
+597.3754732829866
+ 21
+306.6791826521794
+ 31
+0.0
+  0
+LINE
+  5
+275
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+614.0
+ 20
+230.0
+ 30
+0.0
+ 11
+614.0
+ 21
+183.0
+ 31
+0.0
+  0
+LINE
+  5
+276
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+176.5
+ 20
+452.5
+ 30
+0.0
+ 11
+225.0
+ 21
+452.5
+ 31
+0.0
+  0
+LINE
+  5
+277
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+566.5
+ 20
+230.0
+ 30
+0.0
+ 11
+566.5
+ 21
+206.5
+ 31
+0.0
+  0
+LINE
+  5
+278
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+423.5
+ 20
+276.0
+ 30
+0.0
+ 11
+426.4999999999999
+ 21
+276.0
+ 31
+0.0
+  0
+LINE
+  5
+279
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+450.0
+ 20
+297.4999999840453
+ 30
+0.0
+ 11
+450.0
+ 21
+254.4999999840453
+ 31
+0.0
+  0
+LINE
+  5
+27A
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+530.552904975075
+ 20
+193.4394525470877
+ 30
+0.0
+ 11
+530.552904975075
+ 21
+187.9394527250863
+ 31
+0.0
+  0
+LINE
+  5
+27B
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+483.5008282806635
+ 20
+297.4999999840453
+ 30
+0.0
+ 11
+483.4999999999999
+ 21
+276.0
+ 31
+0.0
+  0
+LINE
+  5
+27C
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+400.0
+ 20
+237.4999999840453
+ 30
+0.0
+ 11
+423.5008282806634
+ 21
+237.4999999840453
+ 31
+0.0
+  0
+LINE
+  5
+27D
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+603.3754732829866
+ 20
+306.6791826521794
+ 30
+0.0
+ 11
+597.3754732829866
+ 21
+306.6791826521794
+ 31
+0.0
+  0
+LINE
+  5
+27E
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+603.3754732829866
+ 20
+261.6791826521794
+ 30
+0.0
+ 11
+603.3754732829866
+ 21
+306.6791826521793
+ 31
+0.0
+  0
+LINE
+  5
+27F
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+176.5
+ 20
+187.9999999999999
+ 30
+0.0
+ 11
+176.5
+ 21
+212.5
+ 31
+0.0
+  0
+LINE
+  5
+280
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+564.3754732829866
+ 20
+306.6791826521794
+ 30
+0.0
+ 11
+558.3754732829866
+ 21
+306.6791826521793
+ 31
+0.0
+  0
+LINE
+  5
+281
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+594.3754732829866
+ 20
+284.1791826521794
+ 30
+0.0
+ 11
+597.3754732829866
+ 21
+284.1791826521794
+ 31
+0.0
+  0
+LINE
+  5
+282
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+588.3754732829865
+ 20
+306.6791826521793
+ 30
+0.0
+ 11
+588.3754732829865
+ 21
+261.6791826521794
+ 31
+0.0
+  0
+LINE
+  5
+283
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+225.0
+ 20
+212.5
+ 30
+0.0
+ 11
+225.0
+ 21
+163.4999999999999
+ 31
+0.0
+  0
+LINE
+  5
+284
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+573.3754732829866
+ 20
+261.6791826521794
+ 30
+0.0
+ 11
+573.3754732829866
+ 21
+306.6791826521793
+ 31
+0.0
+  0
+LINE
+  5
+285
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+510.0
+ 20
+297.4999999840453
+ 30
+0.0
+ 11
+510.0
+ 21
+254.4999999840453
+ 31
+0.0
+  0
+LINE
+  5
+286
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+426.4999999999999
+ 20
+216.0
+ 30
+0.0
+ 11
+426.4999999999999
+ 21
+237.4999999840453
+ 31
+0.0
+  0
+LINE
+  5
+287
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+597.3754732829864
+ 20
+284.1791826521794
+ 30
+0.0
+ 11
+597.3754732829864
+ 21
+306.6791826521794
+ 31
+0.0
+  0
+LINE
+  5
+288
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+450.0
+ 20
+237.4999999840453
+ 30
+0.0
+ 11
+450.0
+ 21
+194.4999999840453
+ 31
+0.0
+  0
+LINE
+  5
+289
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+588.3754732829865
+ 20
+261.6791826521794
+ 30
+0.0
+ 11
+603.3754732829866
+ 21
+261.6791826521794
+ 31
+0.0
+  0
+LINE
+  5
+28A
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+600.4999999999999
+ 20
+230.0
+ 30
+0.0
+ 11
+614.0
+ 21
+230.0
+ 31
+0.0
+  0
+LINE
+  5
 28B
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
 100
 AcDbLine
  10
-584.0
+600.4999999999999
  20
 230.0
  30
 0.0
  11
-597.5
+600.4999999999999
  21
-230.0
+206.5
  31
 0.0
   0
@@ -14655,19 +14655,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
 100
 AcDbLine
  10
-335.0
+486.5
  20
-212.5
+297.4999999840453
  30
 0.0
  11
-286.5
+510.0
  21
-212.5
+297.4999999840453
  31
 0.0
   0
@@ -14679,19 +14679,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
 100
 AcDbLine
  10
-283.5
+225.0
  20
-212.5
+452.5
  30
 0.0
  11
-283.5
+176.5
  21
-187.9999999999999
+452.5
  31
 0.0
   0
@@ -14703,19 +14703,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
 100
 AcDbLine
  10
-283.5
+535.552862455538
  20
-187.9999999999999
+190.6894527250863
  30
 0.0
  11
-286.5
+532.5528624555381
  21
-187.9999999999999
+190.6894527250863
  31
 0.0
   0
@@ -14727,19 +14727,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
 100
 AcDbLine
  10
-286.5
+426.4999999999999
  20
-452.5
+237.4999999840453
  30
 0.0
  11
-335.0
+450.0
  21
-452.5
+237.4999999840453
  31
 0.0
   0
@@ -14751,17 +14751,17 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
 100
 AcDbLine
  10
-423.5
+483.4999999999999
  20
 216.0
  30
 0.0
  11
-426.4999999999999
+486.5
  21
 216.0
  31
@@ -14775,19 +14775,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
 100
 AcDbLine
  10
-235.0
+594.3754732829866
  20
-398.5
+306.6791826521794
  30
 0.0
  11
-235.0
+588.3754732829865
  21
-452.5
+306.6791826521793
  31
 0.0
   0
@@ -14799,655 +14799,7 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-335.0
- 20
-452.5
- 30
-0.0
- 11
-286.5
- 21
-452.5
- 31
-0.0
-  0
-LINE
-  5
-293
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-283.5
- 20
-425.4999999999999
- 30
-0.0
- 11
-286.5
- 21
-425.4999999999999
- 31
-0.0
-  0
-LINE
-  5
-294
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-450.0
- 20
-237.4999999840453
- 30
-0.0
- 11
-450.0
- 21
-194.4999999840453
- 31
-0.0
-  0
-LINE
-  5
-295
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-486.5
- 20
-237.4999999840453
- 30
-0.0
- 11
-510.0
- 21
-237.4999999840453
- 31
-0.0
-  0
-LINE
-  5
-296
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-586.1452537166047
- 20
-347.5254575371855
- 30
-0.0
- 11
-580.1452537166047
- 21
-347.5254575371854
- 31
-0.0
-  0
-LINE
-  5
-297
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-584.0
- 20
-183.0
- 30
-0.0
- 11
-584.0
- 21
-230.0
- 31
-0.0
-  0
-LINE
-  5
-298
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-426.4999999999999
- 20
-237.4999999840453
- 30
-0.0
- 11
-450.0
- 21
-237.4999999840453
- 31
-0.0
-  0
-LINE
-  5
-299
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-586.1452537166047
- 20
-347.5254575371855
- 30
-0.0
- 11
-586.1452537166047
- 21
-325.0254575371855
- 31
-0.0
-  0
-LINE
-  5
-29A
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-510.0
- 20
-237.4999999840453
- 30
-0.0
- 11
-510.0
- 21
-194.4999999840453
- 31
-0.0
-  0
-LINE
-  5
-29B
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-400.0
- 20
-237.4999999840453
- 30
-0.0
- 11
-423.5008282806634
- 21
-237.4999999840453
- 31
-0.0
-  0
-LINE
-  5
-29C
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-595.1452537166047
- 20
-302.5254575371854
- 30
-0.0
- 11
-595.1452537166047
- 21
-347.5254575371854
- 31
-0.0
-  0
-LINE
-  5
-29D
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-483.5008282806635
- 20
-237.4999999840453
- 30
-0.0
- 11
-483.4999999999999
- 21
-216.0
- 31
-0.0
-  0
-LINE
-  5
-29E
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-426.4999999999999
- 20
-216.0
- 30
-0.0
- 11
-426.4999999999999
- 21
-237.4999999840453
- 31
-0.0
-  0
-LINE
-  5
-29F
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-614.0
- 20
-183.0
- 30
-0.0
- 11
-584.0
- 21
-183.0
- 31
-0.0
-  0
-LINE
-  5
-2A0
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-460.0
- 20
-237.4999999840453
- 30
-0.0
- 11
-483.5008282806635
- 21
-237.4999999840453
- 31
-0.0
-  0
-LINE
-  5
-2A1
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-335.0
- 20
-212.5
- 30
-0.0
- 11
-335.0
- 21
-163.4999999999999
- 31
-0.0
-  0
-LINE
-  5
-2A2
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-600.4999999999999
- 20
-230.0
- 30
-0.0
- 11
-614.0
- 21
-230.0
- 31
-0.0
-  0
-LINE
-  5
-2A3
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-580.1452537166047
- 20
-302.5254575371854
- 30
-0.0
- 11
-595.1452537166047
- 21
-302.5254575371854
- 31
-0.0
-  0
-LINE
-  5
-2A4
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-286.5
- 20
-187.9999999999999
- 30
-0.0
- 11
-286.5
- 21
-212.5
- 31
-0.0
-  0
-LINE
-  5
-2A5
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-510.0
- 20
-194.4999999840453
- 30
-0.0
- 11
-460.0
- 21
-194.4999999840453
- 31
-0.0
-  0
-LINE
-  5
-2A6
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-335.0
- 20
-163.4999999999999
- 30
-0.0
- 11
-235.0
- 21
-163.4999999999999
- 31
-0.0
-  0
-LINE
-  5
-2A7
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-589.1452537166047
- 20
-325.0254575371855
- 30
-0.0
- 11
-589.1452537166047
- 21
-347.5254575371855
- 31
-0.0
-  0
-LINE
-  5
-2A8
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-286.5
- 20
-212.5
- 30
-0.0
- 11
-335.0
- 21
-212.5
- 31
-0.0
-  0
-LINE
-  5
-2A9
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-235.0
- 20
-163.4999999999999
- 30
-0.0
- 11
-235.0
- 21
-212.5
- 31
-0.0
-  0
-LINE
-  5
-2AA
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-335.0
- 20
-452.5
- 30
-0.0
- 11
-335.0
- 21
-398.5
- 31
-0.0
-  0
-LINE
-  5
-2AB
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-235.0
- 20
-452.5
- 30
-0.0
- 11
-283.5
- 21
-452.5
- 31
-0.0
-  0
-LINE
-  5
-2AC
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-286.5
- 20
-355.5
- 30
-0.0
- 11
-286.5
- 21
-382.5
- 31
-0.0
-  0
-LINE
-  5
-2AD
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
 100
 AcDbLine
  10
@@ -15465,23 +14817,71 @@ AcDbLine
   0
 LINE
   5
-2AE
+293
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
 100
 AcDbLine
  10
-286.5
+335.0
  20
-285.5
+382.5
  30
 0.0
  11
 286.5
+ 21
+382.5
+ 31
+0.0
+  0
+LINE
+  5
+294
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+335.0
+ 20
+382.5
+ 30
+0.0
+ 11
+335.0
+ 21
+328.5
+ 31
+0.0
+  0
+LINE
+  5
+295
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+176.5
+ 20
+312.5
+ 30
+0.0
+ 11
+225.0
  21
 312.5
  31
@@ -15489,13 +14889,373 @@ AcDbLine
   0
 LINE
   5
-2AF
+296
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+335.0
+ 20
+258.5
+ 30
+0.0
+ 11
+235.0
+ 21
+258.5
+ 31
+0.0
+  0
+LINE
+  5
+297
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+235.0
+ 20
+452.5
+ 30
+0.0
+ 11
+283.5
+ 21
+452.5
+ 31
+0.0
+  0
+LINE
+  5
+298
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+335.0
+ 20
+328.5
+ 30
+0.0
+ 11
+235.0
+ 21
+328.5
+ 31
+0.0
+  0
+LINE
+  5
+299
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+335.0
+ 20
+163.4999999999999
+ 30
+0.0
+ 11
+235.0
+ 21
+163.4999999999999
+ 31
+0.0
+  0
+LINE
+  5
+29A
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+125.0
+ 20
+328.5
+ 30
+0.0
+ 11
+125.0
+ 21
+382.5
+ 31
+0.0
+  0
+LINE
+  5
+29B
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+235.0
+ 20
+258.5
+ 30
+0.0
+ 11
+235.0
+ 21
+312.5
+ 31
+0.0
+  0
+LINE
+  5
+29C
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+286.5
+ 20
+355.5
+ 30
+0.0
+ 11
+286.5
+ 21
+382.5
+ 31
+0.0
+  0
+LINE
+  5
+29D
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+235.0
+ 20
+398.5
+ 30
+0.0
+ 11
+235.0
+ 21
+452.5
+ 31
+0.0
+  0
+LINE
+  5
+29E
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+283.5
+ 20
+425.4999999999999
+ 30
+0.0
+ 11
+286.5
+ 21
+425.4999999999999
+ 31
+0.0
+  0
+LINE
+  5
+29F
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+335.0
+ 20
+398.5
+ 30
+0.0
+ 11
+235.0
+ 21
+398.5
+ 31
+0.0
+  0
+LINE
+  5
+2A0
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+283.5
+ 20
+187.9999999999999
+ 30
+0.0
+ 11
+286.5
+ 21
+187.9999999999999
+ 31
+0.0
+  0
+LINE
+  5
+2A1
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+286.5
+ 20
+382.5
+ 30
+0.0
+ 11
+335.0
+ 21
+382.5
+ 31
+0.0
+  0
+LINE
+  5
+2A2
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+125.0
+ 20
+312.5
+ 30
+0.0
+ 11
+173.5
+ 21
+312.5
+ 31
+0.0
+  0
+LINE
+  5
+2A3
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+335.0
+ 20
+452.5
+ 30
+0.0
+ 11
+335.0
+ 21
+398.5
+ 31
+0.0
+  0
+LINE
+  5
+2A4
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+283.5
+ 20
+452.5
+ 30
+0.0
+ 11
+283.5
+ 21
+425.4999999999999
+ 31
+0.0
+  0
+LINE
+  5
+2A5
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
 100
 AcDbLine
  10
@@ -15513,253 +15273,133 @@ AcDbLine
   0
 LINE
   5
-2B0
+2A6
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-235.0
- 20
-258.5
- 30
-0.0
- 11
-235.0
- 21
-312.5
- 31
-0.0
-  0
-LINE
-  5
-2B1
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-286.5
- 20
-312.5
- 30
-0.0
- 11
-335.0
- 21
-312.5
- 31
-0.0
-  0
-LINE
-  5
-2B2
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-999.6277994376207
- 20
-84.93796657293678
- 30
-0.0
- 11
-979.6277994376207
- 21
-84.93796657293678
- 31
-0.0
-  0
-LINE
-  5
-2B3
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
 100
 AcDbLine
  10
 176.5
  20
-312.5
+355.5
  30
 0.0
  11
-225.0
+176.5
  21
-312.5
+382.5
  31
 0.0
   0
 LINE
   5
-2B4
+2A7
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
 100
 AcDbLine
  10
-225.0
+283.5
+ 20
+312.5
+ 30
+0.0
+ 11
+283.5
+ 21
+285.5
+ 31
+0.0
+  0
+LINE
+  5
+2A8
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+173.5
  20
 382.5
  30
 0.0
  11
-225.0
+173.5
  21
+355.5
+ 31
+0.0
+  0
+LINE
+  5
+2A9
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+235.0
+ 20
 328.5
- 31
-0.0
-  0
-LINE
-  5
-2B5
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-335.0
- 20
-312.5
  30
 0.0
  11
-335.0
+235.0
  21
-258.5
+382.5
  31
 0.0
   0
 LINE
   5
-2B6
+2AA
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
 100
 AcDbLine
  10
-979.6277994376207
- 20
-104.9379665729368
- 30
-0.0
- 11
 999.6277994376207
- 21
-104.9379665729368
- 31
-0.0
-  0
-LINE
-  5
-2B7
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-173.5
  20
-312.5
+84.93796657293678
  30
 0.0
  11
-173.5
+979.6277994376207
  21
-285.5
+84.93796657293678
  31
 0.0
   0
 LINE
   5
-2B8
+2AB
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-225.0
- 20
-312.5
- 30
-0.0
- 11
-225.0
- 21
-258.5
- 31
-0.0
-  0
-LINE
-  5
-2B9
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-283.5
- 20
-312.5
- 30
-0.0
- 11
-283.5
- 21
-285.5
- 31
-0.0
-  0
-LINE
-  5
-2BA
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
 100
 AcDbLine
  10
@@ -15777,229 +15417,373 @@ AcDbLine
   0
 LINE
   5
+2AC
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+225.0
+ 20
+312.5
+ 30
+0.0
+ 11
+225.0
+ 21
+258.5
+ 31
+0.0
+  0
+LINE
+  5
+2AD
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+335.0
+ 20
+452.5
+ 30
+0.0
+ 11
+286.5
+ 21
+452.5
+ 31
+0.0
+  0
+LINE
+  5
+2AE
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+225.0
+ 20
+328.5
+ 30
+0.0
+ 11
+125.0
+ 21
+328.5
+ 31
+0.0
+  0
+LINE
+  5
+2AF
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+235.0
+ 20
+382.5
+ 30
+0.0
+ 11
+283.5
+ 21
+382.5
+ 31
+0.0
+  0
+LINE
+  5
+2B0
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+173.5
+ 20
+355.5
+ 30
+0.0
+ 11
+176.4999999999999
+ 21
+355.5
+ 31
+0.0
+  0
+LINE
+  5
+2B1
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+125.0
+ 20
+382.5
+ 30
+0.0
+ 11
+173.5
+ 21
+382.5
+ 31
+0.0
+  0
+LINE
+  5
+2B2
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+283.5
+ 20
+355.5
+ 30
+0.0
+ 11
+286.5
+ 21
+355.5
+ 31
+0.0
+  0
+LINE
+  5
+2B3
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+225.0
+ 20
+382.5
+ 30
+0.0
+ 11
+225.0
+ 21
+328.5
+ 31
+0.0
+  0
+LINE
+  5
+2B4
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+173.5
+ 20
+312.5
+ 30
+0.0
+ 11
+173.5
+ 21
+285.5
+ 31
+0.0
+  0
+LINE
+  5
+2B5
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+176.5
+ 20
+285.5
+ 30
+0.0
+ 11
+176.5
+ 21
+312.5
+ 31
+0.0
+  0
+LINE
+  5
+2B6
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+286.5
+ 20
+312.5
+ 30
+0.0
+ 11
+335.0
+ 21
+312.5
+ 31
+0.0
+  0
+LINE
+  5
+2B7
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+979.6277994376207
+ 20
+104.9379665729368
+ 30
+0.0
+ 11
+999.6277994376207
+ 21
+104.9379665729368
+ 31
+0.0
+  0
+LINE
+  5
+2B8
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+286.5
+ 20
+425.4999999999999
+ 30
+0.0
+ 11
+286.5
+ 21
+452.5
+ 31
+0.0
+  0
+LINE
+  5
+2B9
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+335.0
+ 20
+312.5
+ 30
+0.0
+ 11
+335.0
+ 21
+258.5
+ 31
+0.0
+  0
+LINE
+  5
+2BA
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+225.0
+ 20
+382.5
+ 30
+0.0
+ 11
+176.5
+ 21
+382.5
+ 31
+0.0
+  0
+LINE
+  5
 2BB
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-335.0
- 20
-312.5
- 30
-0.0
- 11
-286.5
- 21
-312.5
- 31
-0.0
-  0
-LINE
-  5
-2BC
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-335.0
- 20
-328.5
- 30
-0.0
- 11
-235.0
- 21
-328.5
- 31
-0.0
-  0
-LINE
-  5
-2BD
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-286.5
- 20
-382.5
- 30
-0.0
- 11
-335.0
- 21
-382.5
- 31
-0.0
-  0
-LINE
-  5
-2BE
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-235.0
- 20
-312.5
- 30
-0.0
- 11
-283.5
- 21
-312.5
- 31
-0.0
-  0
-LINE
-  5
-2BF
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-335.0
- 20
-258.5
- 30
-0.0
- 11
-235.0
- 21
-258.5
- 31
-0.0
-  0
-LINE
-  5
-2C0
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-283.5
- 20
-285.5
- 30
-0.0
- 11
-286.5
- 21
-285.5
- 31
-0.0
-  0
-LINE
-  5
-2C1
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-335.0
- 20
-382.5
- 30
-0.0
- 11
-335.0
- 21
-328.5
- 31
-0.0
-  0
-LINE
-  5
-2C2
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-176.5
- 20
-285.5
- 30
-0.0
- 11
-176.5
- 21
-312.5
- 31
-0.0
-  0
-LINE
-  5
-2C3
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
-100
-AcDbLine
- 10
-125.0
- 20
-258.5
- 30
-0.0
- 11
-125.0
- 21
-312.5
- 31
-0.0
-  0
-LINE
-  5
-2C4
-330
-70
-100
-AcDbEntity
-  8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
 100
 AcDbLine
  10
@@ -16017,25 +15801,241 @@ AcDbLine
   0
 LINE
   5
+2BC
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+286.5
+ 20
+285.5
+ 30
+0.0
+ 11
+286.5
+ 21
+312.5
+ 31
+0.0
+  0
+LINE
+  5
+2BD
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+235.0
+ 20
+212.5
+ 30
+0.0
+ 11
+283.5
+ 21
+212.5
+ 31
+0.0
+  0
+LINE
+  5
+2BE
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+176.5
+ 20
+382.5
+ 30
+0.0
+ 11
+225.0
+ 21
+382.5
+ 31
+0.0
+  0
+LINE
+  5
+2BF
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+125.0
+ 20
+258.5
+ 30
+0.0
+ 11
+125.0
+ 21
+312.5
+ 31
+0.0
+  0
+LINE
+  5
+2C0
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+979.6277994376207
+ 20
+84.93796657293678
+ 30
+0.0
+ 11
+979.6277994376207
+ 21
+104.9379665729368
+ 31
+0.0
+  0
+LINE
+  5
+2C1
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+335.0
+ 20
+312.5
+ 30
+0.0
+ 11
+286.5
+ 21
+312.5
+ 31
+0.0
+  0
+LINE
+  5
+2C2
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+235.0
+ 20
+312.5
+ 30
+0.0
+ 11
+283.5
+ 21
+312.5
+ 31
+0.0
+  0
+LINE
+  5
+2C3
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+999.6277994376207
+ 20
+104.9379665729368
+ 30
+0.0
+ 11
+999.6277994376207
+ 21
+84.93796657293678
+ 31
+0.0
+  0
+LINE
+  5
+2C4
+330
+70
+100
+AcDbEntity
+  8
+underprop v2 v2_Sketch7
+100
+AcDbLine
+ 10
+286.5
+ 20
+452.5
+ 30
+0.0
+ 11
+335.0
+ 21
+452.5
+ 31
+0.0
+  0
+LINE
+  5
 2C5
 330
 70
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
 100
 AcDbLine
  10
-125.0
+283.5
  20
-312.5
+285.5
  30
 0.0
  11
-173.5
+286.5
  21
-312.5
+285.5
  31
 0.0
   0
@@ -16047,19 +16047,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
 100
 AcDbLine
  10
-979.6277994376207
+335.0
  20
-84.93796657293678
+212.5
  30
 0.0
  11
-979.6277994376207
+286.5
  21
-104.9379665729368
+212.5
  31
 0.0
   0
@@ -16071,19 +16071,19 @@ LINE
 100
 AcDbEntity
   8
-underprop v2 v1_Sketch7
+underprop v2 v2_Sketch7
 100
 AcDbLine
  10
-999.6277994376207
+283.5
  20
-104.9379665729368
+212.5
  30
 0.0
  11
-999.6277994376207
+283.5
  21
-84.93796657293678
+187.9999999999999
  31
 0.0
   0
