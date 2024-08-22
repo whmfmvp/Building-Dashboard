@@ -14,10 +14,10 @@ const char* ssid = "YOUR_WIFI";
 const char* password = "YOUR_PASSWORD";
 
 // MQTT broker parameters
-const char* mqtt_server = "mqtt.cetools.org";
+const char* mqtt_server = "YOUR_MQTT";
 const int mqtt_port = 1884;
-const char* mqtt_username = "student";
-const char* mqtt_password = "ce2021-mqtt-forget-whale";
+const char* mqtt_username = "-";
+const char* mqtt_password = "-";
 const char* mqtt_topic_base_electricity = "student/CASA0022/zczqhw8/Electricity/";
 const char* mqtt_topic_base_carbon = "student/CASA0022/zczqhw8/Carbon_Emissions/";
 const char* mqtt_topic_servo = "student/CASA0022/zczqhw8/Net_zero_ratio"; 
