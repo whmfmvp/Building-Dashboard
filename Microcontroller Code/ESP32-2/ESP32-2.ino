@@ -15,12 +15,12 @@
 MD_MAX72XX mx1(HARDWARE_TYPE, DATA_PIN, CLK_PIN, CS_PIN1, 1);
 MD_MAX72XX mx2(HARDWARE_TYPE, DATA_PIN, CLK_PIN, CS_PIN2, 1);
 
-const char* ssid = "UCL_IoT";
-const char* password = "zHGVPbfd5g";
-const char* mqtt_server = "mqtt.cetools.org";
+const char* ssid = "YOUR_WIFI";
+const char* password = "YOUR_PASSWORD";
+const char* mqtt_server = "YOUR_MQTT_SERVER";
 const int mqtt_port = 1884;
-const char* mqtt_username = "student";
-const char* mqtt_password = "ce2021-mqtt-forget-whale";
+const char* mqtt_username = "-";
+const char* mqtt_password = "-";
 const char* mqtt_topic_base = "student/CASA0022/zczqhw8/Dot_matrix";
 
 WiFiClient espClient;
