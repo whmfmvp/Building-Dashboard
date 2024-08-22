@@ -10,8 +10,8 @@
 #include <WiFiUdp.h>
 
 // Wi-Fi credentials
-const char* ssid = "UCL_IoT";
-const char* password = "Fyb6i5cPKn";
+const char* ssid = "YOUR_WIFI";
+const char* password = "YOUR_PASSWORD";
 
 // MQTT broker parameters
 const char* mqtt_server = "mqtt.cetools.org";
