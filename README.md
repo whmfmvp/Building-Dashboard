@@ -42,6 +42,9 @@ A survey of 32 users who interacted with the dashboard revealed that the device 
 
 <h2>Future Work</h2>  
 Future iterations of the "Move to Net Zero" dashboard will focus on:  
+
 1. Enriching Energy Information: Providing more comprehensive data about the building's energy use.  
+
 2. Improving User Experience: Simplifying the dashboard's interface to make it more user-friendly and accessible.  
+   
 3. Add ultrasonic sensors: Counting users more precisely and collect avarage usage time for further research.  
