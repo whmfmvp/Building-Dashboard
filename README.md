@@ -1,4 +1,3 @@
-# "Move to net zero" Building Dashboard  
 <h1>Move to Net Zero: A Physical Dashboard for Net Zero Carbon Buildings</h1>  
 <div align="center">
 <img src="/Images/Dashboard.jpg" alt="Dashboard Image" width="500">
